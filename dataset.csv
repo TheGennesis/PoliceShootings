@@ -1,0 +1,2205 @@
+armed,age,gender,is_black,city,signs_of_mental_illness,threat,flee,body_camera,population,percent_completed_hs,poverty_rate,median_income,share_black,share_not_black
+Yes,53,M,No,"Shelton, WA",Yes,Yes,No,No,9945,80.1,28.6,37072,0.8,99.2
+No,23,M,No,"Wichita, KS",No,Yes,No,No,390069,87.5,17.3,45947,11.5,88.5
+Yes,26,M,No,"Wichita, KS",No,Yes,Yes,No,390069,87.5,17.3,45947,11.5,88.5
+Yes,18,M,No,"Wichita, KS",No,Yes,Yes,Yes,390069,87.5,17.3,45947,11.5,88.5
+Yes,25,M,No,"Wichita, KS",No,Yes,No,No,390069,87.5,17.3,45947,11.5,88.5
+Yes,32,M,No,"San Francisco, CA",Yes,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,21,M,No,"San Francisco, CA",No,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,24,F,No,"San Francisco, CA",Yes,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,27,M,No,"San Francisco, CA",No,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,25,M,No,"San Francisco, CA",No,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,26,M,Yes,"San Francisco, CA",No,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,45,M,No,"San Francisco, CA",No,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+No,29,F,Yes,"San Francisco, CA",No,No,Yes,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,26,M,No,"San Francisco, CA",Yes,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,26,M,No,"San Francisco, CA",No,Yes,No,Yes,870854,87.0,13.2,81294,6.1,93.9
+Yes,59,M,No,"San Francisco, CA",No,Yes,No,No,870854,87.0,13.2,81294,6.1,93.9
+Yes,39,M,No,"Evans, CO",No,Yes,No,No,20162,76.3,16.6,47791,0.9,99.1
+Yes,37,M,No,"Evans, CO",No,Yes,Yes,Yes,20162,76.3,16.6,47791,0.9,99.1
+Yes,18,M,No,"Guthrie, OK",No,Yes,No,No,11235,89.7,18.6,41267,13.4,86.6
+Yes,22,M,No,"Chandler, AZ",No,Yes,Yes,No,248374,91.5,10.0,72695,4.8,95.2
+Yes,24,M,No,"Chandler, AZ",Yes,Yes,No,No,248374,91.5,10.0,72695,4.8,95.2
+Yes,35,M,No,"Assaria, KS",No,Yes,No,No,406,95.9,8.2,51250,0.0,100.0
+No,34,F,No,"Burlington, IA",No,Yes,No,Yes,25123,89.7,19.6,39586,7.2,92.8
+Yes,25,M,No,"Stockton, CA",No,Yes,No,No,307284,74.9,25.3,44797,12.2,87.8
+Yes,35,M,No,"Stockton, CA",Yes,Yes,No,No,307284,74.9,25.3,44797,12.2,87.8
+Yes,28,M,No,"Stockton, CA",No,Yes,No,No,307284,74.9,25.3,44797,12.2,87.8
+Yes,28,M,No,"Stockton, CA",No,Yes,Yes,No,307284,74.9,25.3,44797,12.2,87.8
+No,35,M,Yes,"Stockton, CA",No,Yes,No,No,307284,74.9,25.3,44797,12.2,87.8
+Yes,30,M,Yes,"Stockton, CA",No,Yes,Yes,Yes,307284,74.9,25.3,44797,12.2,87.8
+Yes,36,M,No,"Stockton, CA",No,No,No,No,307284,74.9,25.3,44797,12.2,87.8
+Yes,31,M,Yes,"Freeport, TX",No,Yes,No,No,12113,66.3,26.5,32060,12.2,87.8
+Yes,41,M,Yes,"Columbus, OH",Yes,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,33,M,Yes,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,42,M,No,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,25,M,Yes,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,36,M,Yes,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,50,M,No,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,23,M,Yes,"Columbus, OH",No,Yes,Yes,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,30,M,Yes,"Columbus, OH",No,Yes,Yes,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,23,M,Yes,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,25,M,Yes,"Columbus, OH",No,No,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,13,M,Yes,"Columbus, OH",No,Yes,Yes,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,20,M,Yes,"Columbus, OH",No,Yes,Yes,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,18,M,No,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,53,M,No,"Columbus, OH",Yes,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,38,M,No,"Columbus, OH",No,Yes,No,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,32,M,No,"Columbus, OH",No,Yes,Yes,No,867846,88.5,21.7,45659,28.0,72.0
+Yes,30,M,No,"Columbus, OH",No,No,No,Yes,867846,88.5,21.7,45659,28.0,72.0
+Yes,30,M,No,"Des Moines, IA",No,Yes,Yes,No,216071,87.3,20.0,46290,10.2,89.8
+No,28,M,No,"Des Moines, IA",No,Yes,Yes,No,216071,87.3,20.0,46290,10.2,89.8
+Yes,29,F,No,"Des Moines, IA",No,Yes,Yes,Yes,216071,87.3,20.0,46290,10.2,89.8
+Yes,37,M,Yes,"New Orleans, LA",No,Yes,Yes,Yes,391026,85.2,27.0,36792,60.2,39.8
+Yes,63,M,Yes,"New Orleans, LA",Yes,Yes,No,No,391026,85.2,27.0,36792,60.2,39.8
+Yes,21,M,Yes,"New Orleans, LA",No,Yes,No,Yes,391026,85.2,27.0,36792,60.2,39.8
+Yes,60,M,No,"New Orleans, LA",Yes,Yes,Yes,No,391026,85.2,27.0,36792,60.2,39.8
+Yes,33,M,Yes,"New Orleans, LA",No,Yes,No,Yes,391026,85.2,27.0,36792,60.2,39.8
+Yes,22,M,Yes,"New Orleans, LA",No,Yes,Yes,No,391026,85.2,27.0,36792,60.2,39.8
+Yes,26,M,Yes,"New Orleans, LA",No,Yes,Yes,Yes,391026,85.2,27.0,36792,60.2,39.8
+Yes,42,M,No,"Salt Lake, UT",No,Yes,No,Yes,195925,87.4,20.3,47243,2.7,97.3
+Yes,48,M,No,"Salt Lake, UT",No,Yes,No,No,195925,87.4,20.3,47243,2.7,97.3
+Yes,31,M,No,"Salt Lake, UT",No,Yes,Yes,Yes,195925,87.4,20.3,47243,2.7,97.3
+Yes,18,M,No,"Salt Lake, UT",No,Yes,Yes,No,195925,87.4,20.3,47243,2.7,97.3
+No,36,M,Yes,"Strong, AR",No,Yes,No,No,523,74.4,23.0,19931,60.8,39.2
+Yes,49,M,No,"Syracuse, UT",No,Yes,No,Yes,28300,97.5,3.0,86869,0.8,99.2
+Yes,71,M,No,"England, AR",No,Yes,No,No,2755,82.3,29.9,31577,33.6,66.4
+Yes,33,M,No,"El Paso, TX",No,Yes,No,No,679180,78.0,20.9,42772,3.4,96.6
+Yes,22,M,No,"El Paso, TX",No,Yes,No,No,679180,78.0,20.9,42772,3.4,96.6
+Yes,22,M,No,"El Paso, TX",Yes,No,No,No,679180,78.0,20.9,42772,3.4,96.6
+Yes,22,M,Yes,"El Paso, TX",No,Yes,Yes,No,679180,78.0,20.9,42772,3.4,96.6
+Yes,43,M,No,"El Paso, TX",No,Yes,No,No,679180,78.0,20.9,42772,3.4,96.6
+No,22,M,No,"El Paso, TX",Yes,Yes,No,No,679180,78.0,20.9,42772,3.4,96.6
+Yes,33,M,Yes,"El Paso, TX",No,Yes,No,No,679180,78.0,20.9,42772,3.4,96.6
+Yes,39,M,No,"Arcola, IL",Yes,Yes,No,No,2875,82.6,14.8,49303,0.3,99.7
+Yes,23,M,No,"South Gate, CA",No,Yes,No,No,95230,52.4,20.0,43552,0.9,99.1
+Yes,41,M,No,"South Gate, CA",No,Yes,Yes,No,95230,52.4,20.0,43552,0.9,99.1
+Yes,36,M,No,"South Gate, CA",No,Yes,Yes,No,95230,52.4,20.0,43552,0.9,99.1
+Yes,29,M,No,"North Las Vegas, NV",No,Yes,Yes,No,236518,78.2,16.6,52511,19.9,80.1
+Yes,25,M,Yes,"North Las Vegas, NV",No,Yes,Yes,No,236518,78.2,16.6,52511,19.9,80.1
+Yes,26,M,No,"North Las Vegas, NV",No,Yes,No,No,236518,78.2,16.6,52511,19.9,80.1
+Yes,34,M,No,"Albuquerque, NM",No,Yes,Yes,Yes,558934,89.0,19.2,47030,3.3,96.7
+Yes,44,M,No,"Albuquerque, NM",No,Yes,No,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,33,M,No,"Albuquerque, NM",No,Yes,No,Yes,558934,89.0,19.2,47030,3.3,96.7
+Yes,31,M,No,"Albuquerque, NM",No,Yes,Yes,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,19,M,No,"Albuquerque, NM",No,No,Yes,Yes,558934,89.0,19.2,47030,3.3,96.7
+Yes,21,M,No,"Albuquerque, NM",Yes,Yes,Yes,Yes,558934,89.0,19.2,47030,3.3,96.7
+Yes,23,M,No,"Albuquerque, NM",No,Yes,Yes,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,24,F,No,"Albuquerque, NM",Yes,Yes,Yes,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,31,M,No,"Albuquerque, NM",No,Yes,No,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,58,M,No,"Albuquerque, NM",No,Yes,No,Yes,558934,89.0,19.2,47030,3.3,96.7
+Yes,21,M,No,"Albuquerque, NM",No,Yes,Yes,No,558934,89.0,19.2,47030,3.3,96.7
+No,38,M,No,"Albuquerque, NM",No,Yes,No,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,28,M,No,"Albuquerque, NM",No,No,Yes,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,36,M,No,"Albuquerque, NM",No,Yes,Yes,No,558934,89.0,19.2,47030,3.3,96.7
+Yes,43,M,No,"Jourdanton, TX",Yes,Yes,No,No,4242,75.8,10.7,54375,0.5,99.5
+Yes,24,M,Yes,"St. Paul, MN",No,Yes,No,No,302592,86.5,22.3,48757,15.7,84.3
+Yes,28,M,No,"St. Paul, MN",Yes,Yes,No,No,302592,86.5,22.3,48757,15.7,84.3
+Yes,30,M,No,"St. Paul, MN",Yes,Yes,No,No,302592,86.5,22.3,48757,15.7,84.3
+Yes,33,M,Yes,"St. Paul, MN",No,Yes,No,No,302592,86.5,22.3,48757,15.7,84.3
+Yes,29,M,No,"St. Paul, MN",No,Yes,No,No,302592,86.5,22.3,48757,15.7,84.3
+Yes,29,M,Yes,"St. Paul, MN",No,Yes,No,No,302592,86.5,22.3,48757,15.7,84.3
+Yes,34,M,Yes,"Chesapeake, VA",Yes,Yes,No,No,237573,91.1,9.7,68620,29.8,70.2
+Yes,26,M,Yes,"Chesapeake, VA",Yes,Yes,No,Yes,237573,91.1,9.7,68620,29.8,70.2
+Yes,68,M,No,"Lake Jackson, TX",No,Yes,No,No,27291,92.9,8.3,73399,5.1,94.9
+Yes,33,F,No,"Lake Jackson, TX",No,Yes,Yes,No,27291,92.9,8.3,73399,5.1,94.9
+Yes,34,M,No,"Draper, UT",No,Yes,No,Yes,47163,96.8,4.9,95804,1.4,98.6
+Yes,39,M,Yes,"Aurora, CO",No,Yes,No,No,363650,86.5,15.3,53011,15.7,84.3
+No,37,M,Yes,"Aurora, CO",No,No,Yes,No,363650,86.5,15.3,53011,15.7,84.3
+Yes,25,M,No,"Aurora, CO",No,Yes,Yes,No,363650,86.5,15.3,53011,15.7,84.3
+Yes,36,M,No,"Aurora, CO",No,Yes,No,No,363650,86.5,15.3,53011,15.7,84.3
+Yes,25,M,Yes,"Aurora, CO",No,Yes,No,No,363650,86.5,15.3,53011,15.7,84.3
+Yes,35,M,No,"Aurora, CO",No,Yes,Yes,No,363650,86.5,15.3,53011,15.7,84.3
+Yes,24,M,No,"Bloomington, MN",Yes,Yes,No,No,85412,93.1,8.9,64540,7.2,92.8
+Yes,36,M,No,"Fairfield, CA",Yes,Yes,No,No,114213,85.6,13.2,67364,15.7,84.3
+Yes,41,M,No,"Mabank, TX",No,Yes,Yes,No,3344,81.6,24.2,33764,4.0,96.0
+Yes,48,M,No,"Fremont, CA",No,Yes,No,No,233236,92.3,6.1,105355,3.3,96.7
+Yes,54,M,No,"Fremont, CA",No,Yes,No,No,233236,92.3,6.1,105355,3.3,96.7
+No,45,M,Yes,"Fremont, CA",Yes,Yes,No,No,233236,92.3,6.1,105355,3.3,96.7
+Yes,21,M,Yes,"Muskogee, OK",No,Yes,Yes,Yes,37870,84.5,25.4,34894,16.1,83.9
+Yes,24,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+No,43,M,Yes,"Los Angeles, CA",Yes,Yes,No,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,25,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,39,M,No,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,35,M,No,"Los Angeles, CA",Yes,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,29,M,Yes,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,38,M,No,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,41,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,30,F,Yes,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,29,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,39,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,37,F,No,"Los Angeles, CA",Yes,Yes,No,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,53,M,Yes,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,35,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+No,26,M,No,"Los Angeles, CA",Yes,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,16,M,No,"Los Angeles, CA",No,Yes,Yes,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,29,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,33,M,No,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,28,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,28,M,No,"Los Angeles, CA",No,Yes,No,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,31,M,Yes,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,18,M,Yes,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,14,M,No,"Los Angeles, CA",No,Yes,Yes,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,18,M,Yes,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,18,M,Yes,"Los Angeles, CA",No,No,Yes,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,16,M,No,"Los Angeles, CA",Yes,Yes,No,Yes,3959194,75.5,22.1,50205,9.6,90.4
+Yes,23,M,No,"Los Angeles, CA",No,No,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,33,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+No,20,M,Yes,"Los Angeles, CA",No,No,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,32,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,50,M,No,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,70,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,35,M,No,"Los Angeles, CA",No,Yes,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,28,M,Yes,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,29,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,36,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,36,M,No,"Los Angeles, CA",Yes,Yes,No,Yes,3959194,75.5,22.1,50205,9.6,90.4
+No,29,M,No,"Los Angeles, CA",No,No,Yes,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,46,M,No,"Los Angeles, CA",No,Yes,No,No,3959194,75.5,22.1,50205,9.6,90.4
+Yes,27,M,No,"Fort Worth, TX",No,Yes,No,No,855447,80.8,18.8,53214,18.9,81.1
+Yes,40,M,No,"Fort Worth, TX",No,Yes,No,No,855447,80.8,18.8,53214,18.9,81.1
+Yes,31,M,Yes,"Fort Worth, TX",No,Yes,Yes,No,855447,80.8,18.8,53214,18.9,81.1
+Yes,30,M,Yes,"Fort Worth, TX",No,Yes,Yes,No,855447,80.8,18.8,53214,18.9,81.1
+Yes,30,M,No,"Fort Worth, TX",No,Yes,No,No,855447,80.8,18.8,53214,18.9,81.1
+Yes,53,M,No,"Fort Worth, TX",No,Yes,No,No,855447,80.8,18.8,53214,18.9,81.1
+Yes,43,M,No,"Fort Worth, TX",No,Yes,Yes,Yes,855447,80.8,18.8,53214,18.9,81.1
+Yes,53,M,No,"Fort Worth, TX",Yes,Yes,No,Yes,855447,80.8,18.8,53214,18.9,81.1
+Yes,32,M,No,"Maricopa, AZ",Yes,Yes,No,No,47008,91.7,8.1,65793,9.7,90.3
+Yes,49,M,No,"Weymouth, MA",No,Yes,No,No,56139,93.4,6.9,69123,3.1,96.9
+Yes,42,M,Yes,"Scottsdale, AZ",No,Yes,Yes,No,246807,96.2,9.5,73288,1.7,98.3
+Yes,24,M,No,"Scottsdale, AZ",No,Yes,Yes,Yes,246807,96.2,9.5,73288,1.7,98.3
+Yes,40,M,No,"Scottsdale, AZ",Yes,Yes,Yes,No,246807,96.2,9.5,73288,1.7,98.3
+Yes,36,M,No,"Hemet, CA",No,Yes,No,No,84078,79.5,26.0,33989,6.4,93.6
+Yes,29,M,No,"Hemet, CA",No,Yes,No,No,84078,79.5,26.0,33989,6.4,93.6
+Yes,27,M,No,"Hemet, CA",No,Yes,Yes,No,84078,79.5,26.0,33989,6.4,93.6
+Yes,36,M,No,"Hemet, CA",No,Yes,No,No,84078,79.5,26.0,33989,6.4,93.6
+Yes,34,M,No,"Hemet, CA",No,Yes,No,No,84078,79.5,26.0,33989,6.4,93.6
+Yes,31,M,No,"Hemet, CA",No,Yes,Yes,No,84078,79.5,26.0,33989,6.4,93.6
+Yes,19,M,Yes,"St. Louis, MO",No,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,23,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,18,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,61,F,No,"St. Louis, MO",No,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,52,M,Yes,"St. Louis, MO",No,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,15,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,38,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,19,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,21,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,63,M,Yes,"St. Louis, MO",No,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,50,F,Yes,"St. Louis, MO",No,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,33,M,No,"St. Louis, MO",Yes,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,21,M,No,"St. Louis, MO",No,Yes,No,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,27,M,Yes,"St. Louis, MO",No,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,31,M,No,"St. Louis, MO",Yes,Yes,Yes,No,312292,84.1,27.1,35599,49.2,50.8
+Yes,17,F,No,"Longview, TX",Yes,Yes,No,No,81358,83.5,17.9,44544,22.9,77.1
+Yes,23,M,No,"Longview, TX",No,Yes,No,No,81358,83.5,17.9,44544,22.9,77.1
+Yes,61,M,No,"Austin, TX",Yes,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,27,M,No,"Austin, TX",No,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,31,F,No,"Austin, TX",Yes,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,35,M,No,"Austin, TX",No,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,25,M,No,"Austin, TX",Yes,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,60,M,No,"Austin, TX",No,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+No,17,M,Yes,"Austin, TX",No,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,25,M,No,"Austin, TX",No,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,29,M,No,"Austin, TX",Yes,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,35,M,No,"Austin, TX",No,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,34,M,No,"Austin, TX",No,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,26,F,No,"Austin, TX",Yes,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,47,M,No,"Austin, TX",No,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,30,F,Yes,"Austin, TX",Yes,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,20,M,No,"Austin, TX",Yes,Yes,No,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,24,M,Yes,"Austin, TX",No,Yes,Yes,No,937371,87.5,18.0,57689,8.1,91.9
+Yes,29,M,Yes,"Fort Lauderdale, FL",No,Yes,No,No,178690,85.9,20.7,50778,31.0,69.0
+Yes,56,M,No,"Levelland, TX",No,Yes,No,No,13658,77.9,15.4,48802,5.1,94.9
+Yes,45,M,No,"Rexburg, ID",No,Yes,No,No,27995,97.8,46.1,25372,0.6,99.4
+Yes,26,M,Yes,"Baltimore, MD",Yes,Yes,No,No,616410,82.5,23.7,42241,63.7,36.3
+Yes,32,M,Yes,"Baltimore, MD",No,Yes,No,No,616410,82.5,23.7,42241,63.7,36.3
+Yes,18,M,Yes,"Baltimore, MD",No,Yes,No,No,616410,82.5,23.7,42241,63.7,36.3
+Yes,43,M,Yes,"Baltimore, MD",No,Yes,No,No,616410,82.5,23.7,42241,63.7,36.3
+Yes,33,M,Yes,"Baltimore, MD",No,Yes,No,No,616410,82.5,23.7,42241,63.7,36.3
+Yes,18,M,Yes,"Baltimore, MD",No,Yes,No,No,616410,82.5,23.7,42241,63.7,36.3
+Yes,18,M,Yes,"Baltimore, MD",No,Yes,Yes,Yes,616410,82.5,23.7,42241,63.7,36.3
+Yes,39,M,Yes,"Baltimore, MD",Yes,Yes,No,Yes,616410,82.5,23.7,42241,63.7,36.3
+Yes,26,M,No,"Pueblo, CO",No,Yes,Yes,No,110044,85.3,25.0,34550,2.5,97.5
+Yes,48,M,No,"Pueblo, CO",No,Yes,No,Yes,110044,85.3,25.0,34550,2.5,97.5
+Yes,32,M,No,"Pueblo, CO",No,Yes,Yes,No,110044,85.3,25.0,34550,2.5,97.5
+Yes,33,M,No,"Pueblo, CO",No,Yes,No,Yes,110044,85.3,25.0,34550,2.5,97.5
+Yes,17,F,No,"Denver, CO",No,Yes,No,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,35,M,No,"Denver, CO",Yes,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,28,M,No,"Denver, CO",No,Yes,No,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,35,M,No,"Denver, CO",No,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,32,M,No,"Denver, CO",No,Yes,No,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,33,M,No,"Denver, CO",No,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+No,40,M,No,"Denver, CO",No,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,49,M,No,"Denver, CO",No,Yes,No,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,21,M,No,"Denver, CO",No,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,23,M,No,"Denver, CO",No,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,36,F,No,"Denver, CO",No,Yes,Yes,No,694802,86.1,17.3,53637,10.2,89.8
+Yes,68,M,No,"New Hope, MN",Yes,Yes,No,No,20925,89.7,12.0,50165,14.7,85.3
+No,24,M,No,"Tahoka, TX",No,Yes,Yes,No,2587,84.6,18.3,39313,3.9,96.1
+Yes,34,M,No,"Wasco, CA",Yes,Yes,No,No,26446,51.1,32.7,39580,7.6,92.4
+Yes,26,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,29,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,51,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,43,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,68,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,46,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,45,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,41,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,39,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,36,F,No,"Phoenix, AZ",Yes,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,26,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,27,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,43,M,No,"Phoenix, AZ",No,Yes,No,Yes,1609816,80.7,23.1,47326,6.5,93.5
+Yes,20,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,36,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,38,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,22,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,26,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+No,31,M,No,"Phoenix, AZ",No,No,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,25,M,No,"Phoenix, AZ",Yes,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,32,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,26,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,31,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+No,38,M,Yes,"Phoenix, AZ",No,Yes,Yes,Yes,1609816,80.7,23.1,47326,6.5,93.5
+Yes,27,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,25,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,24,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,27,F,Yes,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,34,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,47,M,No,"Phoenix, AZ",No,Yes,No,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,35,M,No,"Phoenix, AZ",No,Yes,Yes,No,1609816,80.7,23.1,47326,6.5,93.5
+Yes,39,F,No,"Omaha, NE",Yes,Yes,No,No,474651,88.0,16.7,49896,13.7,86.3
+No,39,M,No,"Omaha, NE",No,Yes,No,No,474651,88.0,16.7,49896,13.7,86.3
+Yes,26,M,Yes,"Omaha, NE",No,Yes,No,No,474651,88.0,16.7,49896,13.7,86.3
+Yes,32,M,No,"Omaha, NE",No,Yes,No,No,474651,88.0,16.7,49896,13.7,86.3
+Yes,33,M,No,"Omaha, NE",Yes,Yes,Yes,No,474651,88.0,16.7,49896,13.7,86.3
+Yes,44,M,No,"Omaha, NE",No,Yes,No,No,474651,88.0,16.7,49896,13.7,86.3
+Yes,31,M,Yes,"Omaha, NE",No,Yes,Yes,Yes,474651,88.0,16.7,49896,13.7,86.3
+Yes,25,M,No,"Omaha, NE",No,Yes,Yes,No,474651,88.0,16.7,49896,13.7,86.3
+Yes,26,M,No,"Rosenberg, TX",No,Yes,No,No,36389,74.6,20.7,44916,13.4,86.6
+No,42,M,No,"Stillwater, OK",No,Yes,Yes,No,49648,95.2,33.0,30799,4.7,95.3
+Yes,31,M,No,"Wyoming, MI",Yes,Yes,No,No,75680,84.0,14.9,46849,7.2,92.8
+Yes,25,M,Yes,"Wyoming, MI",No,Yes,No,No,75680,84.0,14.9,46849,7.2,92.8
+Yes,48,M,No,"Billings, MT",No,Yes,Yes,No,109672,92.8,12.8,51012,0.8,99.2
+Yes,42,M,No,"Billings, MT",No,Yes,No,No,109672,92.8,12.8,51012,0.8,99.2
+Yes,32,M,No,"Billings, MT",Yes,Yes,No,No,109672,92.8,12.8,51012,0.8,99.2
+Yes,30,M,No,"Billings, MT",Yes,Yes,No,No,109672,92.8,12.8,51012,0.8,99.2
+Yes,31,M,No,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,36,M,No,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,35,M,No,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+No,41,M,Yes,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,49,M,No,"Houston, TX",Yes,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,18,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,63,M,No,"Houston, TX",Yes,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,35,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,20,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,25,M,Yes,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,57,M,Yes,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,39,M,No,"Houston, TX",Yes,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+No,37,M,Yes,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,20,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,29,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,30,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,24,M,Yes,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,25,M,No,"Houston, TX",Yes,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,38,M,Yes,"Houston, TX",No,Yes,No,Yes,2304401,76.7,22.5,46187,23.7,76.3
+Yes,46,M,No,"Houston, TX",No,Yes,No,Yes,2304401,76.7,22.5,46187,23.7,76.3
+Yes,37,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,23,M,No,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,25,M,Yes,"Houston, TX",No,Yes,No,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,32,M,No,"Houston, TX",No,Yes,Yes,No,2304401,76.7,22.5,46187,23.7,76.3
+Yes,39,M,No,"Houston, TX",No,Yes,Yes,Yes,2304401,76.7,22.5,46187,23.7,76.3
+Yes,16,M,Yes,"Houston, TX",No,Yes,Yes,Yes,2304401,76.7,22.5,46187,23.7,76.3
+Yes,17,M,No,"Bay, MI",No,Yes,No,No,33393,86.7,22.2,34743,3.5,96.5
+Yes,42,M,No,"Apple Valley, CA",Yes,Yes,No,No,72293,86.0,20.6,47938,9.1,90.9
+Yes,38,F,Yes,"Emeryville, CA",No,Yes,Yes,No,11769,96.9,11.9,77806,17.5,82.5
+Yes,29,M,Yes,"Antioch, CA",Yes,Yes,No,No,110963,86.9,15.4,64329,17.3,82.7
+Yes,37,M,No,"Antioch, CA",No,Yes,Yes,No,110963,86.9,15.4,64329,17.3,82.7
+Yes,45,M,No,"Douglas, GA",Yes,Yes,No,No,11510,78.0,25.8,31465,52.0,48.0
+No,28,M,Yes,"Tallahassee, FL",No,Yes,No,No,189723,92.5,29.7,39681,35.0,65.0
+Yes,64,M,No,"Tallahassee, FL",No,Yes,No,No,189723,92.5,29.7,39681,35.0,65.0
+Yes,37,M,No,"Orlando, FL",No,Yes,No,No,277034,89.5,20.2,42318,28.1,71.9
+No,23,M,Yes,"Orlando, FL",No,Yes,Yes,No,277034,89.5,20.2,42318,28.1,71.9
+Yes,28,M,No,"Orlando, FL",No,Yes,No,No,277034,89.5,20.2,42318,28.1,71.9
+Yes,25,M,Yes,"Orlando, FL",No,Yes,No,No,277034,89.5,20.2,42318,28.1,71.9
+Yes,26,F,Yes,"Orlando, FL",No,Yes,No,No,277034,89.5,20.2,42318,28.1,71.9
+Yes,29,M,No,"Orlando, FL",Yes,Yes,No,Yes,277034,89.5,20.2,42318,28.1,71.9
+Yes,43,M,No,"Orlando, FL",Yes,Yes,No,No,277034,89.5,20.2,42318,28.1,71.9
+Yes,20,M,Yes,"Orlando, FL",No,Yes,Yes,No,277034,89.5,20.2,42318,28.1,71.9
+No,37,M,No,"Orlando, FL",No,Yes,No,No,277034,89.5,20.2,42318,28.1,71.9
+Yes,28,M,No,"Tempe, AZ",No,Yes,Yes,No,183261,91.7,21.6,49012,5.9,94.1
+No,28,M,No,"Tempe, AZ",No,Yes,No,No,183261,91.7,21.6,49012,5.9,94.1
+Yes,25,M,No,"Tempe, AZ",No,Yes,No,No,183261,91.7,21.6,49012,5.9,94.1
+Yes,34,M,No,"Tempe, AZ",Yes,Yes,No,Yes,183261,91.7,21.6,49012,5.9,94.1
+No,19,M,Yes,"Tempe, AZ",Yes,Yes,Yes,No,183261,91.7,21.6,49012,5.9,94.1
+Yes,25,M,No,"Tempe, AZ",No,Yes,No,No,183261,91.7,21.6,49012,5.9,94.1
+Yes,51,M,Yes,"Lorena, TX",No,Yes,Yes,No,1740,88.9,12.8,53125,0.9,99.1
+Yes,36,M,Yes,"Memphis, TN",No,Yes,No,No,652511,83.7,27.6,36445,63.3,36.7
+Yes,31,M,No,"Memphis, TN",Yes,Yes,No,No,652511,83.7,27.6,36445,63.3,36.7
+No,19,M,Yes,"Memphis, TN",No,Yes,Yes,No,652511,83.7,27.6,36445,63.3,36.7
+Yes,32,M,Yes,"Memphis, TN",No,Yes,Yes,Yes,652511,83.7,27.6,36445,63.3,36.7
+Yes,32,M,No,"Memphis, TN",No,Yes,No,No,652511,83.7,27.6,36445,63.3,36.7
+Yes,59,M,No,"Chino, CA",No,Yes,Yes,No,87413,77.7,11.6,72872,6.2,93.8
+Yes,31,M,Yes,"Chino, CA",No,Yes,Yes,No,87413,77.7,11.6,72872,6.2,93.8
+Yes,25,M,Yes,"Oklahoma, OK",No,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,27,M,Yes,"Oklahoma, OK",No,Yes,Yes,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,40,M,No,"Oklahoma, OK",No,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,83,M,No,"Oklahoma, OK",Yes,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,42,M,Yes,"Oklahoma, OK",No,Yes,Yes,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,20,M,No,"Oklahoma, OK",No,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,26,M,Yes,"Oklahoma, OK",No,Yes,Yes,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,22,M,Yes,"Oklahoma, OK",No,Yes,Yes,Yes,638306,85.0,18.3,47779,15.1,84.9
+Yes,43,M,No,"Oklahoma, OK",Yes,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,42,M,No,"Oklahoma, OK",Yes,Yes,Yes,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,21,M,No,"Oklahoma, OK",No,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,38,M,No,"Oklahoma, OK",No,Yes,Yes,Yes,638306,85.0,18.3,47779,15.1,84.9
+Yes,24,M,Yes,"Oklahoma, OK",No,Yes,No,Yes,638306,85.0,18.3,47779,15.1,84.9
+Yes,33,M,No,"Oklahoma, OK",No,Yes,No,No,638306,85.0,18.3,47779,15.1,84.9
+Yes,26,M,No,"Calimesa, CA",No,Yes,No,No,8640,88.3,14.8,46025,1.1,98.9
+Yes,74,M,Yes,"Gastonia, NC",No,Yes,No,No,75093,83.2,20.8,40432,27.8,72.2
+Yes,52,M,No,"Gastonia, NC",Yes,Yes,No,No,75093,83.2,20.8,40432,27.8,72.2
+Yes,59,M,No,"Gastonia, NC",No,Yes,No,No,75093,83.2,20.8,40432,27.8,72.2
+Yes,41,M,No,"Nocona, TX",No,Yes,No,No,2946,72.1,31.7,34028,0.5,99.5
+Yes,45,M,Yes,"Dallas, TX",No,Yes,No,No,1322575,74.5,24.0,43781,25.0,75.0
+Yes,59,M,No,"Dallas, TX",No,Yes,No,No,1322575,74.5,24.0,43781,25.0,75.0
+Yes,42,M,Yes,"Dallas, TX",No,Yes,No,No,1322575,74.5,24.0,43781,25.0,75.0
+Yes,24,M,No,"Dallas, TX",Yes,Yes,No,No,1322575,74.5,24.0,43781,25.0,75.0
+Yes,36,M,No,"Dallas, TX",No,Yes,Yes,No,1322575,74.5,24.0,43781,25.0,75.0
+Yes,24,M,No,"Dallas, TX",No,Yes,No,No,1322575,74.5,24.0,43781,25.0,75.0
+No,37,M,No,"Dallas, TX",No,No,No,No,1322575,74.5,24.0,43781,25.0,75.0
+Yes,21,F,No,"Dallas, TX",No,Yes,Yes,Yes,1322575,74.5,24.0,43781,25.0,75.0
+Yes,28,M,No,"Dallas, TX",No,Yes,No,No,1322575,74.5,24.0,43781,25.0,75.0
+No,35,M,No,"Pasco, WA",Yes,Yes,Yes,No,71551,71.9,18.8,55319,1.9,98.1
+Yes,45,M,No,"New Castle, CO",Yes,Yes,Yes,No,4726,89.2,12.1,66818,0.7,99.3
+Yes,23,M,Yes,"San Jose, CA",Yes,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,57,M,No,"San Jose, CA",Yes,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,22,M,No,"San Jose, CA",No,Yes,Yes,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,29,M,No,"San Jose, CA",No,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+No,40,M,No,"San Jose, CA",No,Yes,Yes,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,45,M,No,"San Jose, CA",No,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,45,M,No,"San Jose, CA",No,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,18,M,No,"San Jose, CA",Yes,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,36,M,No,"San Jose, CA",Yes,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,24,M,No,"San Jose, CA",Yes,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,35,M,No,"San Jose, CA",Yes,Yes,No,No,1029519,82.7,11.3,84647,3.2,96.8
+Yes,46,M,No,"Dadeville, AL",Yes,Yes,Yes,Yes,3114,73.7,28.8,29368,47.5,52.5
+Yes,23,M,No,"San Bernardino, CA",No,Yes,Yes,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,32,M,No,"San Bernardino, CA",No,No,Yes,No,216088,68.2,33.4,37047,15.0,85.0
+No,34,M,No,"San Bernardino, CA",No,No,Yes,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,27,F,No,"San Bernardino, CA",No,Yes,Yes,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,28,M,No,"San Bernardino, CA",No,Yes,Yes,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,49,M,No,"San Bernardino, CA",No,Yes,No,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,26,M,No,"San Bernardino, CA",No,Yes,Yes,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,24,M,No,"San Bernardino, CA",Yes,Yes,No,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,56,M,No,"San Bernardino, CA",No,Yes,No,No,216088,68.2,33.4,37047,15.0,85.0
+Yes,21,M,No,"Kansas, KS",No,Yes,Yes,No,152242,77.8,24.9,38749,26.8,73.2
+Yes,30,M,No,"Kansas, KS",No,Yes,Yes,No,152242,77.8,24.9,38749,26.8,73.2
+No,35,M,No,"Reading, PA",No,Yes,No,No,88103,65.1,39.6,26784,13.2,86.8
+Yes,62,M,No,"Reading, PA",No,Yes,No,No,88103,65.1,39.6,26784,13.2,86.8
+Yes,27,M,No,"McLemoresville, TN",No,Yes,No,No,331,85.3,26.8,41250,9.4,90.6
+Yes,51,M,No,"Laredo, TX",No,Yes,No,No,257486,66.3,30.8,39711,0.5,99.5
+Yes,30,M,No,"Laredo, TX",No,Yes,No,No,257486,66.3,30.8,39711,0.5,99.5
+Yes,55,M,No,"Laredo, TX",No,Yes,No,No,257486,66.3,30.8,39711,0.5,99.5
+No,25,M,Yes,"Miami Gardens, FL",Yes,Yes,No,No,111888,80.3,23.1,38253,76.3,23.700000000000003
+Yes,24,M,Yes,"Miami Gardens, FL",No,Yes,Yes,No,111888,80.3,23.1,38253,76.3,23.700000000000003
+Yes,34,M,No,"Iuka, MS",No,Yes,Yes,No,2966,68.8,20.9,31684,6.4,93.6
+Yes,45,M,No,"Iuka, MS",Yes,Yes,No,No,2966,68.8,20.9,31684,6.4,93.6
+Yes,56,M,No,"Marana, AZ",No,Yes,No,No,43466,94.1,5.8,74438,2.5,97.5
+Yes,26,M,No,"Boise, ID",No,Yes,No,No,224367,94.3,14.3,50323,1.5,98.5
+Yes,53,M,No,"Boise, ID",Yes,Yes,No,Yes,224367,94.3,14.3,50323,1.5,98.5
+Yes,50,M,No,"Boise, ID",No,Yes,Yes,Yes,224367,94.3,14.3,50323,1.5,98.5
+Yes,36,M,No,"Boise, ID",No,Yes,Yes,No,224367,94.3,14.3,50323,1.5,98.5
+Yes,42,M,No,"Boise, ID",No,Yes,No,No,224367,94.3,14.3,50323,1.5,98.5
+Yes,24,M,No,"Provo, UT",Yes,Yes,No,No,116269,90.5,28.8,41291,0.7,99.3
+No,31,M,No,"Springfield, MO",No,Yes,Yes,No,166597,88.3,25.7,33557,4.1,95.9
+Yes,30,M,No,"Springfield, MO",No,Yes,Yes,No,166597,88.3,25.7,33557,4.1,95.9
+Yes,23,M,No,"Springfield, MO",No,Yes,No,No,166597,88.3,25.7,33557,4.1,95.9
+Yes,44,M,Yes,"Springfield, MO",Yes,Yes,Yes,No,166597,88.3,25.7,33557,4.1,95.9
+Yes,50,M,No,"Del Rio, TX",No,Yes,No,No,35892,66.2,21.4,41001,1.5,98.5
+No,20,F,Yes,"Charlotte, NC",Yes,Yes,No,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,18,M,Yes,"Charlotte, NC",No,Yes,No,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,30,M,Yes,"Charlotte, NC",No,Yes,No,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,33,M,Yes,"Charlotte, NC",No,Yes,No,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,41,M,No,"Charlotte, NC",Yes,Yes,No,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,18,M,Yes,"Charlotte, NC",No,Yes,No,Yes,842929,88.4,16.8,53637,35.0,65.0
+No,29,M,No,"Charlotte, NC",No,Yes,Yes,Yes,842929,88.4,16.8,53637,35.0,65.0
+Yes,43,M,Yes,"Charlotte, NC",No,Yes,No,Yes,842929,88.4,16.8,53637,35.0,65.0
+Yes,18,M,Yes,"Charlotte, NC",No,No,No,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,28,M,No,"Charlotte, NC",No,Yes,Yes,No,842929,88.4,16.8,53637,35.0,65.0
+Yes,25,M,No,"Charlotte, NC",Yes,Yes,No,No,842929,88.4,16.8,53637,35.0,65.0
+No,31,M,No,"Euless, TX",No,Yes,No,No,54765,90.3,12.2,54974,10.7,89.3
+Yes,22,M,No,"Euless, TX",Yes,Yes,No,No,54765,90.3,12.2,54974,10.7,89.3
+Yes,38,M,Yes,"Homewood, AL",No,Yes,No,No,25599,93.5,12.7,61626,17.3,82.7
+Yes,40,F,No,"Homewood, AL",No,Yes,No,No,25599,93.5,12.7,61626,17.3,82.7
+Yes,77,M,Yes,"Birmingham, AL",Yes,Yes,No,No,211923,85.1,30.9,31061,73.4,26.599999999999994
+Yes,34,M,No,"Birmingham, AL",No,Yes,Yes,No,211923,85.1,30.9,31061,73.4,26.599999999999994
+Yes,20,M,Yes,"Birmingham, AL",No,Yes,Yes,No,211923,85.1,30.9,31061,73.4,26.599999999999994
+Yes,41,M,No,"Ruidoso, NM",No,Yes,No,No,7741,92.4,12.1,42098,0.4,99.6
+Yes,27,M,No,"Ruidoso, NM",No,Yes,No,No,7741,92.4,12.1,42098,0.4,99.6
+Yes,29,M,No,"Ruidoso, NM",No,Yes,No,No,7741,92.4,12.1,42098,0.4,99.6
+Yes,50,M,No,"Palm Bay, FL",No,Yes,No,No,110222,87.6,17.6,43163,17.9,82.1
+Yes,39,M,No,"Palm Bay, FL",Yes,Yes,No,No,110222,87.6,17.6,43163,17.9,82.1
+Yes,43,M,Yes,"Palm Bay, FL",Yes,Yes,No,No,110222,87.6,17.6,43163,17.9,82.1
+Yes,42,M,No,"Allentown, PA",No,Yes,Yes,No,120513,77.3,26.5,36930,12.5,87.5
+Yes,43,M,No,"Allentown, PA",No,Yes,Yes,No,120513,77.3,26.5,36930,12.5,87.5
+Yes,47,M,No,"Denham Springs, LA",Yes,Yes,No,No,10039,83.5,17.8,49498,14.9,85.1
+Yes,37,M,No,"Powder Springs, GA",No,Yes,No,No,14897,88.1,18.7,55528,49.9,50.1
+Yes,41,M,No,"Clarkesville, GA",No,Yes,Yes,No,1752,88.2,17.8,38558,4.8,95.2
+Yes,16,M,Yes,"Millbrook, AL",No,Yes,No,No,15576,91.3,11.6,58330,21.6,78.4
+Yes,30,M,No,"Green Bay, WI",Yes,Yes,No,No,104830,86.6,18.2,42826,3.5,96.5
+Yes,43,M,No,"Las Vegas, NV",Yes,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,54,M,No,"Las Vegas, NV",Yes,Yes,No,Yes,626429,83.3,17.5,50202,11.1,88.9
+Yes,36,M,Yes,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,24,M,No,"Las Vegas, NV",Yes,Yes,No,Yes,626429,83.3,17.5,50202,11.1,88.9
+Yes,57,M,No,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,50,F,No,"Las Vegas, NV",Yes,Yes,Yes,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,55,M,No,"Las Vegas, NV",No,Yes,Yes,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,32,M,No,"Las Vegas, NV",Yes,Yes,Yes,Yes,626429,83.3,17.5,50202,11.1,88.9
+Yes,48,F,No,"Las Vegas, NV",Yes,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,45,M,No,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+No,23,M,Yes,"Las Vegas, NV",No,Yes,No,Yes,626429,83.3,17.5,50202,11.1,88.9
+Yes,31,M,Yes,"Las Vegas, NV",No,Yes,Yes,Yes,626429,83.3,17.5,50202,11.1,88.9
+Yes,22,M,No,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+No,30,M,No,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,41,M,No,"Las Vegas, NV",No,Yes,Yes,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,50,M,No,"Las Vegas, NV",No,Yes,Yes,Yes,626429,83.3,17.5,50202,11.1,88.9
+Yes,62,M,No,"Las Vegas, NV",Yes,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,27,M,No,"Las Vegas, NV",Yes,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,36,M,No,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,36,M,No,"Las Vegas, NV",No,Yes,No,No,626429,83.3,17.5,50202,11.1,88.9
+Yes,27,M,No,"Las Vegas, NV",Yes,No,No,Yes,626429,83.3,17.5,50202,11.1,88.9
+No,31,M,No,"Terre Haute, IN",No,Yes,No,No,60698,84.4,27.4,31817,10.9,89.1
+Yes,42,M,No,"Lakeland, FL",No,Yes,Yes,No,105700,87.4,19.2,39706,20.9,79.1
+Yes,32,M,No,"Lakeland, FL",No,Yes,No,No,105700,87.4,19.2,39706,20.9,79.1
+Yes,53,M,No,"Lakeland, FL",No,Yes,No,No,105700,87.4,19.2,39706,20.9,79.1
+No,49,M,No,"Gulfport, MS",No,Yes,No,No,71603,84.5,25.5,36474,36.1,63.9
+Yes,34,F,No,"Sylvester, GA",No,Yes,Yes,No,5928,74.0,28.7,28414,59.6,40.4
+No,27,M,No,"Santa Ana, CA",No,No,No,No,333270,54.8,22.1,52253,1.5,98.5
+Yes,39,M,No,"Santa Ana, CA",No,Yes,No,No,333270,54.8,22.1,52253,1.5,98.5
+No,30,M,No,"Santa Ana, CA",No,No,No,No,333270,54.8,22.1,52253,1.5,98.5
+No,35,M,No,"Santa Ana, CA",No,No,No,No,333270,54.8,22.1,52253,1.5,98.5
+No,32,M,No,"Santa Ana, CA",No,No,No,No,333270,54.8,22.1,52253,1.5,98.5
+No,33,M,No,"Santa Ana, CA",No,No,No,No,333270,54.8,22.1,52253,1.5,98.5
+No,18,M,No,"Santa Ana, CA",No,No,Yes,No,333270,54.8,22.1,52253,1.5,98.5
+Yes,22,M,No,"Santa Ana, CA",No,Yes,No,No,333270,54.8,22.1,52253,1.5,98.5
+Yes,24,M,No,"Pelzer, SC",No,Yes,No,No,1355,94.7,29.3,38750,2.2,97.8
+Yes,28,F,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,29,M,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,40,M,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+No,36,M,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,33,M,No,"Tucson, AZ",Yes,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,33,M,Yes,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,30,M,No,"Tucson, AZ",Yes,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,31,M,No,"Tucson, AZ",No,Yes,Yes,No,538171,84.2,25.3,37149,5.0,95.0
+No,25,M,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,29,M,No,"Tucson, AZ",No,Yes,Yes,No,538171,84.2,25.3,37149,5.0,95.0
+No,26,M,No,"Tucson, AZ",No,Yes,No,Yes,538171,84.2,25.3,37149,5.0,95.0
+Yes,36,M,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,26,M,No,"Tucson, AZ",No,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,34,M,No,"Tucson, AZ",Yes,Yes,No,No,538171,84.2,25.3,37149,5.0,95.0
+Yes,28,M,Yes,"Columbia, MO",No,Yes,Yes,No,120119,93.8,24.4,44907,11.3,88.7
+Yes,51,M,No,"Columbia, MO",No,Yes,Yes,Yes,120119,93.8,24.4,44907,11.3,88.7
+Yes,41,M,Yes,"Columbia, MO",No,Yes,No,No,120119,93.8,24.4,44907,11.3,88.7
+Yes,40,M,Yes,"Tarboro, NC",Yes,Yes,Yes,No,11014,75.0,17.0,33349,48.4,51.6
+Yes,25,M,Yes,"Salisbury, MD",No,Yes,No,No,32551,85.6,27.4,37705,34.4,65.6
+No,26,M,No,"Deltona, FL",No,Yes,No,No,89209,88.2,16.4,42077,10.9,89.1
+Yes,39,M,No,"Deltona, FL",No,Yes,No,No,89209,88.2,16.4,42077,10.9,89.1
+Yes,58,M,No,"Deltona, FL",Yes,Yes,No,No,89209,88.2,16.4,42077,10.9,89.1
+Yes,37,M,No,"Deltona, FL",No,Yes,No,No,89209,88.2,16.4,42077,10.9,89.1
+Yes,45,M,Yes,"Milwaukee, WI",Yes,Yes,No,No,597066,82.1,28.7,35958,40.0,60.0
+Yes,38,M,Yes,"Milwaukee, WI",No,Yes,Yes,Yes,597066,82.1,28.7,35958,40.0,60.0
+Yes,49,M,Yes,"Milwaukee, WI",No,Yes,No,No,597066,82.1,28.7,35958,40.0,60.0
+Yes,23,M,Yes,"Milwaukee, WI",No,Yes,Yes,Yes,597066,82.1,28.7,35958,40.0,60.0
+Yes,32,M,Yes,"Milwaukee, WI",No,Yes,No,No,597066,82.1,28.7,35958,40.0,60.0
+No,19,M,Yes,"Milwaukee, WI",No,Yes,Yes,No,597066,82.1,28.7,35958,40.0,60.0
+Yes,34,M,No,"Milwaukee, WI",Yes,Yes,Yes,No,597066,82.1,28.7,35958,40.0,60.0
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,11.0,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,11.0,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,11.0,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,11.0,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,12.1,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,12.1,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,12.1,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,88.7,12.1,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,11.0,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,11.0,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,11.0,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,11.0,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,12.1,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,12.1,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,12.1,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,Yes,Yes,No,104248,85.0,12.1,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,11.0,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,11.0,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,11.0,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,11.0,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,12.1,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,12.1,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,12.1,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,88.7,12.1,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,11.0,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,11.0,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,11.0,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,11.0,65472,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,12.1,66076,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,12.1,66076,2.7,97.3
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,12.1,65472,2.5,97.5
+No,36,M,No,"Burbank, CA",No,No,No,No,104248,85.0,12.1,65472,2.7,97.3
+Yes,34,M,No,"Lincoln, NE",No,Yes,No,No,281070,93.1,15.9,49840,3.8,96.2
+Yes,29,M,No,"Lincoln, NE",No,Yes,No,No,281070,93.1,15.9,49840,3.8,96.2
+Yes,22,M,Yes,"Lincoln, NE",No,Yes,Yes,No,281070,93.1,15.9,49840,3.8,96.2
+No,19,M,Yes,"Madison, WI",No,Yes,Yes,No,252417,94.8,19.0,54896,7.3,92.7
+Yes,41,M,No,"Madison, WI",Yes,Yes,No,No,252417,94.8,19.0,54896,7.3,92.7
+Yes,43,F,Yes,"Anaheim, CA",Yes,Yes,No,Yes,349580,75.8,16.5,60752,2.8,97.2
+Yes,30,M,No,"Anaheim, CA",Yes,Yes,No,Yes,349580,75.8,16.5,60752,2.8,97.2
+No,22,M,No,"Anaheim, CA",No,No,No,Yes,349580,75.8,16.5,60752,2.8,97.2
+Yes,30,M,No,"Anaheim, CA",No,Yes,Yes,Yes,349580,75.8,16.5,60752,2.8,97.2
+Yes,29,M,No,"Anaheim, CA",No,Yes,Yes,Yes,349580,75.8,16.5,60752,2.8,97.2
+Yes,58,M,No,"Brevard, NC",No,Yes,No,No,7767,89.9,12.7,39659,11.0,89.0
+Yes,46,M,No,"Dinosaur, CO",No,Yes,No,No,322,78.3,18.5,42083,0.6,99.4
+Yes,30,M,Yes,"Cocoa, FL",No,Yes,No,No,18068,83.1,29.3,30517,31.3,68.7
+Yes,15,M,No,"Cocoa, FL",Yes,Yes,No,No,18068,83.1,29.3,30517,31.3,68.7
+No,27,M,Yes,"Atlanta, GA",Yes,Yes,No,No,479716,89.0,24.6,47527,54.0,46.0
+Yes,25,F,Yes,"Atlanta, GA",No,Yes,No,No,479716,89.0,24.6,47527,54.0,46.0
+Yes,18,M,Yes,"Atlanta, GA",No,Yes,Yes,No,479716,89.0,24.6,47527,54.0,46.0
+Yes,34,M,No,"Atlanta, GA",No,Yes,No,No,479716,89.0,24.6,47527,54.0,46.0
+No,22,M,Yes,"Atlanta, GA",No,No,Yes,No,479716,89.0,24.6,47527,54.0,46.0
+No,24,M,Yes,"Atlanta, GA",No,Yes,Yes,Yes,479716,89.0,24.6,47527,54.0,46.0
+Yes,32,M,Yes,"Atlanta, GA",No,Yes,No,No,479716,89.0,24.6,47527,54.0,46.0
+Yes,31,M,Yes,"Baton Rouge, LA",No,Yes,No,No,226101,86.7,25.6,39876,54.5,45.5
+Yes,46,M,Yes,"Baton Rouge, LA",No,Yes,No,No,226101,86.7,25.6,39876,54.5,45.5
+Yes,22,M,Yes,"Baton Rouge, LA",Yes,Yes,Yes,Yes,226101,86.7,25.6,39876,54.5,45.5
+Yes,48,M,Yes,"Baton Rouge, LA",Yes,Yes,No,No,226101,86.7,25.6,39876,54.5,45.5
+No,37,M,Yes,"Baton Rouge, LA",No,No,No,Yes,226101,86.7,25.6,39876,54.5,45.5
+Yes,29,M,Yes,"Baton Rouge, LA",Yes,Yes,No,No,226101,86.7,25.6,39876,54.5,45.5
+Yes,48,M,Yes,"Baton Rouge, LA",No,Yes,No,No,226101,86.7,25.6,39876,54.5,45.5
+Yes,35,M,Yes,"Baton Rouge, LA",No,Yes,No,No,226101,86.7,25.6,39876,54.5,45.5
+Yes,23,M,No,"Port Wentworth, GA",No,Yes,No,Yes,8036,92.1,4.8,61643,31.4,68.6
+Yes,37,M,No,"Ontario, CA",Yes,Yes,Yes,No,172702,70.6,18.1,54114,6.4,93.6
+Yes,17,M,No,"Ontario, CA",Yes,Yes,No,No,172702,70.6,18.1,54114,6.4,93.6
+Yes,32,M,No,"Ontario, CA",Yes,Yes,No,Yes,172702,70.6,18.1,54114,6.4,93.6
+Yes,36,M,No,"Ontario, CA",No,Yes,No,No,172702,70.6,18.1,54114,6.4,93.6
+Yes,64,M,Yes,"Cleveland, OH",No,Yes,No,Yes,387386,77.4,36.2,26150,53.3,46.7
+No,18,M,Yes,"Cleveland, OH",No,Yes,No,No,387386,77.4,36.2,26150,53.3,46.7
+Yes,33,M,Yes,"Cleveland, OH",No,Yes,No,No,387386,77.4,36.2,26150,53.3,46.7
+Yes,30,M,No,"Cleveland, OH",No,Yes,No,No,387386,77.4,36.2,26150,53.3,46.7
+Yes,31,M,No,"Kingman, AZ",Yes,Yes,No,No,29100,87.0,20.7,43246,1.0,99.0
+Yes,35,F,No,"Kingman, AZ",No,Yes,No,No,29100,87.0,20.7,43246,1.0,99.0
+Yes,53,M,No,"Kingman, AZ",No,Yes,No,Yes,29100,87.0,20.7,43246,1.0,99.0
+Yes,34,M,No,"Kingman, AZ",No,Yes,Yes,No,29100,87.0,20.7,43246,1.0,99.0
+Yes,41,M,No,"Kingman, AZ",No,Yes,Yes,No,29100,87.0,20.7,43246,1.0,99.0
+Yes,54,M,No,"Bay Minette, AL",No,Yes,No,No,9086,79.1,26.3,31576,35.3,64.7
+Yes,53,M,No,"Hoover, AL",Yes,Yes,No,No,84907,95.2,6.0,77146,14.8,85.2
+Yes,37,M,Yes,"Elkton, MD",No,Yes,No,No,15658,85.0,17.5,53851,15.1,84.9
+Yes,25,M,No,"Elkton, MD",Yes,Yes,No,No,15658,85.0,17.5,53851,15.1,84.9
+Yes,25,F,No,"Elkton, MD",No,Yes,No,No,15658,85.0,17.5,53851,15.1,84.9
+Yes,59,M,No,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,21,M,Yes,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,37,M,Yes,"Kansas, MO",Yes,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,47,M,No,"Kansas, MO",No,Yes,Yes,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,43,M,No,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,18,M,No,"Kansas, MO",No,Yes,Yes,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,25,M,Yes,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,68,M,Yes,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,27,M,Yes,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,31,M,No,"Kansas, MO",No,Yes,No,No,481691,88.4,19.0,45821,29.9,70.1
+Yes,36,M,No,"Fontana, CA",No,Yes,No,No,208668,72.5,16.1,64824,10.0,90.0
+Yes,35,M,No,"Fontana, CA",Yes,Yes,No,No,208668,72.5,16.1,64824,10.0,90.0
+Yes,47,M,No,"Fontana, CA",Yes,Yes,No,No,208668,72.5,16.1,64824,10.0,90.0
+No,32,M,No,"Walnut Creek, CA",No,Yes,Yes,No,69209,97.3,5.9,82120,1.6,98.4
+Yes,41,M,No,"Napa, CA",No,Yes,Yes,No,79445,80.9,9.5,68038,0.6,99.4
+Yes,23,M,No,"Napa, CA",Yes,Yes,No,No,79445,80.9,9.5,68038,0.6,99.4
+Yes,65,M,No,"Napa, CA",No,Yes,Yes,No,79445,80.9,9.5,68038,0.6,99.4
+Yes,29,M,No,"San Antonio, TX",Yes,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,60,M,No,"San Antonio, TX",No,Yes,Yes,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,28,M,No,"San Antonio, TX",No,Yes,Yes,No,1487680,81.4,19.8,46744,6.9,93.1
+No,41,M,No,"San Antonio, TX",Yes,No,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,36,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,32,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,27,M,No,"San Antonio, TX",No,Yes,Yes,No,1487680,81.4,19.8,46744,6.9,93.1
+No,36,M,Yes,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,23,M,No,"San Antonio, TX",No,Yes,Yes,Yes,1487680,81.4,19.8,46744,6.9,93.1
+Yes,33,M,No,"San Antonio, TX",Yes,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,36,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,34,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,30,M,No,"San Antonio, TX",No,Yes,Yes,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,33,M,Yes,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,24,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,48,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,55,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,37,M,Yes,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,37,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,36,M,No,"San Antonio, TX",No,Yes,No,No,1487680,81.4,19.8,46744,6.9,93.1
+Yes,53,M,No,"Follansbee, WV",No,Yes,No,No,2809,87.6,18.0,51144,0.3,99.7
+Yes,26,M,No,"Kenosha, WI",No,Yes,Yes,No,99551,88.6,19.5,49160,10.0,90.0
+Yes,20,M,No,"Onalaska, TX",Yes,Yes,No,No,2702,74.8,33.2,33250,5.0,95.0
+No,22,M,No,"Sacramento, CA",No,No,Yes,No,494346,83.4,22.0,50739,14.6,85.4
+Yes,42,M,No,"Sacramento, CA",Yes,Yes,No,No,494346,83.4,22.0,50739,14.6,85.4
+Yes,40,M,Yes,"Sacramento, CA",Yes,Yes,Yes,No,494346,83.4,22.0,50739,14.6,85.4
+Yes,50,M,Yes,"Sacramento, CA",Yes,Yes,No,Yes,494346,83.4,22.0,50739,14.6,85.4
+Yes,38,M,Yes,"Sacramento, CA",Yes,Yes,No,No,494346,83.4,22.0,50739,14.6,85.4
+Yes,49,M,No,"Medford, OR",Yes,Yes,No,No,80118,86.4,23.0,41931,0.9,99.1
+Yes,40,M,No,"Medford, OR",Yes,Yes,No,No,80118,86.4,23.0,41931,0.9,99.1
+Yes,27,M,No,"Medford, OR",No,Yes,Yes,No,80118,86.4,23.0,41931,0.9,99.1
+Yes,24,M,No,"Dublin, NC",No,Yes,Yes,No,326,75.1,28.0,30800,19.5,80.5
+Yes,47,M,No,"Bakersfield, CA",No,Yes,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,36,M,No,"Bakersfield, CA",No,Yes,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,23,M,No,"Bakersfield, CA",No,Yes,Yes,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,47,M,No,"Bakersfield, CA",No,Yes,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,29,M,No,"Bakersfield, CA",No,No,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,23,M,No,"Bakersfield, CA",No,Yes,Yes,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,42,M,No,"Bakersfield, CA",No,Yes,Yes,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,45,M,No,"Bakersfield, CA",No,Yes,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,37,M,No,"Bakersfield, CA",No,Yes,Yes,No,374662,79.6,19.8,57095,8.2,91.8
+No,73,M,No,"Bakersfield, CA",No,No,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,27,M,No,"Bakersfield, CA",No,Yes,Yes,No,374662,79.6,19.8,57095,8.2,91.8
+No,47,M,No,"Bakersfield, CA",No,Yes,Yes,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,45,M,No,"Bakersfield, CA",No,Yes,No,No,374662,79.6,19.8,57095,8.2,91.8
+Yes,49,F,No,"Glendale, AZ",No,Yes,No,No,245597,83.6,21.7,46776,6.0,94.0
+Yes,63,M,No,"Glendale, AZ",Yes,Yes,No,No,245597,83.6,21.7,46776,6.0,94.0
+Yes,25,M,No,"Glendale, AZ",No,No,No,No,245597,83.6,21.7,46776,6.0,94.0
+Yes,25,M,No,"Glendale, AZ",No,Yes,Yes,No,245597,83.6,21.7,46776,6.0,94.0
+No,17,F,No,"Glendale, AZ",No,No,Yes,No,245597,83.6,21.7,46776,6.0,94.0
+Yes,21,M,No,"Glendale, AZ",No,Yes,Yes,No,245597,83.6,21.7,46776,6.0,94.0
+Yes,23,M,No,"Glendale, AZ",No,Yes,No,Yes,245597,83.6,21.7,46776,6.0,94.0
+Yes,16,M,Yes,"Jacksonville, FL",No,Yes,Yes,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,28,M,Yes,"Jacksonville, FL",No,Yes,Yes,No,879460,88.2,17.7,46764,30.7,69.3
+No,23,M,Yes,"Jacksonville, FL",No,Yes,Yes,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,36,M,No,"Jacksonville, FL",Yes,Yes,No,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,34,M,Yes,"Jacksonville, FL",No,Yes,No,No,879460,88.2,17.7,46764,30.7,69.3
+No,22,M,Yes,"Jacksonville, FL",No,Yes,Yes,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,29,M,No,"Jacksonville, FL",No,Yes,No,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,22,M,Yes,"Jacksonville, FL",No,Yes,No,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,57,M,Yes,"Jacksonville, FL",No,Yes,No,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,25,M,Yes,"Jacksonville, FL",Yes,Yes,No,No,879460,88.2,17.7,46764,30.7,69.3
+Yes,28,M,No,"Jacksonville, FL",No,Yes,Yes,No,879460,88.2,17.7,46764,30.7,69.3
+No,20,M,No,"Sumas, WA",Yes,Yes,No,No,1407,80.5,8.0,55161,1.5,98.5
+Yes,31,M,No,"Middleton, ID",No,Yes,No,Yes,7112,91.7,13.5,45391,0.3,99.7
+Yes,60,M,No,"Harmony, IN",Yes,Yes,No,No,642,89.4,6.8,41853,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,9.6,41875,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,9.6,41875,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,9.6,36440,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,9.6,36440,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,19.9,41875,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,19.9,41875,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,19.9,36440,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.6,19.9,36440,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,9.6,41875,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,9.6,41875,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,9.6,36440,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,9.6,36440,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,19.9,41875,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,19.9,41875,0.8,99.2
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,19.9,36440,0.0,100.0
+Yes,21,M,No,"Cottonwood, AZ",No,Yes,No,No,11801,84.9,19.9,36440,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,9.6,41875,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,9.6,41875,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,9.6,36440,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,9.6,36440,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,19.9,41875,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,19.9,41875,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,19.9,36440,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.6,19.9,36440,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,9.6,41875,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,9.6,41875,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,9.6,36440,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,9.6,36440,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,19.9,41875,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,19.9,41875,0.8,99.2
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,19.9,36440,0.0,100.0
+No,19,M,No,"Cottonwood, AZ",No,Yes,Yes,No,11801,84.9,19.9,36440,0.8,99.2
+Yes,37,M,No,"Vallejo, CA",Yes,Yes,No,No,120991,87.4,18.3,57028,22.1,77.9
+Yes,21,M,No,"Vallejo, CA",No,Yes,No,Yes,120991,87.4,18.3,57028,22.1,77.9
+Yes,36,M,No,"Portland, OR",Yes,Yes,Yes,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,29,M,No,"Portland, OR",No,Yes,No,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,51,M,No,"Portland, OR",Yes,Yes,No,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,52,M,No,"Portland, OR",No,Yes,No,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,17,M,Yes,"Portland, OR",No,No,Yes,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,24,M,Yes,"Portland, OR",Yes,Yes,Yes,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,36,M,No,"Portland, OR",No,Yes,Yes,No,640670,91.3,18.0,55003,6.3,93.7
+Yes,24,M,Yes,"Santa Clara, CA",No,Yes,No,No,126387,91.9,8.4,98914,2.7,97.3
+Yes,24,M,No,"Santa Clara, CA",Yes,Yes,No,No,126387,91.9,8.4,98914,2.7,97.3
+Yes,38,M,No,"Fond du Lac, WI",No,Yes,No,No,42785,91.1,13.4,46499,2.5,97.5
+Yes,29,M,Yes,"Portsmouth, VA",Yes,Yes,Yes,No,95446,83.6,18.2,45676,53.3,46.7
+No,18,M,Yes,"Portsmouth, VA",No,No,No,No,95446,83.6,18.2,45676,53.3,46.7
+No,23,M,Yes,"Smyrna, GA",No,Yes,Yes,Yes,56038,90.5,13.4,62363,31.6,68.4
+Yes,27,M,Yes,"Johnsonville, SC",No,Yes,Yes,No,1493,79.7,20.5,45741,21.8,78.2
+Yes,53,F,No,"Gardner, KS",No,Yes,No,No,21297,94.4,3.8,67422,3.0,97.0
+Yes,56,M,No,"Encinitas, CA",Yes,Yes,No,No,62798,94.4,8.1,95149,0.6,99.4
+Yes,39,M,Yes,"Fort Pierce, FL",No,Yes,No,No,44871,76.1,36.6,25635,40.9,59.1
+Yes,27,M,Yes,"Fort Pierce, FL",No,Yes,No,No,44871,76.1,36.6,25635,40.9,59.1
+Yes,21,M,Yes,"Fort Pierce, FL",No,Yes,Yes,No,44871,76.1,36.6,25635,40.9,59.1
+Yes,26,F,Yes,"Oxnard, CA",No,Yes,No,No,207505,65.6,16.6,60621,2.9,97.1
+Yes,41,M,Yes,"Boston, MA",No,Yes,No,No,679376,85.2,21.5,55777,24.4,75.6
+Yes,44,M,No,"Boston, MA",Yes,Yes,Yes,No,679376,85.2,21.5,55777,24.4,75.6
+Yes,29,M,Yes,"Boston, MA",Yes,Yes,No,No,679376,85.2,21.5,55777,24.4,75.6
+Yes,33,M,Yes,"Boston, MA",No,Yes,No,No,679376,85.2,21.5,55777,24.4,75.6
+Yes,31,M,Yes,"Boston, MA",Yes,Yes,No,No,679376,85.2,21.5,55777,24.4,75.6
+Yes,29,M,Yes,"Elizabethtown, KY",No,Yes,No,No,29229,88.3,16.3,44568,11.6,88.4
+Yes,28,M,No,"Elizabethtown, KY",No,Yes,No,No,29229,88.3,16.3,44568,11.6,88.4
+Yes,49,M,No,"Eugene, OR",Yes,Yes,No,No,166076,93.5,24.4,43101,1.4,98.6
+Yes,49,M,No,"Eugene, OR",No,Yes,No,No,166076,93.5,24.4,43101,1.4,98.6
+Yes,54,M,No,"Boulder, NV",No,Yes,No,No,15701,93.3,10.3,56405,0.9,99.1
+Yes,21,M,No,"Baytown, TX",No,Yes,No,No,76449,75.5,19.6,48103,15.5,84.5
+Yes,36,M,Yes,"Baytown, TX",No,Yes,Yes,No,76449,75.5,19.6,48103,15.5,84.5
+Yes,37,M,Yes,"Hawthorne, CA",No,Yes,No,No,87554,73.8,20.1,44504,27.7,72.3
+Yes,32,M,Yes,"Rock Island, IL",No,Yes,Yes,No,38167,86.9,22.6,41243,18.3,81.7
+Yes,63,M,No,"Metropolis, IL",Yes,Yes,No,No,6218,77.2,23.0,31875,8.3,91.7
+Yes,36,M,No,"Metropolis, IL",No,No,Yes,No,6218,77.2,23.0,31875,8.3,91.7
+No,44,M,Yes,"Tulsa, OK",No,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,43,M,No,"Tulsa, OK",No,Yes,Yes,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,43,M,No,"Tulsa, OK",No,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,56,M,No,"Tulsa, OK",Yes,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+No,40,M,Yes,"Tulsa, OK",No,No,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,42,M,No,"Tulsa, OK",No,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,58,M,No,"Tulsa, OK",No,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,72,M,No,"Tulsa, OK",Yes,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,34,M,No,"Tulsa, OK",Yes,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,18,M,No,"Tulsa, OK",No,Yes,Yes,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,29,M,Yes,"Tulsa, OK",Yes,Yes,No,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,47,M,No,"Tulsa, OK",No,Yes,Yes,No,403186,86.9,20.2,42284,15.9,84.1
+Yes,27,M,No,"Pineville, LA",Yes,Yes,No,No,14293,83.8,21.3,38049,30.8,69.2
+Yes,38,M,No,"Winchester, VA",No,Yes,No,Yes,27814,84.2,16.0,45363,10.9,89.1
+Yes,17,M,Yes,"Zion, IL",No,Yes,Yes,No,24028,81.3,19.2,46313,31.0,69.0
+Yes,38,M,No,"Zion, IL",Yes,Yes,Yes,No,24028,81.3,19.2,46313,31.0,69.0
+No,50,M,Yes,"North Charleston, SC",No,Yes,Yes,No,109718,81.8,22.7,39543,47.2,52.8
+Yes,43,M,No,"North Charleston, SC",No,Yes,No,No,109718,81.8,22.7,39543,47.2,52.8
+Yes,34,M,No,"North Charleston, SC",No,Yes,No,Yes,109718,81.8,22.7,39543,47.2,52.8
+Yes,56,M,Yes,"North Charleston, SC",No,No,Yes,No,109718,81.8,22.7,39543,47.2,52.8
+Yes,31,M,Yes,"Orange, CA",No,Yes,No,Yes,140445,84.2,13.2,78513,1.6,98.4
+Yes,33,M,No,"Orange, CA",Yes,Yes,No,No,140445,84.2,13.2,78513,1.6,98.4
+Yes,34,M,No,"Edgewood, NM",Yes,Yes,Yes,No,6068,97.2,7.7,57386,1.0,99.0
+Yes,56,M,No,"Tehachapi, CA",No,Yes,No,No,12680,75.6,22.0,41705,9.0,91.0
+Yes,42,M,Yes,"Valdosta, GA",No,Yes,Yes,No,55906,82.6,35.0,29336,51.1,48.9
+Yes,28,M,No,"Valdosta, GA",No,Yes,No,No,55906,82.6,35.0,29336,51.1,48.9
+Yes,28,M,No,"Valdosta, GA",No,Yes,No,Yes,55906,82.6,35.0,29336,51.1,48.9
+Yes,28,M,No,"Sunnyvale, CA",Yes,Yes,No,No,152797,91.4,7.5,105401,2.0,98.0
+Yes,23,M,Yes,"Sunnyvale, CA",No,Yes,No,No,152797,91.4,7.5,105401,2.0,98.0
+Yes,42,M,Yes,"Sunnyvale, CA",No,Yes,No,No,152797,91.4,7.5,105401,2.0,98.0
+Yes,54,M,No,"Kellyville, OK",No,Yes,Yes,No,1157,79.6,25.3,36375,0.2,99.8
+Yes,29,M,Yes,"Monon, IN",No,Yes,Yes,No,1752,74.5,31.1,35542,0.6,99.4
+Yes,21,M,No,"Corning, CA",No,Yes,No,No,7553,75.3,29.6,31667,0.6,99.4
+Yes,38,M,No,"Topeka, KS",No,Yes,Yes,No,126954,88.6,19.2,42250,11.3,88.7
+No,45,M,No,"Topeka, KS",No,No,No,No,126954,88.6,19.2,42250,11.3,88.7
+Yes,66,M,No,"Sand Springs, OK",Yes,Yes,No,Yes,19861,88.4,10.6,51067,2.4,97.6
+Yes,32,M,No,"Salemburg, NC",Yes,Yes,Yes,No,416,80.9,16.8,36528,7.1,92.9
+Yes,27,M,No,"Alton, IL",No,Yes,No,No,26858,90.3,24.4,36250,26.6,73.4
+No,26,M,Yes,"DeSoto, TX",No,No,Yes,No,53078,90.5,11.3,59260,68.6,31.400000000000006
+Yes,31,M,No,"Jonesboro, AR",Yes,Yes,No,No,74833,89.1,23.7,41688,18.4,81.6
+Yes,22,M,Yes,"Miami, FL",No,No,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+No,46,M,Yes,"Miami, FL",No,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,22,M,No,"Miami, FL",No,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,51,M,No,"Miami, FL",Yes,No,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,42,M,No,"Miami, FL",No,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+No,31,M,Yes,"Miami, FL",No,Yes,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,15,M,No,"Miami, FL",No,Yes,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,28,M,Yes,"Miami, FL",Yes,Yes,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,51,M,No,"Miami, FL",No,Yes,No,Yes,446835,73.2,28.3,31051,19.2,80.8
+Yes,25,M,No,"Miami, FL",Yes,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,37,M,Yes,"Miami, FL",No,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,22,M,Yes,"Miami, FL",No,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,50,M,No,"Miami, FL",Yes,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,21,M,Yes,"Miami, FL",No,Yes,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,36,M,No,"Miami, FL",No,Yes,Yes,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,47,M,Yes,"Miami, FL",No,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,82,M,No,"Miami, FL",Yes,Yes,No,No,446835,73.2,28.3,31051,19.2,80.8
+Yes,41,M,Yes,"Spartanburg, SC",No,Yes,No,No,37357,82.3,27.2,35126,49.3,50.7
+Yes,20,M,Yes,"Spartanburg, SC",No,Yes,Yes,No,37357,82.3,27.2,35126,49.3,50.7
+Yes,52,M,No,"Montclair, CA",Yes,Yes,No,No,38785,70.1,16.9,49366,5.2,94.8
+Yes,47,M,No,"Shafter, CA",No,Yes,No,No,18941,57.9,21.7,40881,1.3,98.7
+Yes,18,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,23,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,27,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,25,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+No,29,M,No,"Chicago, IL",No,No,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,33,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,31,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+No,55,F,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,19,M,Yes,"Chicago, IL",Yes,No,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,29,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,29,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,21,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,16,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,26,M,No,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,50,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,18,M,Yes,"Chicago, IL",No,Yes,Yes,Yes,2717379,82.3,22.3,48522,32.9,67.1
+Yes,26,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+No,19,M,Yes,"Chicago, IL",No,No,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,37,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,33,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,34,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+No,25,M,Yes,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,55,F,No,"Chicago, IL",Yes,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,17,M,Yes,"Chicago, IL",No,Yes,No,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,24,M,No,"Chicago, IL",No,Yes,Yes,No,2717379,82.3,22.3,48522,32.9,67.1
+Yes,23,M,Yes,"Jennings, MO",Yes,Yes,No,Yes,14772,79.5,29.9,29393,89.8,10.200000000000003
+Yes,45,M,No,"Panama, FL",No,Yes,No,No,37136,87.2,21.2,37190,22.0,78.0
+Yes,40,M,No,"Wilmore, KY",Yes,Yes,No,No,6278,91.2,28.8,38679,2.3,97.7
+Yes,44,M,No,"Sidney, NE",No,Yes,No,No,6802,93.6,13.5,54242,0.2,99.8
+Yes,25,M,No,"Mission, TX",No,Yes,No,No,83219,71.9,26.0,41818,0.7,99.3
+Yes,38,M,No,"Mission, TX",Yes,Yes,Yes,No,83219,71.9,26.0,41818,0.7,99.3
+Yes,42,M,No,"Mission, TX",No,Yes,Yes,No,83219,71.9,26.0,41818,0.7,99.3
+Yes,35,M,Yes,"Trenton, NJ",No,Yes,No,No,83443,71.0,28.3,34257,52.0,48.0
+No,37,M,No,"Lakewood, WA",Yes,Yes,Yes,No,59649,88.1,20.7,44902,11.8,88.2
+Yes,41,M,Yes,"Lakewood, WA",No,Yes,Yes,No,59649,88.1,20.7,44902,11.8,88.2
+Yes,59,M,No,"Irmo, SC",Yes,Yes,No,No,12092,92.6,16.4,55168,29.9,70.1
+Yes,56,M,No,"Irmo, SC",No,Yes,No,No,12092,92.6,16.4,55168,29.9,70.1
+Yes,51,M,No,"Bisbee, AZ",No,Yes,No,No,5210,87.3,29.1,31010,1.4,98.6
+No,19,M,No,"Long Beach, CA",No,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+No,20,M,No,"Long Beach, CA",No,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,28,M,Yes,"Long Beach, CA",No,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,39,M,No,"Long Beach, CA",No,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,21,M,No,"Long Beach, CA",No,Yes,Yes,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,21,M,Yes,"Long Beach, CA",No,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,27,M,No,"Long Beach, CA",No,Yes,Yes,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,36,M,No,"Long Beach, CA",Yes,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,37,F,No,"Long Beach, CA",Yes,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+No,36,M,No,"Long Beach, CA",No,Yes,Yes,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,36,F,No,"Long Beach, CA",No,Yes,No,No,468498,79.4,20.6,52783,13.5,86.5
+Yes,46,F,No,"Windsor, CA",No,Yes,Yes,No,27432,86.8,4.1,85291,0.8,99.2
+Yes,63,M,No,"Miami, OK",No,Yes,Yes,No,13362,84.6,24.5,34387,1.3,98.7
+Yes,20,M,Yes,"Trinidad, CO",No,Yes,Yes,Yes,8002,84.1,16.9,43819,0.9,99.1
+Yes,25,M,No,"Victoria, TX",Yes,Yes,No,Yes,67173,81.3,18.0,48658,7.7,92.3
+No,24,M,Yes,"New York, NY",Yes,Yes,Yes,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,32,M,Yes,"New York, NY",No,Yes,Yes,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,46,M,No,"New York, NY",Yes,Yes,No,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,25,M,Yes,"New York, NY",No,Yes,No,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,39,M,Yes,"New York, NY",No,Yes,Yes,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,42,M,Yes,"New York, NY",No,Yes,No,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,35,M,No,"New York, NY",Yes,Yes,Yes,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,28,M,Yes,"New York, NY",No,Yes,No,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,18,M,No,"New York, NY",No,Yes,Yes,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,34,M,Yes,"New York, NY",No,Yes,Yes,No,8456560,80.3,20.6,53373,25.5,74.5
+Yes,58,M,No,"Clermont, FL",Yes,Yes,No,No,33533,92.3,14.1,51938,14.4,85.6
+Yes,45,M,No,"Fountain Valley, CA",No,Yes,No,No,56372,90.2,8.1,82367,0.9,99.1
+Yes,20,M,Yes,"Detroit, MI",No,Yes,No,No,677061,78.3,40.3,25764,82.7,17.299999999999997
+Yes,25,M,Yes,"Detroit, MI",No,Yes,No,No,677061,78.3,40.3,25764,82.7,17.299999999999997
+Yes,54,M,No,"Detroit, MI",No,Yes,No,No,677061,78.3,40.3,25764,82.7,17.299999999999997
+No,19,M,Yes,"Detroit, MI",No,Yes,Yes,No,677061,78.3,40.3,25764,82.7,17.299999999999997
+Yes,46,M,Yes,"Detroit, MI",No,Yes,No,No,677061,78.3,40.3,25764,82.7,17.299999999999997
+Yes,58,M,No,"Mansfield, OH",No,Yes,No,No,46572,82.6,26.2,32148,22.1,77.9
+Yes,27,M,No,"Marion, IL",Yes,Yes,No,No,17619,90.3,18.2,42839,7.4,92.6
+Yes,26,M,No,"Chickasha, OK",No,Yes,Yes,No,16297,83.4,18.4,40811,7.1,92.9
+Yes,55,M,No,"Chickasha, OK",No,Yes,No,No,16297,83.4,18.4,40811,7.1,92.9
+Yes,33,M,No,"Mesa, AZ",Yes,Yes,No,No,490842,87.5,16.5,48809,3.5,96.5
+Yes,33,M,No,"Mesa, AZ",No,Yes,No,No,490842,87.5,16.5,48809,3.5,96.5
+Yes,47,M,No,"Mesa, AZ",No,Yes,No,No,490842,87.5,16.5,48809,3.5,96.5
+No,26,M,No,"Mesa, AZ",No,Yes,No,Yes,490842,87.5,16.5,48809,3.5,96.5
+Yes,24,M,No,"Mesa, AZ",Yes,Yes,No,Yes,490842,87.5,16.5,48809,3.5,96.5
+No,22,M,No,"Mesa, AZ",No,Yes,Yes,No,490842,87.5,16.5,48809,3.5,96.5
+Yes,27,M,No,"Elk Grove, CA",No,Yes,No,No,168859,90.5,10.4,79487,11.2,88.8
+Yes,53,M,Yes,"Emporia, VA",Yes,Yes,No,No,5501,74.7,34.9,28601,62.5,37.5
+No,42,M,No,"San Diego, CA",Yes,Yes,No,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,34,M,No,"San Diego, CA",Yes,Yes,Yes,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,60,M,No,"San Diego, CA",No,Yes,No,No,1400678,87.3,15.4,66116,6.7,93.3
+Yes,54,M,No,"San Diego, CA",No,Yes,No,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,39,M,Yes,"San Diego, CA",No,Yes,No,No,1400678,87.3,15.4,66116,6.7,93.3
+Yes,30,M,No,"San Diego, CA",No,Yes,No,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,33,M,No,"San Diego, CA",No,Yes,Yes,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,22,M,No,"San Diego, CA",No,Yes,No,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,15,M,No,"San Diego, CA",Yes,Yes,No,Yes,1400678,87.3,15.4,66116,6.7,93.3
+Yes,52,M,No,"Smyrna, DE",No,Yes,No,Yes,11362,89.9,7.6,54217,29.1,70.9
+Yes,36,M,No,"Roosevelt, UT",Yes,Yes,No,Yes,6972,88.7,13.5,62351,0.3,99.7
+Yes,30,M,Yes,"Garland, TX",No,Yes,No,No,237266,76.3,17.2,51970,14.5,85.5
+Yes,34,M,No,"Garland, TX",No,Yes,No,No,237266,76.3,17.2,51970,14.5,85.5
+Yes,36,M,No,"Kennewick, WA",Yes,Yes,No,No,80142,86.5,18.1,51661,1.7,98.3
+Yes,32,M,No,"South El Monte, CA",No,Yes,No,No,20790,49.9,20.5,40938,0.5,99.5
+Yes,46,M,No,"Pulaski, VA",Yes,Yes,No,No,8828,80.4,21.1,37485,7.8,92.2
+Yes,48,M,No,"Pulaski, VA",Yes,Yes,No,No,8828,80.4,21.1,37485,7.8,92.2
+Yes,18,M,No,"Wake Forest, NC",No,Yes,Yes,No,40162,95.2,7.0,80978,15.3,84.7
+Yes,38,M,No,"Wake Forest, NC",No,Yes,No,No,40162,95.2,7.0,80978,15.3,84.7
+Yes,72,M,No,"Lawrenceville, GA",Yes,Yes,No,No,29383,81.3,24.4,41743,32.0,68.0
+Yes,38,M,No,"Beacon, NY",No,Yes,Yes,No,13472,89.3,11.6,65305,23.2,76.8
+Yes,21,M,Yes,"Cerritos, CA",No,Yes,Yes,No,50196,91.7,4.8,90321,6.9,93.1
+Yes,26,M,No,"Cerritos, CA",No,Yes,No,No,50196,91.7,4.8,90321,6.9,93.1
+Yes,35,M,No,"Kearny, AZ",No,Yes,No,No,2060,87.7,21.2,43563,0.5,99.5
+Yes,31,M,Yes,"Fridley, MN",No,Yes,Yes,No,27600,90.0,13.0,54652,11.1,88.9
+Yes,47,M,No,"Tacoma, WA",No,Yes,No,No,210150,87.6,18.0,52042,11.2,88.8
+Yes,40,M,No,"Tacoma, WA",No,Yes,No,No,210150,87.6,18.0,52042,11.2,88.8
+Yes,32,F,No,"Tacoma, WA",No,Yes,No,No,210150,87.6,18.0,52042,11.2,88.8
+Yes,38,M,Yes,"Tacoma, WA",No,Yes,No,No,210150,87.6,18.0,52042,11.2,88.8
+Yes,28,M,No,"St. Augustine, FL",Yes,Yes,No,No,14241,88.9,22.2,42958,11.6,88.4
+Yes,53,M,No,"St. Augustine, FL",Yes,Yes,No,No,14241,88.9,22.2,42958,11.6,88.4
+No,40,M,No,"Rancho Santa Margarita, CA",Yes,Yes,No,No,48807,95.2,4.0,105328,1.9,98.1
+Yes,37,M,No,"Portage, MI",Yes,Yes,Yes,No,48395,95.8,11.0,54040,4.9,95.1
+Yes,41,M,No,"Rockford, IL",Yes,Yes,No,No,147756,83.1,24.8,38716,20.5,79.5
+Yes,45,M,Yes,"Harvey, IL",No,Yes,Yes,No,25065,78.1,36.4,22014,75.8,24.200000000000003
+Yes,18,M,No,"St. Petersburg, FL",Yes,Yes,No,No,258965,89.5,17.2,45748,23.9,76.1
+Yes,37,M,Yes,"St. Petersburg, FL",No,Yes,Yes,No,258965,89.5,17.2,45748,23.9,76.1
+Yes,35,M,No,"Cabot, AR",No,Yes,No,No,26104,92.4,11.4,57790,1.6,98.4
+Yes,17,M,No,"Grand Junction, CO",No,Yes,Yes,No,61207,91.3,18.9,45358,0.8,99.2
+Yes,44,M,No,"Grand Junction, CO",Yes,Yes,No,No,61207,91.3,18.9,45358,0.8,99.2
+Yes,24,M,No,"Grand Junction, CO",No,Yes,Yes,No,61207,91.3,18.9,45358,0.8,99.2
+Yes,29,M,Yes,"Lancaster, PA",No,Yes,No,No,59475,76.3,29.0,35313,16.3,83.7
+Yes,18,M,No,"Lancaster, PA",No,Yes,No,No,59475,76.3,29.0,35313,16.3,83.7
+Yes,52,M,No,"Green, OH",No,Yes,No,No,25755,93.4,8.3,62605,1.8,98.2
+Yes,38,M,Yes,"Owensboro, KY",No,Yes,No,No,59286,85.5,19.8,37279,7.3,92.7
+Yes,29,M,No,"Owensboro, KY",No,Yes,No,No,59286,85.5,19.8,37279,7.3,92.7
+Yes,39,F,No,"Gillette, WY",No,Yes,Yes,No,33402,90.4,9.0,74165,0.4,99.6
+Yes,24,M,No,"Hackensack, NJ",Yes,Yes,No,No,44352,86.6,15.8,55289,24.4,75.6
+Yes,22,M,No,"Hackensack, NJ",Yes,Yes,No,No,44352,86.6,15.8,55289,24.4,75.6
+Yes,32,M,Yes,"Charleston, SC",No,Yes,No,No,134164,93.6,17.8,55546,25.4,74.6
+Yes,47,M,No,"Sedalia, MO",No,Yes,No,No,21635,80.7,23.9,31460,5.2,94.8
+Yes,40,M,No,"Eagar, AZ",No,Yes,Yes,No,4864,89.2,18.0,50675,0.6,99.4
+Yes,52,M,No,"Eagar, AZ",No,Yes,No,No,4864,89.2,18.0,50675,0.6,99.4
+Yes,36,M,No,"Eagar, AZ",No,Yes,No,No,4864,89.2,18.0,50675,0.6,99.4
+Yes,36,M,Yes,"Huntsville, AL",Yes,Yes,No,No,192722,90.2,18.2,48775,31.2,68.8
+Yes,34,M,No,"Huntsville, AL",No,Yes,No,Yes,192722,90.2,18.2,48775,31.2,68.8
+Yes,45,M,No,"Huntsville, AL",No,Yes,Yes,Yes,192722,90.2,18.2,48775,31.2,68.8
+Yes,36,M,No,"Huntsville, AL",No,Yes,Yes,No,192722,90.2,18.2,48775,31.2,68.8
+Yes,62,M,No,"Snohomish, WA",Yes,Yes,No,No,9888,92.2,12.7,55648,0.5,99.5
+No,24,M,No,"Bossier, LA",No,Yes,No,No,68251,88.4,16.7,47342,25.6,74.4
+Yes,24,M,No,"Edmond, OK",Yes,Yes,No,No,91069,95.9,10.1,71974,5.5,94.5
+Yes,60,M,No,"Lancaster, SC",No,Yes,No,No,9146,80.5,30.1,29974,51.3,48.7
+Yes,32,M,Yes,"Northglenn, CO",No,Yes,No,No,39040,86.6,14.0,55831,2.3,97.7
+Yes,31,M,No,"Northglenn, CO",Yes,Yes,No,No,39040,86.6,14.0,55831,2.3,97.7
+Yes,40,M,Yes,"Carrollton, GA",No,Yes,No,No,26390,78.3,28.7,34055,31.9,68.1
+Yes,18,M,No,"Trenton, MI",No,Yes,No,No,18368,91.7,8.0,55218,1.3,98.7
+Yes,47,M,No,"Palestine, TX",No,Yes,No,Yes,18099,81.7,23.8,36348,23.3,76.7
+Yes,26,M,No,"Azle, TX",Yes,Yes,No,No,12032,85.9,9.1,55830,0.7,99.3
+Yes,51,M,No,"Azle, TX",Yes,Yes,No,No,12032,85.9,9.1,55830,0.7,99.3
+Yes,46,M,No,"Delano, CA",No,Yes,Yes,No,52647,55.0,30.3,35933,7.9,92.1
+No,36,M,No,"Los Lunas, NM",No,Yes,No,No,15372,87.7,16.4,52166,2.0,98.0
+Yes,50,M,No,"Santa Maria, CA",No,Yes,No,No,105524,58.7,21.2,50433,1.7,98.3
+Yes,31,M,No,"Santa Maria, CA",Yes,Yes,No,No,105524,58.7,21.2,50433,1.7,98.3
+Yes,45,F,No,"Morgantown, WV",No,Yes,Yes,No,30740,93.7,34.1,34090,4.1,95.9
+Yes,48,M,No,"Morgantown, WV",No,Yes,No,No,30740,93.7,34.1,34090,4.1,95.9
+Yes,82,M,No,"Morgantown, WV",No,Yes,No,Yes,30740,93.7,34.1,34090,4.1,95.9
+Yes,30,M,Yes,"Oakland, CA",No,Yes,No,Yes,421180,80.4,20.4,54618,28.0,72.0
+Yes,49,M,Yes,"Oakland, CA",No,Yes,No,No,421180,80.4,20.4,54618,28.0,72.0
+Yes,27,M,Yes,"Oakland, CA",No,Yes,Yes,Yes,421180,80.4,20.4,54618,28.0,72.0
+Yes,30,M,Yes,"Oakland, CA",No,Yes,No,Yes,421180,80.4,20.4,54618,28.0,72.0
+Yes,32,M,Yes,"Oakland, CA",No,Yes,Yes,No,421180,80.4,20.4,54618,28.0,72.0
+Yes,39,M,Yes,"Oakland, CA",No,Yes,No,No,421180,80.4,20.4,54618,28.0,72.0
+Yes,32,M,No,"Oakland, CA",No,Yes,No,No,421180,80.4,20.4,54618,28.0,72.0
+Yes,53,M,No,"North Port, FL",No,Yes,No,No,64296,90.5,12.8,52571,7.0,93.0
+Yes,42,M,No,"Midland, TX",Yes,Yes,No,No,134860,83.0,9.3,69173,7.9,92.1
+Yes,19,M,No,"Midland, TX",No,Yes,No,No,134860,83.0,9.3,69173,7.9,92.1
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,15.9,40219,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,15.9,40219,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,15.9,65000,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,15.9,65000,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,7.7,40219,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,7.7,40219,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,7.7,65000,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,89.2,7.7,65000,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,15.9,40219,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,15.9,40219,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,15.9,65000,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,15.9,65000,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,7.7,40219,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,7.7,40219,0.2,99.8
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,7.7,65000,10.3,89.7
+Yes,36,M,No,"Melbourne, FL",No,Yes,No,No,80600,93.1,7.7,65000,0.2,99.8
+Yes,58,M,No,"Woodland, WA",Yes,Yes,No,No,5951,82.0,19.4,62430,0.9,99.1
+Yes,54,M,No,"Beech Grove, IN",Yes,Yes,No,No,14753,85.7,21.6,36487,3.2,96.8
+No,30,M,No,"Findlay, OH",No,Yes,No,No,41377,90.6,19.2,45134,2.2,97.8
+Yes,45,M,No,"Tomball, TX",No,Yes,Yes,No,11652,88.8,22.7,44086,6.3,93.7
+Yes,22,M,Yes,"Cincinnati, OH",No,Yes,No,No,300258,85.8,30.5,33604,44.8,55.2
+Yes,21,M,Yes,"Cincinnati, OH",Yes,Yes,No,No,300258,85.8,30.5,33604,44.8,55.2
+Yes,45,M,No,"Cincinnati, OH",Yes,Yes,Yes,No,300258,85.8,30.5,33604,44.8,55.2
+Yes,37,M,Yes,"Cincinnati, OH",No,Yes,Yes,No,300258,85.8,30.5,33604,44.8,55.2
+Yes,25,M,Yes,"Cincinnati, OH",Yes,Yes,No,No,300258,85.8,30.5,33604,44.8,55.2
+Yes,40,M,Yes,"Pompano Beach, FL",No,Yes,No,No,108883,82.8,23.4,41321,28.9,71.1
+Yes,55,M,Yes,"Pompano Beach, FL",No,Yes,No,No,108883,82.8,23.4,41321,28.9,71.1
+Yes,86,M,No,"Columbia, TN",Yes,Yes,No,No,37386,85.1,23.2,36426,20.8,79.2
+Yes,17,F,No,"Kokomo, IN",Yes,Yes,No,No,57867,86.3,21.3,37623,10.7,89.3
+Yes,46,M,No,"Fort Wayne, IN",No,Yes,No,No,263583,88.3,19.0,43774,15.4,84.6
+Yes,62,M,No,"Fort Wayne, IN",No,Yes,Yes,No,263583,88.3,19.0,43774,15.4,84.6
+Yes,36,M,No,"Fort Wayne, IN",No,Yes,No,No,263583,88.3,19.0,43774,15.4,84.6
+Yes,62,M,No,"Fort Wayne, IN",No,Yes,No,No,263583,88.3,19.0,43774,15.4,84.6
+Yes,35,M,No,"Hutchins, TX",Yes,Yes,No,No,5678,72.2,25.7,36403,39.4,60.6
+No,22,M,Yes,"South Lake Tahoe, CA",No,Yes,Yes,No,21809,84.6,18.5,39793,0.9,99.1
+Yes,28,M,No,"Visalia, CA",No,Yes,No,No,130806,82.7,21.3,52157,2.1,97.9
+Yes,59,M,No,"Visalia, CA",No,Yes,No,No,130806,82.7,21.3,52157,2.1,97.9
+Yes,40,F,No,"Clanton, AL",No,Yes,Yes,No,8690,76.8,16.9,39823,19.1,80.9
+Yes,43,M,No,"Clanton, AL",No,Yes,No,Yes,8690,76.8,16.9,39823,19.1,80.9
+Yes,48,M,No,"Hobbs, NM",Yes,Yes,No,No,38190,72.7,16.5,56905,6.1,93.9
+Yes,49,M,No,"Hobbs, NM",No,No,Yes,No,38190,72.7,16.5,56905,6.1,93.9
+Yes,45,M,No,"Hobbs, NM",No,Yes,No,No,38190,72.7,16.5,56905,6.1,93.9
+Yes,50,M,No,"Greeley, CO",No,Yes,No,No,104431,83.6,20.2,48813,1.7,98.3
+Yes,24,M,Yes,"Greeley, CO",No,Yes,Yes,No,104431,83.6,20.2,48813,1.7,98.3
+No,24,M,No,"Azusa, CA",Yes,Yes,No,No,49661,77.7,17.6,53135,3.2,96.8
+Yes,45,M,No,"Azusa, CA",No,Yes,No,No,49661,77.7,17.6,53135,3.2,96.8
+Yes,48,M,No,"Azusa, CA",No,Yes,No,No,49661,77.7,17.6,53135,3.2,96.8
+Yes,60,M,No,"Ronda, NC",No,Yes,Yes,No,411,62.3,23.0,30662,2.2,97.8
+Yes,35,M,No,"Citrus Heights, CA",No,Yes,No,No,87132,89.9,15.4,50047,3.3,96.7
+Yes,35,M,No,"Citrus Heights, CA",No,Yes,No,Yes,87132,89.9,15.4,50047,3.3,96.7
+Yes,56,M,No,"Citrus Heights, CA",No,Yes,No,No,87132,89.9,15.4,50047,3.3,96.7
+Yes,20,M,Yes,"Pittsburgh, PA",No,Yes,Yes,No,303402,91.4,22.9,40715,26.1,73.9
+Yes,57,M,Yes,"Pittsburgh, PA",No,Yes,No,No,303402,91.4,22.9,40715,26.1,73.9
+Yes,22,M,No,"Hutchinson, KS",No,Yes,No,No,41186,87.6,13.9,42350,4.3,95.7
+Yes,55,M,No,"Hutchinson, KS",No,Yes,No,No,41186,87.6,13.9,42350,4.3,95.7
+Yes,49,M,No,"Weatherford, TX",Yes,Yes,Yes,No,29684,89.3,10.6,57257,2.4,97.6
+Yes,41,M,No,"Weatherford, TX",No,No,Yes,No,29684,89.3,10.6,57257,2.4,97.6
+Yes,30,M,Yes,"Weatherford, TX",No,Yes,Yes,No,29684,89.3,10.6,57257,2.4,97.6
+Yes,36,M,No,"Weatherford, TX",No,Yes,No,No,29684,89.3,10.6,57257,2.4,97.6
+Yes,61,M,No,"Fresno, CA",No,Yes,No,No,521667,75.2,29.8,41531,8.3,91.7
+Yes,30,M,No,"Fresno, CA",Yes,Yes,No,No,521667,75.2,29.8,41531,8.3,91.7
+No,40,M,No,"Fresno, CA",Yes,Yes,No,Yes,521667,75.2,29.8,41531,8.3,91.7
+Yes,45,M,No,"Fresno, CA",No,Yes,Yes,Yes,521667,75.2,29.8,41531,8.3,91.7
+Yes,28,M,No,"Fresno, CA",Yes,Yes,No,No,521667,75.2,29.8,41531,8.3,91.7
+Yes,55,M,No,"Fresno, CA",No,Yes,No,Yes,521667,75.2,29.8,41531,8.3,91.7
+Yes,34,M,No,"Fresno, CA",No,Yes,Yes,Yes,521667,75.2,29.8,41531,8.3,91.7
+No,19,M,No,"Fresno, CA",Yes,Yes,Yes,Yes,521667,75.2,29.8,41531,8.3,91.7
+Yes,45,M,No,"Fresno, CA",Yes,Yes,No,No,521667,75.2,29.8,41531,8.3,91.7
+No,16,M,No,"Fresno, CA",No,No,No,Yes,521667,75.2,29.8,41531,8.3,91.7
+Yes,21,M,No,"Fresno, CA",No,Yes,No,Yes,521667,75.2,29.8,41531,8.3,91.7
+Yes,49,M,No,"Malone, NY",No,Yes,Yes,No,5687,81.2,31.1,36667,0.6,99.4
+Yes,35,M,No,"Tahlequah, OK",No,Yes,No,Yes,16604,84.3,34.3,30804,2.4,97.6
+Yes,49,M,No,"Tahlequah, OK",Yes,Yes,No,Yes,16604,84.3,34.3,30804,2.4,97.6
+Yes,52,M,No,"Franklin, NC",No,Yes,No,No,3930,80.8,35.9,26923,2.1,97.9
+Yes,24,M,Yes,"McMinnville, OR",No,Yes,Yes,No,33637,85.2,21.2,45588,0.7,99.3
+Yes,45,M,No,"Brockton, MA",Yes,Yes,No,No,95516,81.0,18.6,47557,31.2,68.8
+Yes,59,M,No,"Meadow Bridge, WV",Yes,Yes,No,No,358,70.4,26.1,35192,0.0,100.0
+Yes,27,M,No,"West Covina, CA",No,Yes,No,No,107306,83.1,10.3,69189,4.5,95.5
+Yes,46,M,No,"Lancaster, CA",No,Yes,No,No,159627,81.4,23.5,47225,20.5,79.5
+Yes,45,M,No,"Lancaster, CA",No,Yes,No,No,159627,81.4,23.5,47225,20.5,79.5
+Yes,33,M,No,"Camden, NJ",Yes,Yes,No,No,74250,67.6,39.9,25042,48.1,51.9
+Yes,24,M,Yes,"Camden, NJ",No,Yes,No,No,74250,67.6,39.9,25042,48.1,51.9
+Yes,38,M,No,"Camden, NJ",No,Yes,No,No,74250,67.6,39.9,25042,48.1,51.9
+Yes,40,M,No,"Miami Beach, FL",No,Yes,No,No,90621,87.2,17.7,44342,4.4,95.6
+Yes,37,M,No,"Morristown, TN",No,Yes,No,No,29570,77.0,28.9,30846,6.7,93.3
+Yes,23,M,Yes,"Newport News, VA",No,Yes,Yes,No,180205,89.0,15.7,50077,40.7,59.3
+Yes,35,M,Yes,"Newport News, VA",No,Yes,No,No,180205,89.0,15.7,50077,40.7,59.3
+Yes,36,M,No,"Henderson, NV",No,Yes,No,No,290320,92.7,9.8,63120,5.1,94.9
+No,28,M,No,"Henderson, NV",No,Yes,Yes,No,290320,92.7,9.8,63120,5.1,94.9
+No,19,M,No,"Pleasanton, CA",No,Yes,Yes,No,81475,95.2,4.4,124759,1.7,98.3
+Yes,58,M,No,"Pleasanton, CA",Yes,Yes,No,Yes,81475,95.2,4.4,124759,1.7,98.3
+No,43,M,No,"Hawaiian Gardens, CA",No,Yes,No,No,14413,58.8,30.7,37571,3.8,96.2
+Yes,42,M,No,"Atwater, CA",No,Yes,Yes,No,29171,72.5,26.2,41414,4.3,95.7
+Yes,31,M,No,"Lakewood, CA",Yes,Yes,Yes,No,80785,87.9,7.9,79193,8.7,91.3
+Yes,39,M,No,"Edinburg, TX",Yes,Yes,No,No,93328,77.7,27.7,43346,1.6,98.4
+Yes,37,M,Yes,"Atlantic, NJ",No,Yes,Yes,No,38226,69.6,36.9,25737,38.3,61.7
+No,25,M,Yes,"Atlantic, NJ",No,No,Yes,No,38226,69.6,36.9,25737,38.3,61.7
+Yes,35,M,No,"Sugar Creek, MO",No,Yes,Yes,No,3308,88.2,15.5,35738,2.5,97.5
+Yes,42,M,No,"Sugar Creek, MO",No,Yes,Yes,No,3308,88.2,15.5,35738,2.5,97.5
+No,22,M,No,"Sugar Creek, MO",No,Yes,Yes,No,3308,88.2,15.5,35738,2.5,97.5
+Yes,59,M,No,"Beaverton, OR",No,Yes,No,No,97142,90.3,15.4,56882,2.6,97.4
+Yes,44,M,No,"Beaverton, OR",No,Yes,No,No,97142,90.3,15.4,56882,2.6,97.4
+Yes,51,M,No,"Beaverton, OR",Yes,Yes,No,No,97142,90.3,15.4,56882,2.6,97.4
+Yes,50,M,No,"Parowan, UT",No,Yes,No,No,2979,95.5,13.3,36209,0.2,99.8
+Yes,20,M,Yes,"Covington, GA",No,Yes,No,No,13878,77.8,25.1,36678,47.4,52.6
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,10.7,66647,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,10.7,66647,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,10.7,60819,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,10.7,60819,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,4.9,66647,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,4.9,66647,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,4.9,60819,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,93.3,4.9,60819,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,10.7,66647,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,10.7,66647,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,10.7,60819,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,10.7,60819,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,4.9,66647,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,4.9,66647,0.6,99.4
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,4.9,60819,20.3,79.7
+No,36,M,Yes,"Plantation, FL",No,Yes,No,No,92832,96.3,4.9,60819,0.6,99.4
+Yes,24,M,No,"River Forest, IL",No,Yes,No,No,11049,96.6,4.4,99250,6.7,93.3
+Yes,27,M,No,"Casper, WY",No,Yes,No,No,58933,91.8,10.5,57790,1.0,99.0
+Yes,50,M,No,"Casper, WY",Yes,Yes,No,No,58933,91.8,10.5,57790,1.0,99.0
+Yes,20,M,Yes,"Stone Mountain, GA",No,Yes,No,No,6270,86.6,20.9,36729,75.2,24.799999999999997
+Yes,24,M,No,"Dunsmuir, CA",No,Yes,Yes,No,1571,88.3,24.5,24770,1.9,98.1
+Yes,25,M,No,"Dunsmuir, CA",No,Yes,Yes,No,1571,88.3,24.5,24770,1.9,98.1
+Yes,23,M,No,"Lynn, MA",No,Yes,No,No,93386,79.9,20.2,47429,12.8,87.2
+Yes,33,M,Yes,"Lynn, MA",No,Yes,Yes,No,93386,79.9,20.2,47429,12.8,87.2
+Yes,57,M,No,"Lynn, MA",No,Yes,No,No,93386,79.9,20.2,47429,12.8,87.2
+Yes,41,M,No,"Lynn, MA",No,Yes,No,No,93386,79.9,20.2,47429,12.8,87.2
+Yes,20,M,Yes,"Mascotte, FL",No,Yes,No,No,5513,69.7,14.6,44722,11.8,88.2
+Yes,43,M,No,"Marion, MI",Yes,Yes,No,No,850,87.2,43.7,24821,0.1,99.9
+Yes,25,M,Yes,"Moreno Valley, CA",Yes,Yes,No,No,204790,75.2,19.3,54590,18.0,82.0
+Yes,23,M,No,"Moreno Valley, CA",Yes,Yes,No,No,204790,75.2,19.3,54590,18.0,82.0
+Yes,29,M,No,"Wauwatosa, WI",Yes,Yes,No,No,47892,96.6,6.4,69460,4.5,95.5
+Yes,25,M,Yes,"Wauwatosa, WI",No,Yes,No,Yes,47892,96.6,6.4,69460,4.5,95.5
+Yes,35,M,Yes,"Homestead, FL",No,Yes,No,No,67787,69.1,28.8,40959,20.4,79.6
+Yes,41,M,No,"Homestead, FL",No,Yes,No,No,67787,69.1,28.8,40959,20.4,79.6
+Yes,24,M,No,"Chattanooga, TN",Yes,Yes,No,No,177892,85.2,22.6,40177,34.9,65.1
+Yes,46,M,No,"Chattanooga, TN",No,Yes,Yes,No,177892,85.2,22.6,40177,34.9,65.1
+Yes,24,M,Yes,"Chattanooga, TN",No,Yes,No,No,177892,85.2,22.6,40177,34.9,65.1
+Yes,26,M,No,"Chattanooga, TN",No,Yes,No,No,177892,85.2,22.6,40177,34.9,65.1
+Yes,23,M,No,"Cheyenne, WY",No,Yes,No,No,63292,93.4,11.2,58219,2.9,97.1
+Yes,29,M,No,"Opp, AL",No,Yes,Yes,No,6500,77.4,25.9,34695,16.7,83.3
+Yes,27,M,No,"Seattle, WA",No,Yes,Yes,No,708559,93.4,13.5,70594,7.9,92.1
+Yes,35,M,No,"Seattle, WA",No,Yes,Yes,No,708559,93.4,13.5,70594,7.9,92.1
+No,46,M,Yes,"Seattle, WA",No,Yes,No,No,708559,93.4,13.5,70594,7.9,92.1
+Yes,44,M,No,"Seattle, WA",No,Yes,No,No,708559,93.4,13.5,70594,7.9,92.1
+Yes,19,M,Yes,"Seattle, WA",No,Yes,No,No,708559,93.4,13.5,70594,7.9,92.1
+Yes,30,F,Yes,"Seattle, WA",Yes,Yes,No,No,708559,93.4,13.5,70594,7.9,92.1
+Yes,50,M,No,"Needles, CA",Yes,Yes,No,No,4968,82.1,27.7,30443,2.0,98.0
+No,24,M,No,"Brownsville, TX",No,Yes,Yes,No,182074,64.1,33.7,32894,0.4,99.6
+Yes,22,M,No,"Fort Collins, CO",Yes,Yes,No,No,163179,96.0,18.6,55647,1.2,98.8
+Yes,38,M,No,"Fort Collins, CO",No,Yes,No,No,163179,96.0,18.6,55647,1.2,98.8
+Yes,63,M,No,"Fort Collins, CO",No,Yes,No,Yes,163179,96.0,18.6,55647,1.2,98.8
+Yes,19,M,No,"Fort Collins, CO",No,No,No,Yes,163179,96.0,18.6,55647,1.2,98.8
+Yes,65,M,No,"Colby, KS",No,Yes,No,No,5411,92.0,11.1,44679,0.7,99.3
+No,47,M,No,"White, GA",No,Yes,No,No,723,78.6,20.2,35125,3.4,96.6
+Yes,24,M,No,"Oakland Park, FL",No,Yes,Yes,No,44303,82.8,20.2,45357,25.6,74.4
+Yes,35,M,No,"Jesup, GA",No,Yes,No,No,9708,84.0,31.6,32188,40.1,59.9
+Yes,25,M,No,"Monroe, WI",No,Yes,No,No,10655,90.5,15.2,39698,0.6,99.4
+Yes,27,M,Yes,"Philadelphia, PA",No,Yes,No,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,19,M,Yes,"Philadelphia, PA",No,Yes,Yes,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,52,M,No,"Philadelphia, PA",No,Yes,No,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,25,M,Yes,"Philadelphia, PA",No,Yes,Yes,No,1575906,82.0,26.4,38253,43.4,56.6
+No,32,M,Yes,"Philadelphia, PA",No,Yes,No,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,31,M,Yes,"Philadelphia, PA",No,Yes,Yes,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,28,M,Yes,"Philadelphia, PA",No,Yes,No,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,51,M,Yes,"Philadelphia, PA",No,Yes,No,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,30,M,Yes,"Philadelphia, PA",No,Yes,Yes,No,1575906,82.0,26.4,38253,43.4,56.6
+Yes,34,M,Yes,"Dayton, OH",No,Yes,No,No,140680,82.1,35.5,27683,42.9,57.1
+Yes,35,F,Yes,"Dayton, OH",No,Yes,Yes,No,140680,82.1,35.5,27683,42.9,57.1
+Yes,25,M,Yes,"Dayton, OH",No,Yes,Yes,No,140680,82.1,35.5,27683,42.9,57.1
+No,31,M,No,"Plymouth, MN",Yes,Yes,No,No,77168,97.3,5.8,85418,5.2,94.8
+Yes,32,M,No,"Myrtle Beach, SC",No,Yes,No,No,31665,85.7,23.7,36514,13.9,86.1
+Yes,55,M,No,"Myrtle Beach, SC",No,Yes,No,Yes,31665,85.7,23.7,36514,13.9,86.1
+Yes,47,M,No,"Douglas, WY",No,Yes,No,No,6444,91.2,9.2,60060,0.3,99.7
+No,44,M,No,"Douglas, WY",No,No,No,No,6444,91.2,9.2,60060,0.3,99.7
+Yes,50,M,No,"Decatur, GA",Yes,Yes,No,No,22882,95.4,14.9,81970,20.2,79.8
+Yes,59,M,Yes,"Micanopy, FL",No,Yes,No,No,626,87.6,12.7,36652,22.2,77.8
+Yes,33,M,Yes,"Shreveport, LA",No,Yes,No,No,194565,85.5,23.6,38583,54.7,45.3
+Yes,28,M,Yes,"Shreveport, LA",Yes,Yes,Yes,No,194565,85.5,23.6,38583,54.7,45.3
+Yes,38,M,Yes,"Shreveport, LA",No,Yes,No,No,194565,85.5,23.6,38583,54.7,45.3
+Yes,19,M,No,"Seneca, SC",No,Yes,Yes,No,8264,84.3,23.3,35609,29.0,71.0
+Yes,45,M,No,"Houma, LA",Yes,Yes,Yes,No,33660,79.9,20.9,47052,24.4,75.6
+Yes,59,M,No,"Houma, LA",Yes,Yes,No,Yes,33660,79.9,20.9,47052,24.4,75.6
+No,43,M,No,"Houma, LA",Yes,No,No,No,33660,79.9,20.9,47052,24.4,75.6
+Yes,22,M,No,"Boulder, CO",No,Yes,No,No,106772,96.3,23.1,58484,0.9,99.1
+Yes,28,M,No,"Boulder, CO",Yes,Yes,No,No,106772,96.3,23.1,58484,0.9,99.1
+Yes,37,M,No,"Boulder, CO",No,Yes,No,Yes,106772,96.3,23.1,58484,0.9,99.1
+Yes,28,M,No,"Boulder, CO",Yes,Yes,No,No,106772,96.3,23.1,58484,0.9,99.1
+Yes,41,M,No,"Manila, AR",No,Yes,No,No,3378,80.7,32.6,30114,0.5,99.5
+Yes,34,M,No,"Las Cruces, NM",No,No,Yes,No,101463,85.5,24.4,41330,2.4,97.6
+Yes,36,M,No,"Las Cruces, NM",No,Yes,No,Yes,101463,85.5,24.4,41330,2.4,97.6
+No,36,M,No,"Las Cruces, NM",Yes,No,No,No,101463,85.5,24.4,41330,2.4,97.6
+Yes,29,M,No,"Las Cruces, NM",Yes,Yes,Yes,Yes,101463,85.5,24.4,41330,2.4,97.6
+Yes,52,M,No,"Las Cruces, NM",No,Yes,No,No,101463,85.5,24.4,41330,2.4,97.6
+Yes,53,M,No,"Logan, UT",Yes,Yes,No,No,50470,88.8,26.5,36032,1.0,99.0
+Yes,47,M,No,"Whittier, CA",No,Yes,No,No,86544,83.3,12.5,66457,1.3,98.7
+Yes,37,M,No,"Whittier, CA",No,Yes,No,No,86544,83.3,12.5,66457,1.3,98.7
+Yes,34,M,No,"Roswell, NM",No,Yes,No,No,48221,80.3,22.1,39975,2.5,97.5
+Yes,33,M,No,"Roswell, NM",Yes,Yes,No,Yes,48221,80.3,22.1,39975,2.5,97.5
+Yes,52,M,No,"Nitro, WV",No,Yes,No,No,6639,90.6,12.9,43434,2.3,97.7
+Yes,35,M,No,"Muncie, IN",Yes,Yes,No,No,69041,86.4,32.2,31044,10.9,89.1
+No,26,M,No,"Muncie, IN",No,Yes,Yes,Yes,69041,86.4,32.2,31044,10.9,89.1
+Yes,31,M,No,"Muncie, IN",Yes,Yes,No,Yes,69041,86.4,32.2,31044,10.9,89.1
+Yes,31,M,Yes,"Rantoul, IL",Yes,No,No,Yes,12949,86.7,25.1,38769,22.7,77.3
+Yes,51,M,No,"Greenfield, WI",Yes,Yes,No,No,36953,91.4,9.8,51149,2.3,97.7
+Yes,20,M,Yes,"Richmond, VA",No,Yes,Yes,No,224485,83.2,25.5,40758,50.6,49.4
+Yes,34,M,Yes,"Richmond, VA",No,Yes,No,No,224485,83.2,25.5,40758,50.6,49.4
+Yes,29,M,Yes,"Richmond, VA",No,Yes,No,No,224485,83.2,25.5,40758,50.6,49.4
+Yes,23,M,No,"Richmond, VA",Yes,Yes,Yes,No,224485,83.2,25.5,40758,50.6,49.4
+Yes,42,M,No,"Elsmere, KY",No,Yes,No,No,8554,83.9,22.3,46642,7.1,92.9
+No,19,M,Yes,"Arlington, TX",No,Yes,No,No,393428,84.7,17.5,53326,18.8,81.2
+Yes,51,F,No,"Arlington, TX",Yes,Yes,No,No,393428,84.7,17.5,53326,18.8,81.2
+Yes,23,M,Yes,"Arlington, TX",No,Yes,Yes,No,393428,84.7,17.5,53326,18.8,81.2
+Yes,36,M,No,"Arlington, TX",No,Yes,No,No,393428,84.7,17.5,53326,18.8,81.2
+Yes,36,M,No,"Arlington, TX",No,Yes,Yes,No,393428,84.7,17.5,53326,18.8,81.2
+Yes,53,M,No,"Superior, MT",No,Yes,Yes,No,828,89.2,25.5,22069,0.7,99.3
+Yes,25,M,Yes,"Greenville, NC",No,Yes,No,No,91158,91.6,32.5,34435,37.0,63.0
+Yes,33,M,No,"Brookshire, TX",No,Yes,No,No,5202,62.1,21.5,31523,35.6,64.4
+Yes,24,M,Yes,"Summerville, SC",No,Yes,Yes,No,50320,92.9,13.0,55476,21.4,78.6
+Yes,46,M,No,"Spokane, WA",No,Yes,No,No,215050,91.6,19.9,42386,2.3,97.7
+Yes,45,M,No,"Spokane, WA",Yes,Yes,No,Yes,215050,91.6,19.9,42386,2.3,97.7
+Yes,33,M,No,"Spokane, WA",No,Yes,Yes,Yes,215050,91.6,19.9,42386,2.3,97.7
+Yes,53,M,No,"Spokane, WA",No,Yes,No,Yes,215050,91.6,19.9,42386,2.3,97.7
+Yes,41,M,No,"Ardmore, OK",Yes,Yes,No,No,24887,84.1,17.1,42549,10.2,89.8
+Yes,77,M,No,"Pittston, PA",Yes,Yes,No,No,7734,88.8,19.5,35146,1.9,98.1
+Yes,24,M,No,"Gilbert, AZ",No,Yes,No,No,237412,95.6,6.6,82424,3.4,96.6
+Yes,27,M,No,"Gilbert, AZ",No,Yes,Yes,No,237412,95.6,6.6,82424,3.4,96.6
+Yes,34,M,No,"Sandpoint, ID",No,Yes,No,No,8089,88.3,24.3,31979,0.1,99.9
+Yes,48,M,No,"Waco, TX",No,Yes,No,No,134054,79.2,29.0,33147,21.5,78.5
+Yes,24,M,No,"Odessa, TX",No,Yes,No,No,117333,76.4,12.1,59337,5.7,94.3
+Yes,50,M,No,"Odessa, TX",Yes,Yes,No,No,117333,76.4,12.1,59337,5.7,94.3
+Yes,37,M,No,"Odessa, TX",No,Yes,No,No,117333,76.4,12.1,59337,5.7,94.3
+Yes,27,M,Yes,"Toledo, OH",No,Yes,Yes,No,278494,85.2,27.8,33687,27.2,72.8
+Yes,26,M,No,"Boerne, TX",No,Yes,No,No,14716,89.8,9.7,57047,0.6,99.4
+No,30,M,Yes,"District Heights, MD",Yes,Yes,Yes,No,6001,89.5,8.8,65732,90.1,9.900000000000006
+No,43,M,No,"Hanover, IN",No,Yes,No,No,3513,83.7,24.8,40758,2.3,97.7
+Yes,30,M,No,"Carson, NV",No,Yes,No,No,54249,86.8,16.8,47668,1.9,98.1
+Yes,76,M,No,"Carson, NV",No,Yes,No,No,54249,86.8,16.8,47668,1.9,98.1
+Yes,47,M,No,"Kerrville, TX",No,Yes,No,No,23145,85.7,15.6,39206,3.1,96.9
+Yes,37,M,No,"Kerrville, TX",No,Yes,Yes,No,23145,85.7,15.6,39206,3.1,96.9
+Yes,44,M,No,"Canton, NC",Yes,Yes,No,No,4225,79.9,16.9,34388,1.8,98.2
+Yes,19,M,No,"Beverly, OH",Yes,Yes,No,No,1314,85.2,19.2,33750,0.3,99.7
+No,50,M,No,"Tuscaloosa, AL",Yes,Yes,No,No,98544,87.3,25.1,39351,41.5,58.5
+Yes,30,M,No,"North East, MD",No,Yes,Yes,No,3627,82.2,6.5,59614,7.6,92.4
+Yes,31,M,No,"Cohasset, MN",No,Yes,No,No,2716,94.3,7.3,60597,0.1,99.9
+Yes,39,M,Yes,"Troy, NY",No,Yes,Yes,No,49602,84.7,26.1,38954,16.4,83.6
+Yes,37,M,Yes,"Troy, NY",No,Yes,Yes,No,49602,84.7,26.1,38954,16.4,83.6
+Yes,36,M,No,"Arab, AL",No,Yes,Yes,No,8266,87.6,16.7,40292,0.1,99.9
+Yes,53,M,Yes,"Archdale, NC",No,Yes,No,No,11481,81.4,10.5,50420,4.0,96.0
+Yes,30,M,No,"Santa Fe, NM",No,Yes,Yes,No,83529,85.7,17.6,50737,1.0,99.0
+Yes,31,M,No,"Santa Fe, NM",No,Yes,No,No,83529,85.7,17.6,50737,1.0,99.0
+Yes,24,M,No,"Santa Fe, NM",No,Yes,No,No,83529,85.7,17.6,50737,1.0,99.0
+Yes,22,M,No,"Hendersonville, TN",Yes,Yes,No,No,56573,93.8,6.6,61786,6.3,93.7
+Yes,27,M,No,"West Jordan, UT",Yes,Yes,No,No,112854,90.7,9.1,68442,1.0,99.0
+No,40,M,No,"West Jordan, UT",No,No,Yes,No,112854,90.7,9.1,68442,1.0,99.0
+Yes,28,M,No,"Spanish Fork, UT",Yes,Yes,No,Yes,38657,91.1,7.1,65294,0.4,99.6
+Yes,33,M,No,"Spanish Fork, UT",No,Yes,Yes,No,38657,91.1,7.1,65294,0.4,99.6
+No,61,M,Yes,"Mount Vernon, NY",No,Yes,No,No,68164,84.6,15.3,50952,63.4,36.6
+Yes,20,M,No,"Cushing, OK",No,Yes,No,No,7814,78.4,20.9,37995,5.3,94.7
+Yes,45,M,No,"Loveland, CO",No,Yes,Yes,No,76055,94.1,9.1,56277,0.6,99.4
+Yes,48,M,No,"Loveland, CO",No,Yes,No,No,76055,94.1,9.1,56277,0.6,99.4
+No,23,M,No,"Loveland, CO",No,Yes,Yes,No,76055,94.1,9.1,56277,0.6,99.4
+Yes,33,M,Yes,"Bluefield, WV",No,Yes,Yes,No,10035,85.6,23.4,34972,23.0,77.0
+Yes,76,M,No,"Twinsburg, OH",No,Yes,No,No,18614,94.4,4.6,71194,13.4,86.6
+Yes,47,M,No,"Artesia, NM",No,Yes,No,No,12244,81.8,10.9,50701,1.2,98.8
+Yes,36,M,No,"Artesia, NM",No,Yes,No,No,12244,81.8,10.9,50701,1.2,98.8
+Yes,45,M,No,"Prescott, AZ",Yes,Yes,No,Yes,42112,92.8,15.5,44846,0.7,99.3
+Yes,70,M,No,"Prescott, AZ",No,Yes,No,No,42112,92.8,15.5,44846,0.7,99.3
+Yes,37,M,No,"Mitchell, SD",Yes,Yes,No,No,15757,90.1,13.9,47936,0.5,99.5
+Yes,49,M,No,"French Lick, IN",No,Yes,No,No,1768,72.9,33.7,28603,5.8,94.2
+Yes,36,M,No,"Springtown, TX",No,Yes,No,No,2834,89.6,19.4,47826,0.8,99.2
+Yes,21,M,Yes,"Durham, NC",Yes,Yes,No,No,264663,87.1,19.2,50420,41.0,59.0
+No,34,M,Yes,"Durham, NC",No,No,No,No,264663,87.1,19.2,50420,41.0,59.0
+Yes,31,M,Yes,"Durham, NC",No,Yes,Yes,No,264663,87.1,19.2,50420,41.0,59.0
+Yes,24,M,Yes,"Durham, NC",No,Yes,Yes,No,264663,87.1,19.2,50420,41.0,59.0
+Yes,35,M,Yes,"Virginia Beach, VA",No,Yes,No,No,450394,93.3,8.3,66634,19.6,80.4
+No,28,F,Yes,"Virginia Beach, VA",No,No,No,No,450394,93.3,8.3,66634,19.6,80.4
+Yes,19,M,No,"Fairbanks, AK",No,Yes,No,No,31789,91.2,13.1,55229,9.0,91.0
+Yes,33,M,No,"Fairbanks, AK",No,Yes,Yes,No,31789,91.2,13.1,55229,9.0,91.0
+Yes,28,M,No,"Fairbanks, AK",No,Yes,Yes,Yes,31789,91.2,13.1,55229,9.0,91.0
+Yes,23,M,No,"Fairbanks, AK",No,Yes,Yes,No,31789,91.2,13.1,55229,9.0,91.0
+Yes,21,M,No,"Fairbanks, AK",Yes,Yes,Yes,No,31789,91.2,13.1,55229,9.0,91.0
+Yes,25,M,No,"Ashwaubenon, WI",No,Yes,No,No,17140,93.8,9.6,49924,1.2,98.8
+Yes,59,M,No,"El Monte, CA",No,Yes,No,No,115629,57.8,24.9,38085,0.8,99.2
+Yes,36,M,No,"El Monte, CA",No,Yes,Yes,No,115629,57.8,24.9,38085,0.8,99.2
+Yes,31,M,No,"Potsdam, NY",No,Yes,No,No,9247,92.5,28.8,36300,2.8,97.2
+Yes,32,M,No,"Lodi, CA",No,Yes,Yes,No,64852,80.4,17.4,49316,0.8,99.2
+Yes,41,M,No,"Downey, CA",No,Yes,Yes,No,112861,76.1,11.4,62897,3.9,96.1
+Yes,31,M,No,"Chester, PA",No,Yes,No,No,33973,79.5,34.6,27365,74.7,25.299999999999997
+Yes,33,M,Yes,"Chester, PA",No,Yes,Yes,No,33973,79.5,34.6,27365,74.7,25.299999999999997
+Yes,24,M,Yes,"Chester, PA",No,Yes,No,No,33973,79.5,34.6,27365,74.7,25.299999999999997
+Yes,44,M,No,"Broomfield, CO",No,Yes,Yes,No,66547,95.7,6.5,81898,1.1,98.9
+No,23,M,No,"Sylacauga, AL",No,No,Yes,No,12321,82.5,29.8,33407,30.2,69.8
+Yes,39,M,No,"Wellman, IA",Yes,Yes,No,No,1417,93.2,5.7,56983,0.1,99.9
+Yes,67,M,Yes,"McAlester, OK",Yes,Yes,No,No,18157,83.9,23.0,41112,7.1,92.9
+Yes,29,M,No,"Clute, TX",No,Yes,Yes,No,11531,73.7,19.3,45307,10.5,89.5
+Yes,25,M,Yes,"Princeton, KY",No,Yes,Yes,No,6124,86.9,26.3,37500,9.0,91.0
+No,28,M,No,"Barstow, CA",Yes,Yes,No,No,23855,79.8,33.7,39632,14.6,85.4
+No,29,M,Yes,"Barstow, CA",Yes,Yes,No,No,23855,79.8,33.7,39632,14.6,85.4
+Yes,27,M,Yes,"Alexandria, LA",No,Yes,No,No,47447,81.7,25.8,34579,57.3,42.7
+Yes,36,M,Yes,"Alexandria, LA",No,Yes,No,No,47447,81.7,25.8,34579,57.3,42.7
+Yes,31,M,No,"Lead, SD",Yes,Yes,Yes,No,2998,91.8,10.3,41912,0.3,99.7
+Yes,50,M,No,"Beaverton, MI",No,Yes,No,No,1171,89.5,31.4,26538,0.4,99.6
+Yes,36,M,No,"Brodhead, KY",No,Yes,No,No,1194,63.0,41.1,20379,0.1,99.9
+No,47,M,No,"Dickson, TN",No,No,No,No,15354,84.0,19.4,37045,8.8,91.2
+Yes,46,M,No,"Slidell, LA",No,Yes,Yes,No,27905,87.5,16.3,51958,17.0,83.0
+Yes,23,M,No,"Harrisonburg, VA",No,Yes,No,Yes,53287,84.1,32.5,38750,6.4,93.6
+Yes,56,M,No,"Shelbyville, IN",No,Yes,No,No,19006,83.4,16.9,43395,1.9,98.1
+Yes,64,M,No,"Shelbyville, IN",No,Yes,No,No,19006,83.4,16.9,43395,1.9,98.1
+Yes,27,M,No,"Sand, CA",No,Yes,No,No,381,79.6,30.8,40625,3.9,96.1
+Yes,23,F,No,"Sand, CA",No,Yes,No,No,381,79.6,30.8,40625,3.9,96.1
+No,21,M,No,"Paris, TX",No,Yes,No,No,24785,84.1,25.6,32025,23.4,76.6
+Yes,34,M,No,"Auburndale, FL",No,Yes,Yes,No,15341,81.1,17.6,41827,12.8,87.2
+Yes,33,M,No,"Niceville, FL",Yes,Yes,No,No,15112,94.4,14.0,58954,4.2,95.8
+Yes,35,M,No,"McKinney, TX",No,Yes,No,No,173098,92.2,7.4,81459,10.5,89.5
+Yes,28,M,Yes,"Wilmington, DE",Yes,No,No,No,70903,83.2,24.5,40465,58.0,42.0
+Yes,60,M,No,"Wilmington, DE",Yes,Yes,No,No,70903,83.2,24.5,40465,58.0,42.0
+Yes,21,M,Yes,"Wilmington, DE",No,Yes,Yes,Yes,70903,83.2,24.5,40465,58.0,42.0
+Yes,17,M,No,"Fountain, CO",No,Yes,No,No,29241,95.5,8.6,57057,10.0,90.0
+No,21,M,No,"Akron, OH",No,No,Yes,No,198247,86.3,26.5,34512,31.5,68.5
+No,27,M,No,"Akron, OH",No,Yes,No,No,198247,86.3,26.5,34512,31.5,68.5
+Yes,61,M,Yes,"Akron, OH",No,Yes,No,No,198247,86.3,26.5,34512,31.5,68.5
+Yes,54,M,No,"Akron, OH",No,Yes,No,No,198247,86.3,26.5,34512,31.5,68.5
+Yes,23,M,No,"Lovington, NM",No,Yes,No,No,11560,64.5,19.7,51450,2.4,97.6
+Yes,43,M,No,"Rossville, GA",No,Yes,No,No,3984,68.1,34.3,32182,8.0,92.0
+Yes,64,M,No,"Rossville, GA",Yes,Yes,No,No,3984,68.1,34.3,32182,8.0,92.0
+Yes,40,M,No,"Ponder, TX",No,Yes,No,No,1681,88.6,3.4,87258,3.1,96.9
+Yes,46,M,No,"Rapid, SD",No,Yes,No,No,74241,91.7,15.2,46966,1.1,98.9
+Yes,44,M,No,"Rapid, SD",Yes,Yes,No,No,74241,91.7,15.2,46966,1.1,98.9
+Yes,53,M,No,"Rapid, SD",No,Yes,No,No,74241,91.7,15.2,46966,1.1,98.9
+Yes,48,M,No,"Rapid, SD",No,Yes,No,No,74241,91.7,15.2,46966,1.1,98.9
+No,37,M,No,"Mora, MN",No,Yes,No,No,3459,85.4,17.6,39982,0.8,99.2
+Yes,28,M,Yes,"Beckley, WV",No,Yes,Yes,No,16703,86.1,21.8,34944,21.2,78.8
+Yes,28,M,No,"Sierra Vista, AZ",No,Yes,Yes,No,43215,93.2,12.7,59091,9.0,91.0
+Yes,26,M,No,"Rialto, CA",No,Yes,No,No,102872,67.4,19.7,50971,16.4,83.6
+Yes,30,M,No,"Rialto, CA",No,Yes,No,Yes,102872,67.4,19.7,50971,16.4,83.6
+No,29,M,No,"Amarillo, TX",No,No,No,No,198744,83.4,17.0,47735,6.6,93.4
+Yes,31,M,No,"Amarillo, TX",Yes,Yes,No,No,198744,83.4,17.0,47735,6.6,93.4
+Yes,54,M,No,"Amarillo, TX",No,Yes,No,No,198744,83.4,17.0,47735,6.6,93.4
+Yes,35,M,No,"Amarillo, TX",No,Yes,Yes,No,198744,83.4,17.0,47735,6.6,93.4
+Yes,27,M,No,"Muscle Shoals, AL",Yes,Yes,Yes,No,13866,88.7,10.7,48896,15.3,84.7
+Yes,51,M,No,"Hurst, TX",No,Yes,Yes,No,39086,85.5,12.8,53788,5.6,94.4
+Yes,18,M,Yes,"Midwest, OK",No,Yes,No,No,57290,89.2,16.0,44578,21.9,78.1
+Yes,39,M,No,"Monterey, CA",Yes,Yes,No,No,28492,94.3,9.1,66166,2.8,97.2
+Yes,46,M,No,"West Palm Beach, FL",No,Yes,No,No,108639,84.4,20.0,45800,32.5,67.5
+Yes,49,M,No,"Beverly, MA",Yes,Yes,No,No,41689,94.1,8.0,72837,1.6,98.4
+Yes,35,M,No,"Lisle, IL",No,No,No,No,23560,95.5,8.6,75373,5.6,94.4
+Yes,36,M,Yes,"Lawton, OK",No,Yes,No,No,94697,88.5,19.9,42493,21.4,78.6
+Yes,31,M,No,"Brookhaven, MS",No,Yes,No,No,12190,84.8,37.1,30487,54.1,45.9
+Yes,27,M,No,"Cartersville, GA",No,Yes,No,No,20494,81.2,14.9,47611,18.5,81.5
+Yes,30,M,No,"Cartersville, GA",No,Yes,No,No,20494,81.2,14.9,47611,18.5,81.5
+Yes,46,F,No,"Naples, FL",Yes,Yes,Yes,No,21666,94.1,8.8,79515,4.2,95.8
+Yes,18,M,No,"Indio, CA",No,Yes,Yes,No,88184,73.7,19.5,50525,2.4,97.6
+Yes,38,M,No,"Indio, CA",No,Yes,No,No,88184,73.7,19.5,50525,2.4,97.6
+Yes,71,M,No,"Indio, CA",No,Yes,No,Yes,88184,73.7,19.5,50525,2.4,97.6
+Yes,59,M,No,"Seaside, CA",No,Yes,No,No,34108,75.8,18.7,51704,8.4,91.6
+Yes,57,M,Yes,"Monroeville, AL",No,Yes,No,No,5994,82.3,36.7,30678,55.7,44.3
+Yes,31,M,No,"Parma, OH",No,Yes,Yes,No,79589,89.8,11.2,50440,2.3,97.7
+Yes,35,M,No,"Kirkland, WA",No,Yes,Yes,No,88104,96.3,6.3,92127,1.8,98.2
+No,33,M,Yes,"Columbus, MS",No,No,Yes,No,24351,80.6,31.2,30968,60.0,40.0
+Yes,45,M,No,"Columbus, MS",No,Yes,Yes,No,24351,80.6,31.2,30968,60.0,40.0
+Yes,22,M,No,"Modesto, CA",No,Yes,No,No,211159,81.2,20.5,48577,4.2,95.8
+Yes,24,M,No,"Modesto, CA",No,Yes,Yes,No,211159,81.2,20.5,48577,4.2,95.8
+Yes,39,M,No,"Modesto, CA",No,Yes,Yes,No,211159,81.2,20.5,48577,4.2,95.8
+Yes,53,F,No,"Modesto, CA",No,Yes,No,No,211159,81.2,20.5,48577,4.2,95.8
+Yes,42,M,No,"Modesto, CA",No,Yes,No,No,211159,81.2,20.5,48577,4.2,95.8
+Yes,28,M,Yes,"York, PA",Yes,Yes,No,No,44053,76.5,37.3,29025,28.0,72.0
+Yes,38,M,No,"York, PA",No,Yes,No,No,44053,76.5,37.3,29025,28.0,72.0
+Yes,31,M,Yes,"Palm Beach Gardens, FL",No,No,No,No,55444,94.9,6.5,68802,4.4,95.6
+Yes,40,M,No,"Truth or Consequences, NM",No,Yes,No,No,5959,82.2,25.9,26877,0.6,99.4
+Yes,30,M,No,"Mandeville, LA",No,Yes,No,No,12424,92.0,6.0,71689,4.4,95.6
+Yes,21,M,No,"Cedar Rapids, IA",No,Yes,Yes,No,131598,93.5,12.3,53581,5.6,94.4
+Yes,25,M,Yes,"Cedar Rapids, IA",No,Yes,No,No,131598,93.5,12.3,53581,5.6,94.4
+Yes,35,M,No,"Calexico, CA",No,Yes,Yes,No,39959,56.6,27.4,34742,0.3,99.7
+Yes,47,M,No,"Kentwood, MI",Yes,Yes,No,No,51625,89.6,14.6,49612,15.4,84.6
+Yes,43,M,Yes,"Kentwood, MI",No,Yes,No,Yes,51625,89.6,14.6,49612,15.4,84.6
+Yes,36,M,No,"New Paltz, NY",No,Yes,No,No,7200,94.4,31.5,41421,6.4,93.6
+Yes,34,M,Yes,"Cape Coral, FL",No,Yes,No,Yes,178602,90.4,14.2,50536,4.3,95.7
+Yes,31,M,No,"Cape Coral, FL",No,Yes,Yes,No,178602,90.4,14.2,50536,4.3,95.7
+No,30,M,Yes,"Cathedral, CA",No,No,No,No,53957,75.3,23.1,39872,2.6,97.4
+Yes,28,M,No,"Zanesville, OH",Yes,Yes,No,No,25221,80.3,31.4,26268,9.7,90.3
+Yes,47,M,No,"Paddock Lake, WI",No,Yes,No,No,2981,91.8,11.8,65250,0.5,99.5
+Yes,36,M,No,"Talking Rock, GA",No,Yes,No,No,68,76.7,6.7,42500,0.0,100.0
+Yes,45,M,Yes,"Frederick, MD",No,Yes,No,No,70067,89.2,11.4,64700,18.6,81.4
+No,18,M,No,"Tampa, FL",No,Yes,Yes,No,380945,86.6,21.8,44185,26.2,73.8
+Yes,27,M,No,"Tampa, FL",Yes,Yes,No,No,380945,86.6,21.8,44185,26.2,73.8
+Yes,53,M,No,"Tampa, FL",No,Yes,No,No,380945,86.6,21.8,44185,26.2,73.8
+Yes,46,M,No,"Tampa, FL",Yes,Yes,No,No,380945,86.6,21.8,44185,26.2,73.8
+No,22,M,Yes,"Tampa, FL",No,No,No,No,380945,86.6,21.8,44185,26.2,73.8
+Yes,25,M,Yes,"Savannah, GA",No,Yes,No,Yes,145594,86.0,26.5,36466,55.4,44.6
+Yes,57,M,No,"Smithville, MS",No,Yes,No,No,757,77.6,15.8,37583,1.7,98.3
+Yes,35,M,No,"Salem, OR",No,Yes,Yes,No,166427,86.9,18.2,47191,1.5,98.5
+No,29,M,No,"Salem, OR",No,No,No,No,166427,86.9,18.2,47191,1.5,98.5
+Yes,18,M,No,"Hohenwald, TN",No,Yes,No,No,3627,80.9,29.5,36050,3.2,96.8
+Yes,62,M,No,"Burkesville, KY",No,Yes,Yes,No,1500,70.5,33.1,19403,8.3,91.7
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,15.4,49604,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,15.4,49604,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,15.4,51177,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,15.4,51177,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,26.9,49604,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,26.9,49604,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,26.9,51177,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,80.7,26.9,51177,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,15.4,49604,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,15.4,49604,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,15.4,51177,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,15.4,51177,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,26.9,49604,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,26.9,49604,0.0,100.0
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,26.9,51177,21.8,78.2
+Yes,29,M,No,"Mesquite, TX",No,Yes,Yes,No,144629,7.9,26.9,51177,0.0,100.0
+Yes,33,M,No,"Colorado Springs, CO",No,Yes,No,No,457818,93.1,13.4,54527,6.3,93.7
+Yes,63,M,No,"Colorado Springs, CO",Yes,Yes,No,No,457818,93.1,13.4,54527,6.3,93.7
+Yes,25,M,No,"Colorado Springs, CO",No,Yes,No,No,457818,93.1,13.4,54527,6.3,93.7
+Yes,40,M,Yes,"Colorado Springs, CO",No,Yes,No,No,457818,93.1,13.4,54527,6.3,93.7
+Yes,39,M,No,"Colorado Springs, CO",No,Yes,Yes,No,457818,93.1,13.4,54527,6.3,93.7
+No,56,M,Yes,"Opelika, AL",No,Yes,Yes,No,29887,83.7,23.0,40489,43.5,56.5
+Yes,49,M,No,"Hutchinson, MN",No,Yes,No,No,13864,93.9,7.3,51032,0.9,99.1
+Yes,20,M,No,"Eureka, CA",No,Yes,No,No,27060,86.5,24.5,37094,1.9,98.1
+Yes,62,M,No,"Council, ID",No,No,No,Yes,834,82.7,15.4,35750,0.1,99.9
+No,6,M,No,"Marksville, LA",No,Yes,Yes,Yes,5480,64.7,29.8,25850,42.9,57.1
+Yes,18,M,No,"Merced, CA",No,Yes,Yes,No,82199,74.5,31.9,37627,6.3,93.7
+Yes,20,M,No,"Hominy, OK",Yes,Yes,Yes,No,3456,79.5,21.6,31226,14.6,85.4
+Yes,30,M,No,"Lakeshire, MO",No,Yes,No,No,1410,92.5,13.0,43438,2.9,97.1
+Yes,36,F,No,"Goose Creek, SC",Yes,Yes,No,No,41162,92.9,11.2,61122,18.3,81.7
+No,48,M,No,"Wadesboro, NC",No,No,No,No,5324,79.7,32.2,27361,60.7,39.3
+Yes,34,M,No,"Chico, CA",No,Yes,No,No,91666,92.0,24.9,42342,2.1,97.9
+No,26,M,No,"Chico, CA",No,Yes,Yes,Yes,91666,92.0,24.9,42342,2.1,97.9
+Yes,25,M,Yes,"Chico, CA",Yes,Yes,No,No,91666,92.0,24.9,42342,2.1,97.9
+Yes,34,M,No,"Chico, CA",No,Yes,No,Yes,91666,92.0,24.9,42342,2.1,97.9
+Yes,36,M,No,"Brighton, CO",No,Yes,Yes,No,39184,82.5,9.9,61051,1.5,98.5
+Yes,22,M,No,"Dillon, MT",No,Yes,No,No,4252,92.5,22.0,38750,0.3,99.7
+Yes,57,M,No,"Aiken, SC",No,Yes,No,No,30564,89.5,16.2,55502,28.5,71.5
+Yes,43,M,No,"Aiken, SC",Yes,Yes,No,No,30564,89.5,16.2,55502,28.5,71.5
+Yes,32,M,No,"Spring Lake, NC",No,Yes,No,No,12239,91.5,21.4,36964,36.3,63.7
+No,24,M,Yes,"Minneapolis, MN",No,No,No,No,415678,88.6,21.9,51480,18.6,81.4
+Yes,50,M,No,"Minneapolis, MN",Yes,Yes,No,No,415678,88.6,21.9,51480,18.6,81.4
+No,40,F,No,"Minneapolis, MN",No,No,No,No,415678,88.6,21.9,51480,18.6,81.4
+Yes,21,M,Yes,"Cayce, SC",No,Yes,No,No,13848,89.5,23.3,43452,25.1,74.9
+No,58,M,No,"Arlington, GA",No,Yes,No,No,1393,71.2,37.5,21429,76.1,23.900000000000006
+No,24,M,No,"Colbert, OK",No,Yes,Yes,No,1211,86.8,22.0,34911,12.5,87.5
+Yes,45,M,No,"Reno, NV",No,Yes,No,No,242280,85.7,18.3,47012,2.9,97.1
+Yes,38,M,No,"Reno, NV",Yes,Yes,No,No,242280,85.7,18.3,47012,2.9,97.1
+Yes,22,M,Yes,"Reno, NV",Yes,Yes,Yes,No,242280,85.7,18.3,47012,2.9,97.1
+Yes,36,M,No,"Reno, NV",No,Yes,Yes,No,242280,85.7,18.3,47012,2.9,97.1
+No,29,M,No,"Reno, NV",No,No,Yes,No,242280,85.7,18.3,47012,2.9,97.1
+Yes,38,M,No,"Reno, NV",No,Yes,Yes,No,242280,85.7,18.3,47012,2.9,97.1
+Yes,24,M,No,"Reno, NV",No,Yes,Yes,No,242280,85.7,18.3,47012,2.9,97.1
+No,25,M,No,"Reno, NV",No,No,No,No,242280,85.7,18.3,47012,2.9,97.1
+Yes,49,M,No,"Corpus Christi, TX",No,Yes,No,Yes,325342,81.4,17.5,50658,4.3,95.7
+Yes,23,M,No,"Corpus Christi, TX",No,Yes,No,No,325342,81.4,17.5,50658,4.3,95.7
+Yes,45,M,No,"Columbia Heights, MN",No,Yes,No,No,19873,86.2,16.8,47717,13.5,86.5
+Yes,37,F,No,"Ozark, MO",No,Yes,No,No,19393,89.2,12.6,45695,0.8,99.2
+Yes,50,M,No,"Seagoville, TX",No,Yes,No,No,16321,72.2,15.8,43641,16.8,83.2
+Yes,22,M,No,"Celina, OH",No,Yes,No,No,10293,90.1,11.9,41040,0.5,99.5
+Yes,53,M,No,"Maysville, MO",No,Yes,No,No,1073,84.9,14.4,28472,0.4,99.6
+No,31,M,No,"Wink, TX",No,Yes,No,No,1040,88.3,14.6,68882,0.7,99.3
+Yes,23,M,No,"Bangor, ME",No,Yes,Yes,No,32028,91.4,26.2,35674,1.7,98.3
+Yes,18,M,No,"Norwalk, CA",No,Yes,No,No,105849,73.5,14.3,59756,4.4,95.6
+Yes,36,M,No,"Deming, NM",No,Yes,No,No,14267,66.3,33.1,25844,1.5,98.5
+Yes,66,M,No,"Big Springs, NE",No,Yes,No,No,391,86.3,18.1,46250,0.0,100.0
+Yes,24,M,No,"Irving, TX",No,Yes,Yes,No,239236,79.7,15.1,52154,12.3,87.7
+Yes,29,M,Yes,"Irving, TX",No,Yes,No,No,239236,79.7,15.1,52154,12.3,87.7
+Yes,45,M,No,"Irving, TX",No,Yes,No,No,239236,79.7,15.1,52154,12.3,87.7
+Yes,48,M,Yes,"Irving, TX",No,Yes,No,No,239236,79.7,15.1,52154,12.3,87.7
+Yes,60,M,No,"Neenah, WI",No,Yes,No,No,25835,94.0,10.8,54134,1.3,98.7
+Yes,46,M,Yes,"Richmond Heights, OH",Yes,Yes,No,No,10446,91.8,10.6,48272,44.9,55.1
+Yes,48,M,No,"Laramie, WY",Yes,Yes,No,No,32203,96.7,30.0,39371,1.3,98.7
+No,36,M,Yes,"Yonkers, NY",No,Yes,Yes,No,199872,83.0,16.7,59049,18.7,81.3
+Yes,66,M,No,"Leitchfield, KY",No,Yes,No,No,6784,75.8,29.0,27910,3.1,96.9
+Yes,54,M,No,"Marina, CA",No,Yes,No,No,21560,83.1,15.3,54193,7.5,92.5
+Yes,28,M,Yes,"Lynwood, CA",No,Yes,No,No,71020,52.8,25.3,43109,10.3,89.7
+Yes,36,M,No,"Healdton, OK",No,Yes,No,No,2744,85.7,14.3,39313,1.1,98.9
+Yes,21,M,No,"Denton, TX",Yes,Yes,No,No,133681,88.8,20.6,49100,10.3,89.7
+Yes,32,M,No,"Mountain View, CO",No,Yes,No,No,534,82.2,10.7,45714,0.4,99.6
+No,56,M,No,"Humboldt, TN",No,No,No,No,8255,81.1,22.9,31684,47.9,52.1
+No,19,M,No,"Gilroy, CA",No,No,No,Yes,55392,77.0,15.1,83027,1.9,98.1
+Yes,33,M,No,"Mount Hope, WV",No,Yes,No,No,1336,88.1,42.3,21218,18.0,82.0
+Yes,51,M,Yes,"Dallas, NC",No,Yes,Yes,No,4634,82.7,16.4,34770,15.9,84.1
+Yes,36,M,No,"Camarillo, CA",Yes,Yes,No,No,67238,92.2,6.4,88152,1.9,98.1
+Yes,25,M,No,"Kent, OH",Yes,Yes,No,No,29927,93.0,35.1,35619,9.6,90.4
+Yes,27,M,Yes,"Kent, OH",No,Yes,No,No,29927,93.0,35.1,35619,9.6,90.4
+Yes,22,F,No,"Northwood, OH",No,Yes,Yes,No,5380,92.2,10.0,53690,0.7,99.3
+Yes,32,M,No,"Knoxville, TN",No,Yes,Yes,No,185312,87.8,25.7,34226,17.1,82.9
+Yes,32,M,No,"Knoxville, TN",No,Yes,Yes,No,185312,87.8,25.7,34226,17.1,82.9
+Yes,74,M,No,"Knoxville, TN",No,Yes,No,No,185312,87.8,25.7,34226,17.1,82.9
+Yes,58,M,No,"Taos, NM",Yes,Yes,No,No,6013,88.5,21.8,31112,0.7,99.3
+Yes,30,M,Yes,"Palmdale, CA",No,Yes,No,No,156762,74.2,21.3,52392,14.8,85.2
+No,17,M,No,"Palmdale, CA",No,Yes,No,No,156762,74.2,21.3,52392,14.8,85.2
+Yes,48,M,Yes,"Douglasville, GA",No,Yes,No,No,32571,88.7,19.1,47707,55.9,44.1
+No,36,M,Yes,"Breaux Bridge, LA",Yes,Yes,No,No,8311,74.1,23.7,36288,47.3,52.7
+Yes,61,M,No,"Ludlow, KY",No,Yes,No,Yes,4535,86.2,25.5,44246,1.0,99.0
+Yes,56,M,No,"Burlington, VT",No,Yes,No,Yes,42409,89.0,24.8,44671,3.9,96.1
+Yes,76,M,No,"Burlington, VT",Yes,Yes,No,Yes,42409,89.0,24.8,44671,3.9,96.1
+No,29,M,No,"Brooksville, FL",No,No,Yes,No,8024,82.2,27.3,30392,18.0,82.0
+Yes,26,M,No,"Brooksville, FL",No,Yes,No,No,8024,82.2,27.3,30392,18.0,82.0
+No,35,M,Yes,"Dearborn, MI",Yes,Yes,No,No,95083,81.0,28.9,47375,4.0,96.0
+Yes,31,F,Yes,"Dearborn, MI",Yes,Yes,Yes,No,95083,81.0,28.9,47375,4.0,96.0
+Yes,36,M,No,"Winnsboro, LA",No,Yes,Yes,No,4687,65.0,52.3,19409,66.6,33.400000000000006
+Yes,24,M,Yes,"Lansing, MI",No,Yes,No,No,116541,87.6,29.6,35563,23.7,76.3
+Yes,23,M,No,"Porterville, CA",No,Yes,No,No,59722,66.9,30.9,38456,1.2,98.8
+Yes,31,M,No,"Palo Alto, CA",Yes,Yes,No,No,67032,97.4,5.4,136519,1.9,98.1
+Yes,38,M,No,"Homedale, ID",No,Yes,No,Yes,2595,66.6,47.7,24474,0.2,99.8
+No,36,M,No,"Lucedale, MS",No,No,Yes,No,3057,77.5,30.9,38900,29.6,70.4
+No,52,M,No,"Franklin, LA",No,No,No,No,7115,78.9,29.5,29964,56.2,43.8
+Yes,28,M,No,"Suffolk, VA",No,Yes,No,Yes,89127,87.5,11.5,65499,42.7,57.3
+Yes,36,M,No,"Rosemead, CA",No,No,No,No,54331,66.2,19.3,44906,0.5,99.5
+No,39,M,No,"Rawlins, WY",No,No,No,No,9002,88.3,15.7,56838,1.1,98.9
+Yes,37,M,No,"Livingston, MT",No,Yes,No,No,7437,94.7,12.7,40619,0.1,99.9
+Yes,37,M,No,"Sioux Falls, SD",No,Yes,No,No,173774,90.9,12.1,52494,4.2,95.8
+Yes,29,M,No,"Olympia, WA",No,Yes,Yes,No,50747,93.3,17.7,53617,2.0,98.0
+Yes,39,M,No,"Johnson, TN",No,Yes,Yes,No,65934,89.3,23.1,39566,6.6,93.4
+Yes,47,M,No,"Johnson, TN",Yes,Yes,Yes,No,65934,89.3,23.1,39566,6.6,93.4
+Yes,52,M,No,"Redding, CA",Yes,Yes,No,No,91230,90.6,18.8,43341,1.2,98.8
+Yes,56,M,No,"Redding, CA",No,Yes,No,No,91230,90.6,18.8,43341,1.2,98.8
+Yes,28,M,No,"Ceres, CA",No,Yes,Yes,No,47919,67.9,17.9,47858,2.6,97.4
+Yes,32,M,No,"Carrizozo, NM",Yes,Yes,No,No,937,83.9,34.3,22841,0.7,99.3
+Yes,50,M,No,"Acworth, GA",Yes,Yes,No,No,22412,90.7,9.6,53080,25.6,74.4
+Yes,37,M,No,"Kelso, WA",Yes,Yes,No,No,11967,83.0,30.6,33843,0.8,99.2
+Yes,27,M,Yes,"Kelso, WA",No,Yes,No,No,11967,83.0,30.6,33843,0.8,99.2
+Yes,45,F,No,"Rising Sun, MD",Yes,Yes,No,No,2792,87.4,14.7,55893,0.7,99.3
+Yes,56,M,No,"San Fernando, CA",No,Yes,Yes,No,24633,58.5,18.9,55170,0.9,99.1
+Yes,58,M,No,"Norfolk, VA",Yes,Yes,No,No,245560,87.0,21.0,44480,43.1,56.9
+Yes,25,M,Yes,"Norfolk, VA",No,Yes,No,Yes,245560,87.0,21.0,44480,43.1,56.9
+Yes,25,F,Yes,"Norfolk, VA",No,Yes,No,No,245560,87.0,21.0,44480,43.1,56.9
+Yes,30,M,No,"Norfolk, VA",Yes,Yes,No,No,245560,87.0,21.0,44480,43.1,56.9
+Yes,43,M,Yes,"Norfolk, VA",Yes,Yes,No,Yes,245560,87.0,21.0,44480,43.1,56.9
+Yes,36,M,No,"Norfolk, VA",No,Yes,No,No,245560,87.0,21.0,44480,43.1,56.9
+Yes,25,F,No,"Norfolk, VA",No,Yes,No,No,245560,87.0,21.0,44480,43.1,56.9
+Yes,29,M,No,"Sevierville, TN",No,Yes,Yes,Yes,16621,82.9,25.3,34833,1.5,98.5
+Yes,60,M,No,"Cle Elum, WA",Yes,Yes,No,No,1949,90.6,21.8,45324,0.4,99.6
+Yes,40,M,No,"Hurst, IL",Yes,Yes,No,No,800,80.8,15.7,30000,0.8,99.2
+Yes,39,M,No,"Santa Clarita, CA",No,Yes,No,No,213481,89.0,9.3,83554,3.2,96.8
+Yes,26,M,No,"Elkins, WV",No,Yes,No,No,7113,88.8,19.4,38214,1.2,98.8
+Yes,24,M,Yes,"Southfield, MI",No,Yes,No,No,73413,92.6,15.2,49244,70.3,29.700000000000003
+No,25,F,No,"El Cajon, CA",No,Yes,Yes,No,103408,80.4,24.2,45925,6.3,93.7
+No,38,M,Yes,"El Cajon, CA",Yes,Yes,No,Yes,103408,80.4,24.2,45925,6.3,93.7
+Yes,19,M,Yes,"Belle Glade, FL",No,Yes,Yes,No,19346,63.6,35.9,30303,56.3,43.7
+Yes,38,M,No,"Rainbow, AL",No,Yes,No,No,9588,92.5,17.7,49338,7.2,92.8
+Yes,29,M,No,"Union, CA",Yes,Yes,No,Yes,75012,87.8,8.1,85521,6.3,93.7
+Yes,55,M,No,"Statesville, NC",Yes,Yes,No,No,26265,80.1,28.4,32728,34.5,65.5
+Yes,40,M,Yes,"Port Barre, LA",No,Yes,No,No,2132,72.6,38.0,22273,25.7,74.3
+Yes,39,M,Yes,"Eufaula, OK",Yes,Yes,Yes,No,2876,83.2,30.0,30781,7.0,93.0
+Yes,55,M,No,"Burns, OR",No,Yes,No,No,2731,85.9,21.2,34627,0.3,99.7
+Yes,52,M,No,"Mountain Pine, AR",No,Yes,No,No,773,69.4,25.0,31333,20.4,79.6
+Yes,27,M,No,"Latta, SC",No,Yes,No,No,1308,78.8,31.1,28421,38.4,61.6
+Yes,40,M,No,"Lenoir, TN",Yes,Yes,No,No,9084,73.0,27.8,35163,1.6,98.4
+No,30,M,No,"Lenoir, TN",No,Yes,Yes,Yes,9084,73.0,27.8,35163,1.6,98.4
+Yes,30,M,No,"Mansfield, TX",No,Yes,Yes,No,66600,94.4,6.2,90089,14.2,85.8
+Yes,41,F,No,"Phenix, AL",No,Yes,Yes,No,36542,84.8,21.0,36698,46.6,53.4
+Yes,38,M,No,"Phenix, AL",No,Yes,No,No,36542,84.8,21.0,36698,46.6,53.4
+Yes,17,M,No,"Phenix, AL",No,Yes,Yes,No,36542,84.8,21.0,36698,46.6,53.4
+No,27,M,Yes,"Phenix, AL",No,No,Yes,No,36542,84.8,21.0,36698,46.6,53.4
+No,25,M,No,"Saginaw, TX",No,Yes,No,No,22834,92.1,7.5,74903,4.3,95.7
+Yes,62,M,No,"Newark, CA",Yes,Yes,No,No,46179,87.7,7.9,86757,4.7,95.3
+Yes,23,M,No,"Newark, CA",No,Yes,Yes,No,46179,87.7,7.9,86757,4.7,95.3
+Yes,30,M,No,"Rancho Cordova, CA",Yes,Yes,No,No,72067,89.3,17.2,52530,10.1,89.9
+Yes,32,M,Yes,"Rancho Cordova, CA",Yes,Yes,Yes,No,72067,89.3,17.2,52530,10.1,89.9
+Yes,53,M,No,"Schulter, OK",No,Yes,No,No,501,74.7,36.5,29063,1.0,99.0
+Yes,31,M,No,"Ocala, FL",Yes,Yes,No,No,58423,86.1,22.6,35924,20.9,79.1
+Yes,54,M,No,"Ocala, FL",Yes,Yes,No,No,58423,86.1,22.6,35924,20.9,79.1
+Yes,30,M,No,"Milton, FL",No,Yes,Yes,No,9720,90.8,15.0,46040,13.9,86.1
+Yes,55,M,No,"Seaside, OR",No,Yes,No,Yes,6658,87.6,19.3,37887,0.6,99.4
+Yes,36,M,No,"Austin, AR",No,Yes,No,No,2984,95.9,7.7,70652,2.0,98.0
+Yes,52,M,No,"Roseville, MN",Yes,Yes,No,Yes,35766,93.4,11.5,63678,6.2,93.8
+Yes,35,M,No,"Maiden, NC",Yes,Yes,No,No,3393,76.5,18.1,48324,11.3,88.7
+Yes,32,F,Yes,"Syracuse, NY",Yes,Yes,No,No,143093,80.2,34.8,31881,29.5,70.5
+Yes,41,M,Yes,"Syracuse, NY",No,Yes,No,No,143093,80.2,34.8,31881,29.5,70.5
+Yes,29,M,Yes,"Urbandale, IA",No,Yes,No,Yes,42966,97.0,5.9,78059,2.8,97.2
+No,24,M,Yes,"Beckville, TX",No,Yes,Yes,No,830,77.1,26.3,37917,23.8,76.2
+Yes,50,M,No,"Bradenton, FL",Yes,Yes,No,No,55191,84.9,18.1,40227,15.9,84.1
+Yes,68,M,No,"Bradenton, FL",No,Yes,No,No,55191,84.9,18.1,40227,15.9,84.1
+Yes,52,M,No,"Jal, NM",No,Yes,No,No,2136,72.6,6.6,51667,0.8,99.2
+No,39,M,No,"Yorba Linda, CA",No,No,No,No,67818,95.5,3.6,117855,1.3,98.7
+Yes,48,M,No,"Republic, MO",No,Yes,Yes,No,16086,93.2,15.8,50972,0.7,99.3
+Yes,30,M,No,"Mena, AR",No,Yes,Yes,No,5594,88.8,18.5,28509,0.2,99.8
+No,25,M,No,"Commerce, GA",No,Yes,No,No,6763,76.1,23.2,40767,13.5,86.5
+Yes,35,M,No,"Ogden, UT",Yes,Yes,No,No,86366,82.3,22.9,41036,2.2,97.8
+Yes,25,M,No,"Ogden, UT",No,Yes,No,Yes,86366,82.3,22.9,41036,2.2,97.8
+Yes,31,M,No,"Elizabethton, TN",No,Yes,No,No,13591,81.9,23.7,30217,3.1,96.9
+Yes,31,F,Yes,"Inglewood, CA",No,Yes,No,No,110290,72.5,22.4,42044,43.9,56.1
+No,32,M,Yes,"Inglewood, CA",No,Yes,No,No,110290,72.5,22.4,42044,43.9,56.1
+Yes,38,F,No,"Houston, AK",No,Yes,No,No,2278,90.2,14.8,50438,0.4,99.6
+Yes,22,M,No,"Fairborn, OH",No,Yes,No,No,33499,86.3,23.1,41618,7.7,92.3
+Yes,36,M,No,"Ripon, CA",No,Yes,Yes,No,15497,90.6,9.8,80734,1.5,98.5
+Yes,46,F,No,"Ripon, CA",No,Yes,Yes,No,15497,90.6,9.8,80734,1.5,98.5
+Yes,16,M,No,"Blue Springs, MO",Yes,Yes,No,No,54415,93.8,10.5,63753,6.2,93.8
+Yes,22,M,Yes,"Blue Springs, MO",No,Yes,No,No,54415,93.8,10.5,63753,6.2,93.8
+No,21,M,Yes,"East Troy, WI",No,No,Yes,No,4315,92.3,21.4,49013,0.4,99.6
+Yes,56,M,Yes,"Montgomery, AL",No,No,No,Yes,200502,85.5,24.1,42927,56.6,43.4
+Yes,38,M,Yes,"Hesston, KS",Yes,Yes,No,No,3774,99.3,11.1,59646,1.6,98.4
+Yes,18,M,Yes,"Roanoke, VA",Yes,Yes,No,No,99331,84.4,21.2,39930,28.5,71.5
+Yes,41,M,No,"Ashville, AL",No,Yes,No,No,2299,77.6,28.3,40547,20.3,79.7
+Yes,24,M,Yes,"Raleigh, NC",No,Yes,Yes,No,458264,90.5,16.0,55398,29.3,70.7
+Yes,24,M,Yes,"Raleigh, NC",No,Yes,Yes,No,458264,90.5,16.0,55398,29.3,70.7
+Yes,37,M,No,"Gautier, MS",No,Yes,No,No,18498,88.4,15.2,44675,32.4,67.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,28.2,52656,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,28.2,52656,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,28.2,66828,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,28.2,66828,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,5.0,52656,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,5.0,52656,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,5.0,66828,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,98.1,5.0,66828,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,28.2,52656,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,28.2,52656,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,28.2,66828,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,28.2,66828,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,5.0,52656,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,5.0,52656,4.4,95.6
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,5.0,66828,0.9,99.1
+No,36,M,No,"Bel Air, MD",Yes,Yes,No,No,10062,95.5,5.0,66828,4.4,95.6
+Yes,41,M,No,"Johnstown, PA",No,Yes,No,No,19795,84.7,35.1,24415,14.6,85.4
+Yes,22,M,No,"Beaumont, TX",Yes,Yes,No,No,118763,84.9,21.8,40992,47.3,52.7
+Yes,23,M,No,"Beaumont, TX",No,Yes,No,No,118763,84.9,21.8,40992,47.3,52.7
+No,42,M,No,"Bismarck, ND",No,No,Yes,No,72378,92.8,9.6,58901,0.7,99.3
+Yes,49,M,No,"Rochester, NY",Yes,Yes,No,No,207543,80.5,33.5,30960,41.7,58.3
+Yes,41,M,No,"Carlsbad, NM",No,Yes,Yes,No,28895,85.6,13.5,51097,1.9,98.1
+Yes,37,M,No,"Biloxi, MS",No,Yes,No,No,45780,85.1,24.6,39011,19.6,80.4
+Yes,46,M,No,"Clinton, IL",Yes,Yes,No,No,7088,88.7,16.9,44490,0.9,99.1
+Yes,43,M,No,"Greensboro, NC",Yes,Yes,No,Yes,288443,88.7,19.3,41628,40.6,59.4
+Yes,25,M,Yes,"Greensboro, NC",No,Yes,Yes,Yes,288443,88.7,19.3,41628,40.6,59.4
+Yes,45,M,No,"Glendale, CA",Yes,Yes,Yes,No,200373,84.4,14.6,52574,1.3,98.7
+No,16,M,No,"Addison, TX",No,No,Yes,No,14961,94.0,10.0,67695,11.8,88.2
+Yes,26,M,No,"Piedmont, AL",No,Yes,Yes,No,4647,76.8,25.6,28884,10.0,90.0
+Yes,38,F,No,"Vancouver, WA",No,Yes,No,No,178463,89.7,14.8,50626,2.9,97.1
+No,43,M,No,"Vancouver, WA",No,No,Yes,No,178463,89.7,14.8,50626,2.9,97.1
+Yes,25,M,No,"Vancouver, WA",No,Yes,Yes,No,178463,89.7,14.8,50626,2.9,97.1
+Yes,50,M,No,"Vancouver, WA",No,Yes,Yes,No,178463,89.7,14.8,50626,2.9,97.1
+Yes,34,M,No,"Russellville, KY",No,Yes,Yes,No,7007,74.3,27.4,30743,15.9,84.1
+Yes,38,M,No,"Evansville, IN",No,Yes,Yes,Yes,118941,87.5,21.0,35785,12.6,87.4
+Yes,38,M,No,"Burnsville, MN",Yes,Yes,No,Yes,61317,93.9,11.2,63649,10.0,90.0
+Yes,48,M,No,"Burnsville, MN",Yes,Yes,No,Yes,61317,93.9,11.2,63649,10.0,90.0
+Yes,60,M,No,"Idaho Falls, ID",No,Yes,No,No,60808,90.2,15.9,44580,0.7,99.3
+No,24,M,No,"Covington, LA",No,No,Yes,No,10237,81.3,18.4,49141,19.0,81.0
+Yes,23,M,No,"White Plains, KY",No,Yes,Yes,No,910,82.3,14.4,40000,0.9,99.1
+Yes,61,M,No,"Hopewell, VA",Yes,Yes,No,Yes,22425,80.9,19.0,39064,37.0,63.0
+Yes,16,M,Yes,"Gainesville, FL",Yes,Yes,No,No,130992,92.1,35.6,31818,23.0,77.0
+Yes,39,M,No,"Gainesville, FL",Yes,Yes,No,No,130992,92.1,35.6,31818,23.0,77.0
+Yes,25,M,No,"Stamford, CT",Yes,Yes,No,No,129069,89.0,9.4,79359,13.9,86.1
+Yes,33,M,No,"Fredericksburg, VA",No,Yes,Yes,Yes,28300,91.0,16.5,51762,22.6,77.4
+Yes,51,M,No,"Thornton, CO",No,Yes,No,No,134509,87.5,8.9,66948,1.8,98.2
+Yes,44,M,No,"Braintree, MA",No,Yes,Yes,No,37209,93.9,5.9,84776,2.7,97.3
+Yes,24,M,Yes,"Pawtucket, RI",No,Yes,Yes,No,71710,78.4,20.6,41789,13.4,86.6
+Yes,29,M,No,"Redlands, CA",No,Yes,No,No,70998,90.4,14.3,65212,5.2,94.8
+Yes,39,M,No,"Lowell, MA",Yes,Yes,No,No,111369,78.9,19.8,48002,6.8,93.2
+Yes,36,M,No,"Grundy, VA",Yes,Yes,No,No,942,81.3,12.9,40066,10.0,90.0
+Yes,27,F,No,"Winslow, AZ",No,Yes,No,Yes,9519,79.6,30.1,34211,5.7,94.3
+Yes,18,M,Yes,"Kinston, NC",No,Yes,No,No,20648,80.3,33.1,28060,68.0,32.0
+Yes,33,M,No,"Splendora, TX",Yes,Yes,No,No,2028,72.0,31.5,37431,1.1,98.9
+Yes,50,F,No,"Aitkin, MN",Yes,Yes,No,No,2013,85.5,24.6,28281,0.8,99.2
+Yes,52,M,No,"Jackson, GA",No,Yes,No,No,5001,72.8,22.8,34846,40.9,59.1
+Yes,65,M,No,"Lockhart, TX",Yes,No,No,No,13451,79.8,13.1,48884,9.4,90.6
+Yes,69,M,No,"Eau Claire, WI",No,Yes,No,No,68180,94.1,18.7,43541,1.1,98.9
+Yes,48,M,No,"Eau Claire, WI",Yes,Yes,No,No,68180,94.1,18.7,43541,1.1,98.9
+Yes,25,M,No,"Eau Claire, WI",No,Yes,No,No,68180,94.1,18.7,43541,1.1,98.9
+Yes,59,M,No,"Eau Claire, WI",Yes,Yes,No,No,68180,94.1,18.7,43541,1.1,98.9
+Yes,52,M,No,"West Springfield, MA",Yes,Yes,No,No,28613,88.5,10.9,54585,3.3,96.7
+Yes,60,M,No,"Oak Hill, OH",No,Yes,No,No,1523,87.4,34.2,29963,0.5,99.5
+Yes,40,F,Yes,"Gallatin, TN",No,Yes,No,Yes,35780,85.1,12.8,47957,14.7,85.3
+Yes,25,F,No,"Lake Hallie, WI",Yes,Yes,No,No,6622,94.4,6.3,64222,0.6,99.4
+Yes,27,M,Yes,"New Brunswick, NJ",No,Yes,Yes,No,56104,61.6,34.7,38435,16.0,84.0
+Yes,38,M,No,"Benton, IL",No,Yes,Yes,No,6950,84.1,23.4,36770,0.4,99.6
+Yes,20,M,No,"Noma, FL",No,Yes,Yes,Yes,202,70.1,29.8,30750,21.3,78.7
+Yes,52,M,No,"Llano, TX",No,Yes,No,No,3414,80.5,27.1,35950,0.5,99.5
+Yes,26,M,No,"Sparta, TN",No,Yes,Yes,No,4929,79.2,24.3,27320,5.6,94.4
+No,54,M,No,"McPherson, KS",Yes,Yes,No,No,13047,94.4,6.2,53566,1.5,98.5
+Yes,38,M,No,"Lake Elsinore, CA",No,Yes,No,No,63943,76.9,14.6,61248,5.3,94.7
+Yes,41,M,No,"Lake Elsinore, CA",No,Yes,Yes,No,63943,76.9,14.6,61248,5.3,94.7
+Yes,52,M,No,"Cache, OK",Yes,Yes,No,No,2864,90.2,13.0,46989,2.5,97.5
+Yes,53,M,No,"Antioch, IL",No,Yes,No,No,14282,95.1,9.1,76012,3.1,96.9
+Yes,31,M,Yes,"Vineland, NJ",No,Yes,Yes,No,60252,76.4,16.9,49453,14.2,85.8
+Yes,28,M,Yes,"Greenbelt, MD",No,Yes,No,No,23205,89.0,11.3,63585,47.8,52.2
+No,52,M,No,"Perryville, AR",No,Yes,No,No,1435,85.8,14.0,37137,0.2,99.8
+Yes,48,M,No,"Everett, MA",No,Yes,No,No,45845,79.8,14.9,50762,14.3,85.7
+Yes,18,M,No,"Antigo, WI",No,Yes,No,No,7779,88.1,22.1,34225,0.5,99.5
+Yes,33,M,Yes,"Fayetteville, AR",No,Yes,Yes,Yes,83846,91.7,24.0,39432,6.0,94.0
+Yes,25,M,No,"Fayetteville, AR",Yes,Yes,No,No,83846,91.7,24.0,39432,6.0,94.0
+Yes,28,M,No,"Lakewood, CO",No,Yes,Yes,No,153686,91.5,11.9,56954,1.6,98.4
+Yes,53,M,No,"Lakewood, CO",No,Yes,No,No,153686,91.5,11.9,56954,1.6,98.4
+Yes,44,M,No,"Kingsbury, TX",No,Yes,Yes,No,130,80.2,18.8,43559,1.3,98.7
+Yes,21,M,No,"Westminster, CO",No,Yes,No,No,112788,91.0,9.0,67081,1.4,98.6
+Yes,30,M,No,"Westminster, CO",No,Yes,Yes,No,112788,91.0,9.0,67081,1.4,98.6
+Yes,49,M,No,"Westminster, CO",No,Yes,Yes,No,112788,91.0,9.0,67081,1.4,98.6
+Yes,18,M,No,"Westminster, CO",No,Yes,No,No,112788,91.0,9.0,67081,1.4,98.6
+Yes,36,M,No,"Westminster, CO",No,Yes,No,No,112788,91.0,9.0,67081,1.4,98.6
+Yes,33,M,No,"Westminster, CO",No,Yes,Yes,No,112788,91.0,9.0,67081,1.4,98.6
+Yes,48,M,No,"Jackson, MO",No,Yes,Yes,No,14854,92.5,13.0,52752,1.6,98.4
+Yes,42,M,No,"Wausau, WI",No,Yes,No,No,38809,89.1,16.6,41575,1.4,98.6
+Yes,55,M,No,"Florence, AZ",No,Yes,Yes,No,25933,75.6,16.8,47891,6.3,93.7
+Yes,28,M,No,"Alamo, TN",Yes,Yes,No,No,2326,76.1,21.9,35441,15.8,84.2
+Yes,36,M,Yes,"Alamo, TN",Yes,Yes,No,Yes,2326,76.1,21.9,35441,15.8,84.2
+Yes,52,M,Yes,"Greenville, SC",No,Yes,No,No,66405,87.7,19.3,41924,30.0,70.0
+Yes,37,M,No,"Greenville, SC",No,Yes,No,No,66405,87.7,19.3,41924,30.0,70.0
+Yes,34,M,No,"Greenville, SC",No,Yes,No,Yes,66405,87.7,19.3,41924,30.0,70.0
+Yes,39,M,No,"Burien, WA",No,Yes,Yes,No,51344,83.3,18.2,53712,5.9,94.1
+Yes,20,M,No,"Burien, WA",No,Yes,No,No,51344,83.3,18.2,53712,5.9,94.1
+Yes,18,M,No,"Temecula, CA",No,Yes,No,No,112510,91.4,7.0,79925,4.1,95.9
+No,49,M,No,"Temecula, CA",No,Yes,Yes,No,112510,91.4,7.0,79925,4.1,95.9
+Yes,48,M,No,"Temecula, CA",No,Yes,No,No,112510,91.4,7.0,79925,4.1,95.9
+No,40,M,No,"Buffalo, MO",No,Yes,No,No,3026,79.3,25.8,34898,0.3,99.7
+Yes,36,M,No,"Gretna, LA",No,Yes,Yes,No,17834,77.1,22.7,36880,34.3,65.7
+Yes,36,M,Yes,"Weirton, WV",Yes,Yes,No,No,18883,89.8,17.2,39832,3.9,96.1
+Yes,29,M,No,"Lake Stevens, WA",Yes,Yes,No,No,31758,90.7,9.0,74159,1.7,98.3
+Yes,33,M,No,"Lake Stevens, WA",Yes,Yes,No,No,31758,90.7,9.0,74159,1.7,98.3
+Yes,29,M,No,"Presque Isle, ME",No,Yes,No,No,9180,89.2,21.0,36538,0.6,99.4
+Yes,25,M,No,"Presque Isle, ME",No,Yes,No,No,9180,89.2,21.0,36538,0.6,99.4
+Yes,29,M,No,"Nacogdoches, TX",Yes,Yes,Yes,No,33390,85.2,30.0,32357,28.8,71.2
+Yes,28,M,Yes,"Taunton, MA",Yes,Yes,No,No,56920,82.1,12.4,53058,5.0,95.0
+Yes,36,M,No,"Byng, OK",Yes,Yes,Yes,No,1202,87.0,10.6,55125,2.1,97.9
+Yes,34,M,No,"Stockbridge, GA",Yes,Yes,No,No,28631,87.7,15.4,54283,55.7,44.3
+Yes,63,M,No,"Stockbridge, GA",No,Yes,No,No,28631,87.7,15.4,54283,55.7,44.3
+Yes,23,M,Yes,"Riverdale, GA",No,Yes,Yes,No,15121,85.6,29.5,34158,80.0,20.0
+Yes,44,M,No,"Sullivan, MO",No,Yes,Yes,No,7134,79.3,19.0,30507,0.2,99.8
+No,38,M,No,"Oregon, OR",Yes,Yes,No,No,36003,92.6,11.6,62858,0.6,99.4
+Yes,31,M,No,"Flagstaff, AZ",Yes,Yes,No,Yes,71051,91.3,24.2,48680,1.9,98.1
+Yes,26,M,No,"Flagstaff, AZ",No,Yes,Yes,Yes,71051,91.3,24.2,48680,1.9,98.1
+Yes,32,M,No,"Flagstaff, AZ",No,No,Yes,Yes,71051,91.3,24.2,48680,1.9,98.1
+No,27,M,Yes,"Hallandale Beach, FL",No,Yes,Yes,Yes,39511,85.8,22.1,34216,18.7,81.3
+Yes,22,M,No,"Gresham, OR",No,Yes,No,No,111128,84.2,21.3,46956,3.5,96.5
+Yes,57,M,No,"Harrisonville, MO",No,Yes,Yes,No,10026,90.8,14.3,41196,1.1,98.9
+Yes,43,M,No,"Lansing, IL",No,Yes,Yes,No,28148,89.5,14.6,48949,31.6,68.4
+No,21,M,Yes,"Washington Park, IL",No,No,Yes,No,3964,71.7,41.8,26136,86.1,13.900000000000006
+Yes,19,M,No,"Solvang, CA",No,Yes,Yes,No,5765,92.8,11.1,67484,0.7,99.3
+Yes,36,F,No,"Sneads, FL",No,Yes,No,No,1789,79.0,30.3,31607,18.5,81.5
+Yes,25,M,No,"Socorro, NM",No,Yes,Yes,No,8538,72.1,30.2,33359,1.5,98.5
+Yes,53,M,No,"Clinton, NC",No,Yes,No,Yes,8525,81.5,29.2,31997,40.5,59.5
+No,38,M,No,"Stoneville, NC",No,Yes,Yes,No,1265,81.2,10.6,38313,16.2,83.8
+Yes,70,M,No,"Tualatin, OR",No,Yes,No,No,27409,92.5,11.7,66384,1.2,98.8
+Yes,36,M,No,"Bend, OR",No,Yes,No,No,90500,95.2,12.5,52989,0.5,99.5
+No,31,M,No,"Bend, OR",No,No,No,No,90500,95.2,12.5,52989,0.5,99.5
+Yes,21,M,Yes,"Newnan, GA",No,Yes,Yes,Yes,37900,87.5,22.6,50052,30.2,69.8
+Yes,51,M,No,"Berea, KY",No,Yes,Yes,No,15183,86.5,26.9,39906,4.0,96.0
+Yes,33,M,No,"Wasilla, AK",No,Yes,No,No,9676,91.8,11.7,61541,1.4,98.6
+Yes,36,M,No,"Wasilla, AK",No,Yes,Yes,No,9676,91.8,11.7,61541,1.4,98.6
+Yes,34,M,No,"Parker, AZ",No,Yes,No,No,3076,80.4,15.4,43271,1.4,98.6
+No,31,M,No,"Yreka, CA",No,Yes,No,No,7547,84.4,34.3,28333,0.7,99.3
+Yes,35,M,Yes,"Eufaula, AL",No,Yes,Yes,Yes,12272,81.5,25.3,32845,44.6,55.4
+No,25,M,No,"Wagoner, OK",No,Yes,Yes,Yes,8791,83.5,24.1,32602,8.5,91.5
+Yes,21,M,No,"Turlock, CA",No,Yes,No,No,72532,81.2,17.5,51401,1.7,98.3
+Yes,52,M,Yes,"Port Arthur, TX",No,Yes,Yes,No,55459,71.9,27.3,32863,40.7,59.3
+Yes,36,M,No,"Somerton, AZ",No,Yes,No,No,15909,51.0,31.5,31540,0.9,99.1
+Yes,50,M,No,"Yakima, WA",No,Yes,No,Yes,93294,73.3,23.0,40726,1.7,98.3
+Yes,27,M,Yes,"Tupelo, MS",No,Yes,Yes,No,38257,87.2,23.3,41487,36.8,63.2
+No,37,M,Yes,"Tupelo, MS",No,Yes,Yes,No,38257,87.2,23.3,41487,36.8,63.2
+Yes,31,M,No,"Maywood, CA",No,Yes,No,No,27526,41.2,30.1,35582,0.6,99.4
+Yes,23,M,No,"Eagle Mountain, UT",Yes,Yes,No,No,29342,95.5,5.8,69018,0.6,99.4
+Yes,33,M,No,"Schenectady, NY",No,Yes,No,No,65305,84.3,22.8,40755,20.2,79.8
+Yes,18,M,Yes,"Mobile, AL",No,Yes,No,No,191212,86.9,23.3,38776,50.6,49.4
+Yes,47,M,No,"Odessa, MO",No,Yes,No,No,5208,94.9,11.7,52066,1.4,98.6
+No,22,M,No,"Chula Vista, CA",No,Yes,No,No,266497,80.9,12.5,65185,4.6,95.4
+Yes,36,M,No,"Montpelier, OH",Yes,Yes,No,No,3962,83.2,19.5,38860,0.1,99.9
+Yes,30,M,No,"Fort Walton Beach, FL",No,Yes,No,No,21850,89.2,17.5,47149,12.3,87.7
+Yes,35,M,No,"Fort Walton Beach, FL",Yes,Yes,No,No,21850,89.2,17.5,47149,12.3,87.7
+Yes,23,M,Yes,"Hardeeville, SC",No,Yes,No,No,5556,84.6,24.2,41440,34.7,65.3
+Yes,36,M,No,"Hardeeville, SC",No,Yes,No,No,5556,84.6,24.2,41440,34.7,65.3
+Yes,20,M,No,"Lake Havasu, AZ",No,Yes,No,Yes,53860,88.5,13.8,42847,0.7,99.3
+No,24,M,No,"Lawndale, NC",Yes,Yes,No,No,588,82.8,21.4,31750,15.3,84.7
+Yes,37,M,No,"Wellington, FL",No,Yes,No,No,63867,94.7,8.2,81047,10.4,89.6
+Yes,44,M,Yes,"Walls, MS",No,Yes,Yes,No,1278,87.2,18.7,38558,60.8,39.2
+Yes,31,M,No,"Bellville, TX",No,Yes,No,Yes,4228,87.6,6.7,50577,10.2,89.8
+Yes,36,M,Yes,"Belleville, IL",No,Yes,Yes,No,41930,92.6,18.2,43318,25.4,74.6
+Yes,39,M,No,"Belleville, IL",Yes,Yes,No,No,41930,92.6,18.2,43318,25.4,74.6
+Yes,36,M,Yes,"Paterson, NJ",No,Yes,No,No,145905,71.4,29.1,32915,31.7,68.3
+Yes,37,M,No,"Paterson, NJ",Yes,Yes,No,No,145905,71.4,29.1,32915,31.7,68.3
+Yes,36,M,No,"Paterson, NJ",Yes,Yes,No,No,145905,71.4,29.1,32915,31.7,68.3
+Yes,50,M,No,"Farmington, AR",No,Yes,No,No,6785,92.3,11.4,50609,1.2,98.8
+Yes,42,F,No,"Fulshear, TX",Yes,Yes,No,No,7914,94.7,3.2,175990,15.8,84.2
+Yes,59,M,No,"Pinellas Park, FL",No,Yes,No,No,52515,86.4,14.5,41494,4.7,95.3
+No,36,M,No,"Gainesville, GA",No,Yes,Yes,No,38476,71.2,28.3,40706,15.2,84.8
+Yes,36,M,No,"Buckeye, AZ",No,Yes,No,No,64936,84.3,14.8,58939,7.1,92.9
+Yes,30,M,Yes,"Dolton, IL",No,Yes,No,No,22948,86.8,24.8,45346,90.9,9.099999999999994
+Yes,28,M,No,"Boone, IA",Yes,Yes,No,No,12549,94.3,10.9,46486,0.8,99.2
+Yes,32,M,No,"Cochran, GA",No,Yes,No,No,4910,75.1,38.1,30273,48.5,51.5
+Yes,25,M,No,"Frederica, DE",No,Yes,Yes,No,821,81.5,15.5,58000,19.4,80.6
+No,30,M,No,"Barbourville, KY",No,Yes,No,No,3100,78.7,29.7,31708,5.1,94.9
+Yes,37,M,Yes,"Fort Madison, IA",No,Yes,Yes,No,10616,91.7,17.7,42595,5.5,94.5
+Yes,63,M,No,"Landrum, SC",No,Yes,No,No,2512,84.0,20.1,35823,13.0,87.0
+Yes,58,M,No,"Jackson, WI",No,Yes,No,No,7012,92.5,6.5,54750,0.5,99.5
+Yes,35,M,Yes,"Asheville, NC",No,Yes,Yes,No,90748,92.3,17.3,43334,13.4,86.6
+Yes,50,M,No,"Bristol, TN",No,Yes,No,No,26797,83.5,16.3,38551,3.4,96.6
+Yes,40,M,No,"New Iberia, LA",Yes,Yes,No,No,29988,76.0,23.3,39061,41.5,58.5
+Yes,30,M,No,"New Iberia, LA",No,Yes,No,No,29988,76.0,23.3,39061,41.5,58.5
+Yes,19,M,No,"Fullerton, CA",No,Yes,Yes,No,140060,86.6,16.8,65974,2.3,97.7
+Yes,36,M,No,"Rosser, TX",No,Yes,No,Yes,367,67.1,30.7,41071,31.9,68.1
+Yes,24,F,No,"Yuma, AZ",No,Yes,No,No,95271,77.5,18.4,43754,3.2,96.8
+Yes,32,M,Yes,"Falcon Heights, MN",No,Yes,No,No,5565,98.6,11.1,71765,8.0,92.0
+Yes,65,M,No,"Rush Springs, OK",No,Yes,No,Yes,1254,83.7,24.5,31957,0.6,99.4
+Yes,37,M,No,"Bell, CA",No,Yes,No,No,35748,47.4,27.7,37269,0.9,99.1
+Yes,33,M,No,"Clovis, CA",No,Yes,Yes,No,106499,88.9,13.8,62666,2.7,97.3
+Yes,63,M,Yes,"Selma, AL",No,Yes,No,Yes,18775,77.8,41.9,22414,80.3,19.700000000000003
+Yes,40,M,Yes,"Broken Bow, OK",No,Yes,Yes,No,4109,81.7,33.9,27201,8.3,91.7
+Yes,41,M,Yes,"East St. Louis, IL",No,Yes,No,No,26744,81.1,45.8,19520,98.0,2.0
+Yes,41,M,No,"Romulus, MI",No,Yes,No,No,23497,86.8,20.5,42681,43.0,57.0
+Yes,44,M,No,"St. Joseph, MI",No,Yes,No,No,8307,95.6,8.7,55012,5.3,94.7
+Yes,56,M,No,"Middletown, NY",Yes,Yes,No,No,27870,83.0,19.6,50441,21.0,79.0
+Yes,63,M,No,"Peachland, NC",Yes,Yes,No,No,406,80.9,31.6,35000,34.1,65.9
+Yes,39,M,No,"Sheboygan, WI",No,Yes,No,No,48524,87.7,14.2,43381,1.8,98.2
+Yes,50,M,No,"Buckhannon, WV",No,Yes,No,No,5535,86.7,28.2,30833,2.1,97.9
+Yes,29,M,No,"Gallup, NM",Yes,Yes,No,No,22023,79.9,25.5,46467,1.2,98.8
+Yes,33,M,No,"Estill Springs, TN",No,Yes,Yes,Yes,2024,85.9,11.0,46938,1.9,98.1
+Yes,20,M,No,"Malta, MT",No,Yes,No,No,1938,88.8,14.3,30697,0.1,99.9
+No,41,M,No,"Sparks, NV",No,No,No,No,97958,85.5,13.0,52795,2.6,97.4
+No,47,M,Yes,"La Quinta, CA",No,Yes,Yes,No,40722,89.6,9.6,71091,1.9,98.1
+No,27,M,Yes,"Compton, CA",No,Yes,Yes,No,97322,60.1,26.6,43507,32.9,67.1
+Yes,31,M,Yes,"Compton, CA",No,Yes,Yes,No,97322,60.1,26.6,43507,32.9,67.1
+No,32,M,No,"Compton, CA",No,No,No,No,97322,60.1,26.6,43507,32.9,67.1
+No,38,M,No,"Wapato, WA",No,No,No,No,5040,44.4,36.6,32722,0.3,99.7
+Yes,22,M,No,"Lake, SC",No,Yes,Yes,No,6676,72.1,29.7,30992,77.5,22.5
+Yes,31,M,No,"Alexandria, MN",No,Yes,No,No,13392,92.6,14.7,40633,0.8,99.2
+Yes,31,M,No,"Clearfield, UT",No,Yes,Yes,No,30918,92.3,13.1,48866,3.1,96.9
+Yes,26,M,Yes,"East Point, GA",Yes,Yes,No,No,35028,84.7,27.9,37049,74.6,25.400000000000006
+No,36,M,No,"East Point, GA",No,No,No,No,35028,84.7,27.9,37049,74.6,25.400000000000006
+Yes,31,M,No,"Santee, CA",Yes,Yes,No,No,57658,92.9,7.8,76104,2.0,98.0
+Yes,59,M,No,"Beaver Dam, WI",Yes,Yes,No,No,16348,88.2,12.7,46728,0.8,99.2
+Yes,20,M,Yes,"Harrisburg, PA",Yes,Yes,No,No,49212,79.9,31.8,33289,52.4,47.6
+Yes,69,M,No,"Little Mountain, SC",Yes,Yes,No,No,292,94.4,2.7,69063,16.5,83.5
+Yes,64,M,No,"Wilkesboro, NC",No,Yes,No,No,3518,75.9,30.5,33450,8.9,91.1
+No,34,M,No,"Georgetown, KY",No,Yes,Yes,No,32873,89.8,12.5,59661,7.0,93.0
+Yes,45,M,No,"Circleville, OH",Yes,Yes,No,No,13874,83.5,20.2,39610,1.9,98.1
+Yes,54,M,No,"Plaquemine, LA",No,Yes,No,No,6745,80.3,22.6,41447,51.0,49.0
+Yes,59,M,No,"Tukwila, WA",Yes,Yes,No,No,20183,82.7,23.7,45923,17.9,82.1
+Yes,33,M,No,"Vista, CA",No,No,Yes,No,100370,76.9,17.8,50601,3.3,96.7
+No,24,M,No,"Vista, CA",No,No,Yes,No,100370,76.9,17.8,50601,3.3,96.7
+Yes,36,M,No,"Hayward, CA",No,Yes,Yes,No,159218,80.1,13.4,65096,11.9,88.1
+No,16,F,No,"Hayward, CA",No,Yes,No,No,159218,80.1,13.4,65096,11.9,88.1
+Yes,29,M,No,"Falls Church, VA",Yes,Yes,No,No,13852,97.7,2.7,120522,4.3,95.7
+Yes,32,M,No,"Lenoir, NC",No,Yes,Yes,Yes,17867,77.0,22.8,31063,12.7,87.3
+Yes,53,M,No,"Apache Junction, AZ",No,Yes,No,No,39601,85.5,24.0,35671,1.2,98.8
+Yes,45,M,No,"Apache Junction, AZ",No,Yes,No,No,39601,85.5,24.0,35671,1.2,98.8
+No,36,M,No,"Hays, KS",No,Yes,Yes,No,20983,94.5,17.7,42976,1.1,98.9
+No,19,M,No,"Hays, KS",No,Yes,Yes,No,20983,94.5,17.7,42976,1.1,98.9
+Yes,38,M,No,"Poway, CA",No,Yes,Yes,No,49865,93.0,6.0,95815,1.6,98.4
+Yes,31,M,No,"New London, WI",Yes,Yes,No,Yes,7131,88.6,16.0,44977,0.2,99.8
+Yes,54,M,No,"East Ridge, TN",No,Yes,No,No,21208,85.3,13.3,38909,9.9,90.1
+Yes,34,M,Yes,"Hamilton, OH",No,Yes,No,No,62236,85.2,22.1,40427,8.5,91.5
+Yes,24,M,No,"Hamilton, OH",Yes,Yes,No,No,62236,85.2,22.1,40427,8.5,91.5
+Yes,53,M,No,"Shelbyville, TN",No,Yes,No,No,21312,73.3,26.9,30744,14.1,85.9
+Yes,37,M,No,"Eagan, MN",Yes,Yes,No,No,66378,96.4,7.0,82265,5.6,94.4
+Yes,59,M,No,"Harker Heights, TX",No,Yes,Yes,No,30095,91.7,17.1,64494,20.0,80.0
+Yes,36,M,No,"Huntington Park, CA",No,Yes,No,No,58703,41.4,29.6,34887,0.8,99.2
+Yes,38,M,No,"Alamogordo, NM",No,Yes,Yes,Yes,31103,88.8,20.5,42517,5.4,94.6
+Yes,40,M,No,"Parker, CO",Yes,Yes,Yes,Yes,52696,98.0,4.2,100469,1.5,98.5
+Yes,22,M,No,"Round Lake, IL",No,Yes,No,No,18467,86.1,5.8,72659,4.8,95.2
+No,25,M,No,"East Wenatchee, WA",No,No,No,No,13818,81.4,16.9,53206,0.3,99.7
+Yes,36,M,No,"Temple, TX",No,Yes,Yes,No,73055,87.9,17.9,47475,16.9,83.1
+Yes,65,M,No,"Spencer, WV",Yes,Yes,Yes,No,2129,75.1,30.8,22453,0.0,100.0
+Yes,55,M,Yes,"Albany, GA",No,Yes,No,No,74033,79.9,33.8,29676,71.6,28.400000000000006
+No,35,M,No,"Titusville, FL",No,No,No,No,45547,90.2,18.8,40830,13.5,86.5
+Yes,64,M,No,"Auburn, WA",Yes,Yes,No,No,79179,87.6,15.9,59347,4.9,95.1
+No,36,M,No,"Auburn, WA",No,No,Yes,No,79179,87.6,15.9,59347,4.9,95.1
+Yes,86,M,No,"Saratoga, CA",No,Yes,No,No,30913,98.2,3.6,169189,0.3,99.7
+No,25,M,No,"Colton, CA",No,No,Yes,No,54493,70.1,22.1,41565,9.7,90.3
+No,29,M,No,"Winooski, VT",No,No,Yes,Yes,7208,85.0,26.1,45974,6.9,93.1
+Yes,42,M,No,"Beaumont, CA",No,Yes,No,No,45161,86.8,11.8,64830,6.2,93.8
+Yes,55,M,No,"Rutherfordton, NC",Yes,Yes,No,No,4069,87.1,17.8,39274,10.4,89.6
+Yes,22,M,No,"St. Cloud, MN",No,Yes,No,No,67762,91.4,23.3,45437,7.8,92.2
+Yes,22,M,No,"Port St. Lucie, FL",Yes,Yes,No,No,183445,87.2,15.0,49813,16.3,83.7
+Yes,25,M,Yes,"Port St. Lucie, FL",Yes,Yes,No,No,183445,87.2,15.0,49813,16.3,83.7
+No,23,M,No,"Louisville, NE",No,No,No,No,1214,91.5,4.4,51806,0.5,99.5
+Yes,25,M,No,"Claremont, NH",Yes,Yes,No,No,13002,87.2,14.1,45859,0.6,99.4
+Yes,52,M,No,"Garden, ID",No,Yes,Yes,No,11757,90.0,19.1,38086,1.0,99.0
+Yes,32,M,No,"Little Rock, AR",Yes,Yes,No,No,198374,90.7,17.8,46085,42.3,57.7
+Yes,46,M,Yes,"Little Rock, AR",No,Yes,No,No,198374,90.7,17.8,46085,42.3,57.7
+Yes,54,M,No,"Little Rock, AR",No,Yes,Yes,No,198374,90.7,17.8,46085,42.3,57.7
+Yes,22,M,No,"Little Rock, AR",No,Yes,No,No,198374,90.7,17.8,46085,42.3,57.7
+No,38,M,No,"Groveton, TX",No,No,No,No,1036,73.0,39.7,30684,13.0,87.0
+No,18,M,Yes,"Newark, NJ",No,No,No,No,280518,72.3,29.7,33139,52.4,47.6
+No,18,M,Yes,"Newark, NJ",No,No,No,No,280518,72.3,29.7,33139,52.4,47.6
+Yes,23,M,Yes,"Newark, NJ",No,Yes,No,No,280518,72.3,29.7,33139,52.4,47.6
+Yes,37,M,Yes,"Newark, NJ",No,Yes,No,No,280518,72.3,29.7,33139,52.4,47.6
+Yes,24,M,No,"Newark, NJ",No,Yes,Yes,No,280518,72.3,29.7,33139,52.4,47.6
+Yes,32,M,Yes,"Campobello, SC",No,Yes,Yes,No,558,82.2,23.8,36458,9.4,90.6
+Yes,37,M,No,"Belleville, MI",No,Yes,Yes,No,3894,84.5,16.3,45452,14.1,85.9
+Yes,36,M,Yes,"Markham, IL",No,Yes,No,No,12603,83.1,25.8,34433,81.0,19.0
+Yes,49,M,No,"Ventnor, NJ",No,Yes,No,No,10191,88.0,14.2,50978,4.3,95.7
+Yes,26,M,No,"Springdale, AR",No,Yes,No,No,78693,71.7,23.3,42319,1.8,98.2
+Yes,35,M,No,"Moncks Corner, SC",No,Yes,Yes,No,10111,84.7,14.2,48325,36.0,64.0
+Yes,49,M,No,"Benton, AR",No,Yes,No,No,35041,87.0,11.4,51778,6.0,94.0
+Yes,17,M,No,"Benton, AR",Yes,Yes,Yes,No,35041,87.0,11.4,51778,6.0,94.0
+Yes,21,M,No,"Federal Way, WA",Yes,Yes,No,No,96553,89.9,15.4,55673,9.7,90.3
+Yes,39,M,No,"Wetumka, OK",No,Yes,No,No,1215,74.4,27.0,23200,4.6,95.4
+Yes,50,M,No,"Lumberton, NC",No,Yes,No,No,21143,74.1,34.8,31245,37.2,62.8
+No,27,M,No,"Irvine, CA",Yes,Yes,No,No,265576,96.3,12.3,92278,1.8,98.2
+Yes,26,M,No,"Westlake, OH",No,Yes,Yes,No,32365,96.0,4.6,76449,1.6,98.4
+Yes,30,M,No,"Concord, CA",No,Yes,No,No,128977,87.1,13.3,68318,3.6,96.4
+Yes,22,M,No,"Morehead, KY",No,Yes,No,No,7724,85.4,36.1,36026,3.2,96.8
+Yes,46,M,No,"Grants Pass, OR",Yes,Yes,No,No,37204,89.2,21.2,34224,0.5,99.5
+Yes,38,M,No,"Kent, WA",No,Yes,No,No,130482,85.4,15.5,60191,11.3,88.7
+Yes,20,M,Yes,"Kent, WA",No,Yes,Yes,No,130482,85.4,15.5,60191,11.3,88.7
+Yes,32,M,No,"Santa Cruz, CA",Yes,Yes,No,No,64431,92.8,23.8,62164,1.8,98.2
+Yes,28,M,Yes,"Benton Harbor, MI",No,Yes,No,Yes,9904,70.5,50.3,18085,89.2,10.799999999999997
+Yes,34,M,No,"Paris, KY",No,Yes,No,No,9851,82.9,22.8,37109,11.5,88.5
+Yes,38,M,No,"Willoughby, OH",No,No,Yes,No,22795,92.8,7.9,51708,3.1,96.9
+Yes,21,M,No,"Westover, AL",Yes,Yes,No,No,1594,85.2,13.4,58906,2.5,97.5
+Yes,45,M,No,"Peterson, MN",No,Yes,No,No,197,90.5,7.9,51250,0.0,100.0
+Yes,38,M,No,"Edmonton, KY",No,Yes,No,No,1590,73.3,29.7,21649,1.8,98.2
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,9.1,72399,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,9.1,72399,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,9.1,55221,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,9.1,55221,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,8.9,72399,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,8.9,72399,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,8.9,55221,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,93.0,8.9,55221,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,9.1,72399,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,9.1,72399,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,9.1,55221,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,9.1,55221,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,8.9,72399,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,8.9,72399,3.5,96.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,8.9,55221,1.5,98.5
+Yes,37,M,No,"Lincoln, CA",Yes,Yes,No,No,46925,90.3,8.9,55221,3.5,96.5
+Yes,25,M,Yes,"Carrollton, TX",No,Yes,No,No,134273,85.3,9.5,69368,8.4,91.6
+No,36,M,No,"Bartlesville, OK",No,Yes,No,No,36453,91.0,15.7,50280,3.1,96.9
+No,24,M,No,"Elberton, GA",No,Yes,Yes,No,4368,74.4,32.9,25763,44.4,55.6
+Yes,37,M,No,"Morris, MN",No,Yes,Yes,No,5355,88.4,27.6,41991,1.3,98.7
+Yes,45,M,No,"North Royalton, OH",Yes,Yes,No,No,30325,94.0,5.8,64745,1.1,98.9
+Yes,38,M,No,"Leedey, OK",No,Yes,Yes,No,447,91.6,7.0,55833,0.5,99.5
+Yes,39,F,Yes,"Torrance, CA",Yes,Yes,Yes,No,146382,93.5,7.0,79549,2.7,97.3
+Yes,31,F,No,"Brookville, OH",No,Yes,Yes,No,5881,91.8,8.9,44875,0.4,99.6
+Yes,23,M,Yes,"Salisbury, NC",No,Yes,No,No,33604,82.4,23.3,36701,37.7,62.3
+Yes,56,F,No,"Loganville, GA",No,Yes,No,No,11566,87.4,9.2,57045,22.1,77.9
+No,26,M,No,"Palm Springs, CA",No,No,No,No,47579,87.5,18.9,44075,4.4,95.6
+Yes,36,M,No,"Okemah, OK",No,Yes,Yes,No,3183,79.5,31.1,30086,3.0,97.0
+Yes,56,M,No,"Clendenin, WV",No,Yes,No,No,1156,82.2,12.6,42461,0.2,99.8
+Yes,34,M,No,"Gladewater, TX",No,Yes,Yes,Yes,6310,81.1,28.1,37819,17.6,82.4
+Yes,43,M,No,"Bowling Green, KY",No,No,Yes,No,66298,84.8,28.1,35604,13.9,86.1
+Yes,26,M,No,"Ashtabula, OH",No,Yes,Yes,No,18239,80.9,34.8,28265,8.9,91.1
+Yes,36,M,No,"Show Low, AZ",No,Yes,No,No,10960,88.7,18.4,42614,0.4,99.6
+Yes,41,M,No,"San Angelo, TX",No,No,No,No,99724,82.9,16.1,44802,4.6,95.4
+Yes,38,M,No,"Bloomsburg, PA",Yes,Yes,No,No,14264,87.8,34.1,28071,6.2,93.8
+Yes,37,M,No,"Webster, TX",No,Yes,No,No,11154,83.5,17.6,44758,13.6,86.4
+Yes,25,M,Yes,"Ludowici, GA",No,Yes,No,No,2142,82.3,14.9,37250,32.0,68.0
+Yes,48,M,No,"Casa Grande, AZ",Yes,Yes,No,No,54210,86.4,16.9,44348,4.6,95.4
+Yes,15,M,No,"Watsonville, CA",No,Yes,Yes,Yes,53740,56.3,19.7,46018,0.7,99.3
+Yes,27,M,No,"Lompoc, CA",Yes,Yes,Yes,No,43576,74.7,21.3,44866,5.7,94.3
+Yes,45,M,No,"La Mirada, CA",No,Yes,No,No,49003,88.8,7.5,79330,2.3,97.7
+Yes,45,M,No,"Jackson, TN",Yes,Yes,No,No,66742,87.5,24.0,38153,45.7,54.3
+Yes,23,M,Yes,"Hattiesburg, MS",No,Yes,Yes,No,46259,84.6,37.8,26852,53.0,47.0
+No,20,M,No,"Surprise, AZ",No,Yes,Yes,No,132654,92.9,9.8,59916,5.1,94.9
+Yes,50,M,No,"Olathe, KS",No,Yes,No,No,135917,94.0,6.9,77335,5.3,94.7
+Yes,41,M,Yes,"Hickory, NC",No,Yes,Yes,No,40448,84.3,17.5,43338,14.3,85.7
+Yes,33,M,No,"Hickory, NC",No,Yes,No,Yes,40448,84.3,17.5,43338,14.3,85.7
+Yes,55,M,No,"Friendswood, TX",No,Yes,Yes,Yes,39360,95.0,5.7,91458,3.4,96.6
+Yes,29,M,No,"Avon, IN",Yes,Yes,No,No,16853,94.2,3.3,91393,5.9,94.1
+No,31,M,No,"Iva, SC",No,Yes,Yes,No,1286,66.4,26.9,23641,6.4,93.6
+Yes,83,M,No,"Dover, AR",No,Yes,No,No,1401,85.2,23.6,33917,0.4,99.6
+Yes,33,M,No,"Tuscumbia, AL",No,Yes,No,No,8435,86.2,15.3,41176,21.2,78.8
+No,26,M,No,"Hudson, OH",No,Yes,Yes,No,22258,98.2,3.8,124529,1.3,98.7
+Yes,29,M,Yes,"Elkhart, IN",No,Yes,Yes,No,52451,77.6,26.7,35371,15.4,84.6
+Yes,47,M,No,"Orange, FL",No,Yes,No,No,11825,87.6,21.7,32788,6.5,93.5
+Yes,49,M,No,"Fruitland Park, FL",No,Yes,Yes,No,6135,85.0,17.3,39625,9.4,90.6
+Yes,31,M,Yes,"Fayetteville, NC",No,Yes,No,Yes,209917,91.2,18.4,43630,41.9,58.1
+Yes,32,M,Yes,"Fayetteville, NC",No,Yes,No,No,209917,91.2,18.4,43630,41.9,58.1
+No,36,M,No,"Sioux, IA",No,Yes,No,No,82550,83.6,15.7,43888,2.9,97.1
+Yes,36,M,No,"Allen, TX",No,Yes,No,No,99767,95.6,5.5,103051,8.4,91.6
+Yes,21,M,Yes,"Allen, TX",No,Yes,Yes,No,99767,95.6,5.5,103051,8.4,91.6
+Yes,36,M,No,"Leland, NC",No,Yes,No,No,18711,93.5,14.2,61374,10.0,90.0
+Yes,35,M,Yes,"Sumter, SC",No,Yes,Yes,No,39921,84.0,18.6,38808,49.1,50.9
+Yes,36,M,No,"Greenwood, IN",No,Yes,No,Yes,56327,91.5,13.7,54176,1.7,98.3
+Yes,53,M,No,"York, NE",Yes,Yes,No,No,7847,93.9,13.1,47865,1.0,99.0
+Yes,39,M,No,"Fairmont, WV",No,Yes,No,No,18489,88.1,24.9,36086,7.5,92.5
+Yes,44,F,No,"Bullhead, AZ",Yes,Yes,No,No,40000,82.7,19.7,35948,1.3,98.7
+Yes,24,M,No,"Medicine Lodge, KS",No,Yes,No,No,1944,91.6,16.4,54125,0.7,99.3
+Yes,31,M,No,"Fort Valley, GA",No,Yes,No,No,8609,74.1,45.2,20962,81.6,18.400000000000006
+Yes,32,M,Yes,"Hampton, GA",Yes,Yes,No,No,7573,80.9,32.4,43838,39.0,61.0
+Yes,36,M,No,"Dallas, OR",No,Yes,No,No,15774,92.7,16.7,48843,0.2,99.8
+Yes,48,M,No,"Arlington, TN",No,No,No,No,11691,94.1,3.4,93000,13.8,86.2
+Yes,44,M,No,"Everett, WA",No,Yes,No,No,108726,88.1,17.6,49578,4.1,95.9
+Yes,37,M,No,"Ridgefield, WA",No,Yes,No,No,7124,96.5,7.9,79243,0.9,99.1
+No,52,M,No,"Granite Falls, NC",No,No,No,No,4628,77.6,20.2,43409,1.7,98.3
+Yes,46,M,No,"Pharr, TX",No,Yes,No,No,77460,62.0,33.9,34708,0.6,99.4
+Yes,36,M,No,"Brawley, CA",Yes,Yes,No,No,25998,70.4,25.2,37637,2.0,98.0
+Yes,31,M,No,"Ponca, OK",No,Yes,No,No,24389,86.7,18.3,41061,3.2,96.8
+Yes,25,M,No,"Burns Flat, OK",No,Yes,Yes,No,1999,87.0,15.2,51042,2.3,97.7
+Yes,46,M,No,"Knox, IN",No,Yes,No,No,3572,75.1,20.9,33125,0.4,99.6
+Yes,27,M,No,"Saraland, AL",No,Yes,No,No,14241,85.4,11.2,52621,12.0,88.0
+Yes,24,M,Yes,"Coalinga, CA",No,Yes,No,No,16857,73.0,23.2,51860,4.1,95.9
+Yes,19,M,Yes,"Capitol Heights, MD",No,Yes,No,No,4513,79.7,13.0,75788,91.3,8.700000000000003
+Yes,53,F,No,"Lake Wales, FL",No,Yes,No,No,15633,77.8,28.9,36296,27.5,72.5
+Yes,36,M,No,"Gadsden, AL",No,Yes,Yes,No,35709,78.3,29.4,29136,36.3,63.7
+Yes,48,M,No,"Pico Rivera, CA",Yes,Yes,No,No,63414,68.2,13.7,55752,1.0,99.0
+Yes,30,M,No,"King, OR",Yes,Yes,Yes,No,4242,96.7,7.7,45283,1.8,98.2
+Yes,35,M,No,"Grass Valley, CA",No,Yes,No,No,12929,88.7,28.4,33700,0.4,99.6
+Yes,71,F,No,"Pearland, TX",No,Yes,No,No,115502,93.1,4.5,95972,16.4,83.6
+No,41,M,No,"North Riverside, IL",No,Yes,No,No,6613,93.0,11.2,59821,6.5,93.5
+No,28,M,No,"Spring Hill, TN",No,No,No,No,37777,97.4,3.6,78588,5.4,94.6
+Yes,52,M,No,"Chestertown, MD",No,No,No,Yes,5105,84.5,24.9,43977,20.4,79.6
+Yes,36,M,No,"Pensacola, FL",No,Yes,No,No,52553,91.7,15.7,45527,28.0,72.0
+No,33,M,No,"Mankato, MN",No,Yes,No,No,41697,94.1,26.2,41425,4.0,96.0
+Yes,42,M,No,"Springfield, OH",No,Yes,No,No,59174,82.4,29.0,32066,18.1,81.9
+Yes,17,M,Yes,"Villa Park, IL",Yes,Yes,No,No,21966,90.9,9.8,70176,4.3,95.7
+Yes,35,M,No,"Woodstock, GA",No,Yes,Yes,No,30672,95.5,7.0,68504,10.2,89.8
+Yes,53,M,No,"Gilmer, TX",Yes,Yes,No,Yes,5095,80.8,13.1,46122,18.0,82.0
+Yes,51,M,Yes,"Pomona, CA",No,Yes,Yes,No,152440,67.5,22.1,49186,7.3,92.7
+Yes,64,M,No,"Lancaster, KY",No,Yes,No,No,3833,70.3,36.7,29542,7.1,92.9
+Yes,45,M,No,"English, IN",No,Yes,Yes,No,626,67.1,39.6,17438,0.3,99.7
+Yes,20,M,No,"Dinuba, CA",No,Yes,No,No,23777,58.6,28.6,36860,0.7,99.3
+Yes,41,M,No,"Monteagle, TN",Yes,Yes,No,No,1228,83.9,27.0,39567,2.3,97.7
+Yes,23,M,No,"Sharon, PA",Yes,Yes,No,No,13368,86.5,24.5,30720,14.6,85.4
+Yes,32,M,Yes,"Deerfield, IL",No,Yes,Yes,No,18948,98.4,2.9,137423,0.5,99.5
+Yes,25,M,No,"Princeton, WV",No,Yes,Yes,No,5904,76.6,31.6,30856,6.3,93.7
+Yes,26,M,No,"Princeton, WV",Yes,Yes,No,No,5904,76.6,31.6,30856,6.3,93.7
+Yes,42,M,No,"Fairland, OK",No,Yes,Yes,No,1049,86.6,25.4,36750,0.2,99.8
+Yes,50,M,No,"Independence, MO",Yes,Yes,No,No,117242,87.6,17.9,43472,5.6,94.4
+Yes,44,M,No,"Cumming, GA",Yes,Yes,No,No,6156,81.1,20.7,43491,2.9,97.1
+Yes,41,M,No,"Austin, MN",No,No,No,No,25008,85.4,15.9,42268,3.0,97.0
+Yes,26,M,No,"Pearisburg, VA",Yes,Yes,No,No,2659,86.9,7.8,46792,2.3,97.7
+Yes,36,M,No,"Tyrone, GA",No,Yes,Yes,No,7195,91.6,11.8,82500,25.3,74.7
+Yes,43,M,No,"Fulton, KY",No,Yes,No,No,2216,79.3,25.2,24943,30.5,69.5
+Yes,32,M,No,"Herndon, VA",No,Yes,No,No,24515,84.3,7.8,101872,9.5,90.5
+Yes,29,M,No,"Soddy-Daisy, TN",Yes,Yes,Yes,No,13289,84.2,10.7,42861,0.7,99.3
+Yes,39,M,No,"Twentynine Palms, CA",No,Yes,No,No,26097,89.9,17.9,41582,8.2,91.8
+Yes,16,M,No,"Salinas, CA",No,Yes,No,Yes,156512,59.5,20.2,49840,2.0,98.0
+Yes,40,M,No,"Watts, OK",No,Yes,No,No,314,73.6,53.1,22083,0.0,100.0
+Yes,19,M,Yes,"Gary, IN",No,Yes,Yes,No,76451,83.9,37.1,28020,84.8,15.200000000000003
+Yes,28,M,No,"Grand Forks, ND",No,Yes,No,No,56673,92.9,20.4,46149,2.0,98.0
+Yes,25,M,No,"Florissant, MO",Yes,Yes,No,No,51701,91.7,8.5,50767,26.8,73.2
+Yes,44,M,No,"Fritch, TX",No,Yes,Yes,No,2026,93.6,8.6,57880,0.2,99.8
+Yes,44,M,Yes,"Greenville, MS",No,Yes,No,No,31297,78.7,36.8,29206,78.0,22.0
+Yes,33,M,No,"Carson, CA",No,Yes,No,No,92506,79.6,10.9,72421,23.8,76.2
+Yes,52,M,No,"Brooklet, GA",No,Yes,Yes,No,1524,93.2,10.5,55185,11.5,88.5
+No,27,M,No,"Springfield, IL",Yes,Yes,No,Yes,116509,90.8,19.5,49868,18.5,81.5
+Yes,25,M,Yes,"Kenner, LA",Yes,Yes,No,No,66971,84.7,15.5,47527,24.0,76.0
+Yes,34,M,No,"Atascadero, CA",No,Yes,No,No,30133,92.6,11.0,66607,2.1,97.9
+Yes,32,M,No,"Kuna, ID",No,Yes,Yes,No,18273,92.9,13.2,57417,0.6,99.4
+Yes,37,M,No,"Oxford, AL",Yes,Yes,Yes,No,21362,83.5,11.7,51375,12.6,87.4
+Yes,54,M,Yes,"Southaven, MS",No,Yes,No,No,53295,88.4,11.4,58227,22.2,77.8
+Yes,41,M,No,"Southaven, MS",No,Yes,No,No,53295,88.4,11.4,58227,22.2,77.8
+Yes,25,M,No,"Alhambra, CA",Yes,Yes,No,Yes,84981,80.7,15.8,53582,1.5,98.5
+Yes,25,M,No,"Fort Stockton, TX",No,Yes,Yes,No,8434,72.3,10.3,49868,2.1,97.9
+Yes,17,M,Yes,"Des Moines, WA",No,Yes,No,No,31351,85.3,13.7,58057,9.1,90.9
+Yes,36,M,Yes,"Des Moines, WA",Yes,Yes,No,No,31351,85.3,13.7,58057,9.1,90.9
+Yes,50,M,Yes,"Kiowa, OK",No,Yes,No,No,692,82.5,19.9,35833,0.3,99.7
+Yes,36,M,No,"Lynnwood, WA",Yes,Yes,No,No,37719,88.3,16.0,50554,5.5,94.5
+Yes,31,M,Yes,"Highland, CA",No,Yes,Yes,No,54834,75.0,20.7,53851,11.1,88.9
+Yes,18,M,No,"Wichita Falls, TX",No,No,No,No,104097,85.3,19.8,44543,12.7,87.3
+Yes,57,M,No,"Orange Park, FL",No,Yes,No,No,8694,92.6,8.7,47548,14.8,85.2
+Yes,41,M,No,"Panhandle, TX",No,Yes,No,No,2359,94.9,11.0,73380,0.6,99.4
+Yes,22,M,Yes,"Rowland, NC",No,Yes,Yes,No,1022,77.1,36.2,21298,70.3,29.700000000000003
+Yes,38,M,No,"Grafton, WV",No,Yes,No,No,5100,84.8,20.1,34844,0.7,99.3
+Yes,26,M,No,"Forest Park, IL",No,Yes,Yes,No,14040,92.5,9.9,51927,32.3,67.7
+No,23,M,No,"Moultrie, GA",No,Yes,No,No,14016,72.3,36.0,25181,49.5,50.5
+Yes,56,M,No,"DeLand, FL",Yes,Yes,No,No,31237,87.4,20.6,39382,17.1,82.9
+Yes,45,M,No,"DeLand, FL",Yes,Yes,Yes,No,31237,87.4,20.6,39382,17.1,82.9
+Yes,41,M,Yes,"Englewood, OH",Yes,Yes,No,Yes,13469,93.4,10.2,55486,12.9,87.1
+Yes,50,M,Yes,"Commerce, CO",No,Yes,No,No,54536,80.1,15.6,66053,3.1,96.9
+Yes,52,M,No,"Santa Monica, CA",Yes,Yes,Yes,No,92115,95.3,11.3,76580,3.9,96.1
+Yes,51,M,No,"Richmond, KY",No,Yes,No,No,34562,86.2,31.9,30621,8.0,92.0
+Yes,29,M,No,"Brookville, IN",No,Yes,No,No,2542,85.4,16.0,38333,0.3,99.7
+Yes,34,M,No,"Anadarko, OK",No,Yes,No,No,6703,82.7,35.9,30567,4.7,95.3
+Yes,45,M,No,"Bethany, OK",No,Yes,No,No,19443,86.9,17.1,42644,5.6,94.4
+Yes,23,M,Yes,"Bridgeton, NJ",No,No,Yes,No,24749,61.5,32.0,36208,35.5,64.5
+Yes,36,M,No,"Terrell, TX",No,Yes,Yes,No,17442,76.2,21.4,38055,27.4,72.6
+Yes,26,M,No,"Santa Barbara, CA",Yes,Yes,Yes,No,91437,84.1,13.9,66107,1.6,98.4
+Yes,35,M,No,"Vincennes, IN",No,Yes,Yes,No,17585,85.4,23.9,35455,4.7,95.3
+Yes,33,M,No,"Cape Girardeau, MO",No,Yes,No,No,39206,88.7,25.9,40107,12.8,87.2
+Yes,55,M,No,"Newman, CA",No,Yes,No,No,11064,76.0,19.8,50225,2.3,97.7
+Yes,21,M,Yes,"Gardena, CA",No,Yes,Yes,No,59897,81.8,15.0,47674,24.4,75.6
+Yes,22,M,Yes,"Portland, ME",Yes,Yes,No,No,66794,92.5,19.7,46280,7.1,92.9
+Yes,33,M,No,"Bull Shoals, AR",No,Yes,No,No,1933,93.4,13.9,35737,0.1,99.9
+Yes,27,M,No,"St. Joseph, MO",No,Yes,No,No,76338,86.4,19.9,43298,6.0,94.0
+Yes,38,M,No,"Roy, UT",No,Yes,No,Yes,38770,90.7,12.1,62598,1.1,98.9
+Yes,41,M,Yes,"Conroe, TX",No,Yes,No,No,81066,75.0,19.3,47680,10.3,89.7
+Yes,25,M,No,"Conroe, TX",No,Yes,No,No,81066,75.0,19.3,47680,10.3,89.7
+Yes,33,M,No,"Newton, KS",No,Yes,No,No,18941,88.1,16.8,45266,2.2,97.8
+Yes,54,M,No,"Fairfax, OK",No,Yes,No,No,1310,83.8,25.9,31406,1.6,98.4
+Yes,30,M,No,"London, KY",Yes,Yes,No,No,8040,76.4,27.5,31178,1.7,98.3
+Yes,23,M,Yes,"Rocklin, CA",No,Yes,Yes,No,62722,95.8,8.6,80177,1.5,98.5
+Yes,39,M,No,"Lumpkin, GA",No,Yes,Yes,No,1183,75.2,36.3,24659,33.2,66.8
+Yes,27,M,No,"Shelby, NC",Yes,Yes,Yes,No,20024,85.1,29.0,34300,41.3,58.7
+Yes,40,M,Yes,"Lufkin, TX",No,Yes,No,Yes,35743,77.2,23.7,39890,27.4,72.6
+Yes,34,M,No,"San Marcos, CA",No,Yes,No,No,94582,81.4,16.0,57822,2.3,97.7
+Yes,32,M,No,"Englewood, CO",Yes,Yes,No,No,33916,88.1,16.5,47046,2.2,97.8
+Yes,25,M,No,"Lemoore, CA",No,Yes,No,No,25793,84.6,15.6,49623,6.4,93.6
+Yes,50,M,No,"Fountain Inn, SC",Yes,Yes,No,No,8436,90.8,13.0,47816,31.2,68.8
+Yes,36,M,No,"Medina, OH",No,Yes,Yes,No,26235,94.1,12.5,55370,3.1,96.9
+Yes,36,M,No,"Riverside, CA",No,Yes,No,No,323683,78.5,18.8,57196,7.0,93.0
+Yes,29,M,No,"Huntington Beach, CA",Yes,Yes,No,No,200625,92.4,9.4,83252,1.0,99.0
+Yes,40,M,No,"Escondido, CA",Yes,Yes,No,No,151036,73.6,18.7,50899,2.5,97.5
+Yes,51,M,No,"Midlothian, TX",No,Yes,No,No,27997,92.2,5.3,74881,3.6,96.4
+Yes,28,M,No,"Bellingham, WA",No,Yes,Yes,Yes,86994,92.7,23.0,43536,1.3,98.7
+Yes,23,M,Yes,"Euclid, OH",No,Yes,No,Yes,47466,88.7,20.9,35487,52.6,47.4
+Yes,36,M,No,"Fife, WA",No,Yes,No,No,10042,88.8,14.8,55603,8.2,91.8
+Yes,43,M,No,"Panama Beach, FL",No,Yes,No,No,12699,92.9,7.8,54406,2.3,97.7
+Yes,34,M,Yes,"Warren, MI",No,Yes,No,No,135244,84.1,19.7,43523,13.5,86.5
+Yes,59,F,No,"Lakeland, TN",Yes,Yes,No,No,12593,94.9,4.4,96964,9.4,90.6
+Yes,36,M,No,"Cedartown, GA",No,Yes,Yes,No,9927,62.5,31.0,26897,18.8,81.2
+Yes,19,M,No,"Cape Canaveral, FL",No,Yes,Yes,No,10319,93.4,13.4,44802,2.4,97.6
+Yes,42,M,No,"Booneville, KY",No,Yes,No,No,160,80.6,43.9,12083,0.0,100.0
+Yes,27,M,Yes,"Crowley, LA",No,Yes,No,No,12935,64.8,34.9,25607,32.5,67.5
+Yes,45,M,No,"Weston, WI",No,Yes,No,No,15097,91.4,15.5,49276,0.8,99.2
+Yes,42,M,Yes,"Sheridan, AR",No,Yes,Yes,No,4814,90.4,10.2,45966,1.6,98.4
+Yes,26,M,No,"Cisco, TX",No,Yes,Yes,No,3767,80.7,27.3,31009,3.4,96.6
+Yes,53,M,No,"Anderson, CA",No,Yes,No,No,10247,85.0,24.6,32536,0.7,99.3
+No,56,M,No,"Delray Beach, FL",Yes,No,No,No,67486,85.5,17.8,50136,28.0,72.0
+Yes,51,M,No,"Lewisburg, TN",No,Yes,No,No,11649,75.9,22.0,34201,13.7,86.3
+Yes,36,M,No,"Lafayette, IN",No,Yes,Yes,No,71738,85.6,19.8,40419,6.2,93.8
+Yes,73,M,No,"Manistee, MI",No,Yes,No,No,6075,92.2,19.0,36338,0.5,99.5
+Yes,41,M,No,"Stockton, IL",No,Yes,Yes,No,1768,94.1,16.1,37500,0.2,99.8
+Yes,59,M,No,"Byars, OK",No,Yes,Yes,No,269,70.3,25.3,25781,0.0,100.0
+Yes,28,M,Yes,"New Castle, DE",No,Yes,Yes,No,5153,88.8,13.7,56307,27.2,72.8
+Yes,45,M,No,"Lawrenceburg, KY",No,Yes,No,No,11263,87.9,11.8,51303,3.2,96.8
+Yes,27,M,No,"Whitewright, TX",No,Yes,Yes,No,1649,80.3,18.4,35938,8.3,91.7
+Yes,46,M,No,"Pendleton, SC",No,Yes,No,Yes,3172,79.1,32.3,24296,23.3,76.7
+Yes,19,M,No,"Goshen, IN",No,Yes,Yes,No,33419,76.0,22.6,41117,2.6,97.4
+Yes,39,M,Yes,"Westerville, OH",Yes,Yes,No,No,39230,96.8,6.7,82121,6.4,93.6
+Yes,49,M,Yes,"Largo, FL",No,Yes,No,No,83559,88.0,16.2,39468,5.6,94.4
+Yes,36,M,No,"Santa Paula, CA",No,Yes,No,No,30241,64.3,18.0,52824,0.5,99.5
+Yes,28,M,No,"Avondale, AZ",No,Yes,No,No,83318,79.0,18.6,55100,9.3,90.7
+Yes,44,M,No,"Avondale, AZ",No,Yes,No,No,83318,79.0,18.6,55100,9.3,90.7
+Yes,33,M,No,"Avondale, AZ",Yes,Yes,No,No,83318,79.0,18.6,55100,9.3,90.7
+Yes,25,M,No,"Udall, KS",No,Yes,Yes,No,725,87.8,17.4,45852,0.0,100.0
+Yes,24,M,No,"Mandan, ND",No,Yes,No,No,22084,91.8,9.3,59078,0.6,99.4
+Yes,33,M,Yes,"West Memphis, AR",No,Yes,No,No,25020,80.6,30.9,30627,63.5,36.5
+Yes,56,M,No,"Newport Beach, CA",No,Yes,No,No,86278,97.7,7.1,113071,0.7,99.3
+Yes,47,M,No,"Vadnais Heights, MN",No,Yes,No,No,13347,93.7,6.4,71518,3.6,96.4
+Yes,33,M,No,"Clarksville, TN",No,Yes,Yes,No,150075,92.2,17.4,46947,23.2,76.8
+Yes,25,M,No,"West Linn, OR",Yes,Yes,No,No,26599,98.1,4.8,85464,0.7,99.3
+Yes,43,M,No,"Yuba, CA",No,Yes,Yes,No,66305,78.3,18.5,50649,2.5,97.5
+Yes,39,M,Yes,"Portage, IN",Yes,Yes,No,No,36708,88.2,16.3,53730,7.3,92.7
+Yes,15,M,No,"Killeen, TX",No,Yes,No,No,142717,91.6,15.2,47763,34.1,65.9
+Yes,20,M,No,"Bellflower, CA",No,Yes,Yes,No,77567,77.6,17.9,48823,14.0,86.0
+Yes,26,M,Yes,"Middletown, DE",No,Yes,No,No,21056,93.3,5.4,84451,28.4,71.6
+Yes,25,M,No,"San Mateo, CA",No,Yes,No,No,104085,88.0,7.6,90208,2.4,97.6
+No,15,M,Yes,"Balch Springs, TX",No,No,No,Yes,25235,64.0,25.0,40230,24.3,75.7
+Yes,18,M,Yes,"Grand Rapids, MI",No,Yes,No,Yes,196916,85.1,26.0,40355,20.9,79.1
+Yes,67,M,No,"Peachtree, GA",Yes,Yes,No,No,35091,95.5,7.5,85420,7.4,92.6
+Yes,54,F,No,"Katy, TX",Yes,Yes,No,No,17106,84.1,8.4,70526,5.3,94.7
+No,26,M,No,"Buffalo, NY",No,Yes,Yes,No,257094,82.7,31.4,31918,38.6,61.4
+Yes,16,M,No,"Bridgeport, CT",No,No,Yes,No,146347,75.6,22.9,41801,34.6,65.4
+No,39,M,No,"Lexington, SC",No,Yes,Yes,No,20947,93.7,11.7,60376,12.7,87.3
+Yes,34,M,No,"Tiffin, OH",No,Yes,No,No,17590,88.9,19.9,37798,2.6,97.4
+Yes,46,M,No,"Jupiter, FL",No,Yes,Yes,No,63921,92.3,9.2,71233,1.5,98.5
+Yes,37,M,No,"West Allis, WI",No,Yes,Yes,No,60295,90.0,14.3,45221,3.6,96.4
+Yes,34,M,No,"Del Mar, CA",No,Yes,Yes,No,4339,98.8,3.5,107013,0.2,99.8
+Yes,48,M,No,"Wewoka, OK",No,Yes,No,No,3358,78.9,36.7,26605,15.9,84.1
+Yes,24,M,No,"Tustin, CA",Yes,Yes,No,No,80151,83.5,13.6,71897,2.3,97.7
+Yes,38,M,No,"Three Forks, MT",No,Yes,Yes,No,1981,90.9,8.6,51603,0.2,99.8
+Yes,33,M,Yes,"Appleton, WI",No,Yes,No,No,74356,92.3,11.9,53588,1.7,98.3
+No,24,M,Yes,"Converse, LA",No,Yes,No,No,436,78.3,17.5,24750,3.4,96.6
+Yes,36,M,No,"Mountain Home, ID",No,Yes,No,No,13929,88.6,18.0,46739,3.3,96.7
+No,24,M,No,"Canton, OH",Yes,Yes,No,Yes,71653,83.8,32.3,29418,24.2,75.8
+Yes,30,M,No,"Oneida, TN",No,Yes,Yes,No,3699,84.3,29.9,29786,0.0,100.0
+Yes,36,M,No,"Austell, GA",No,Yes,No,No,7033,84.2,17.2,47378,55.4,44.6
+Yes,22,M,Yes,"Cary, NC",No,Yes,No,No,162705,95.3,6.3,91579,8.0,92.0
+Yes,20,M,No,"Vacaville, CA",No,Yes,Yes,Yes,97941,88.4,10.7,74001,10.3,89.7
+Yes,24,M,No,"Hesperia, CA",No,Yes,No,No,93459,77.2,24.8,44874,5.8,94.2
+Yes,17,M,No,"Centennial, CO",No,Yes,Yes,No,109748,97.6,5.0,91941,3.3,96.7
+Yes,29,M,Yes,"Abbeville, AL",No,Yes,No,No,2586,69.1,29.1,25615,41.4,58.6
+No,34,M,Yes,"Petal, MS",No,No,No,No,10580,88.5,11.8,53169,9.9,90.1
+Yes,27,M,No,"Callahan, FL",No,Yes,No,No,1251,81.2,27.6,25641,7.0,93.0
+Yes,45,M,No,"Bardstown, KY",No,Yes,Yes,No,13043,85.6,24.4,35825,12.4,87.6
+No,75,M,No,"Hudson, NC",Yes,No,No,No,3699,88.0,14.1,44196,1.9,98.1
+Yes,58,M,No,"Roland, OK",Yes,Yes,No,No,3666,80.4,30.3,33095,5.1,94.9
+Yes,44,M,No,"Lyons, IL",No,Yes,Yes,No,10650,83.1,15.2,44534,4.2,95.8
+Yes,53,M,No,"North English, IA",No,Yes,No,No,1017,91.4,18.9,46625,0.3,99.7
+Yes,60,M,No,"Abilene, TX",Yes,Yes,No,No,121925,83.5,19.1,43189,9.6,90.4
+Yes,45,M,No,"Selma, CA",No,Yes,No,No,24606,62.0,24.3,42948,1.2,98.8
+Yes,63,M,No,"Plano, TX",No,Yes,No,No,286290,93.5,7.5,83793,7.6,92.4
+Yes,24,M,No,"Jerseyville, IL",No,Yes,Yes,No,8305,90.6,6.4,50232,0.2,99.8
+Yes,66,M,No,"Alexandria, VA",No,Yes,No,No,156522,91.5,8.3,89134,21.8,78.2
+Yes,54,M,No,"Somerville, TN",Yes,Yes,No,No,3217,79.8,33.3,29667,44.3,55.7
+Yes,41,M,No,"Water Valley, MS",No,Yes,Yes,No,3344,77.3,26.5,30218,42.2,57.8
+No,24,F,No,"Water Valley, MS",No,No,Yes,No,3344,77.3,26.5,30218,42.2,57.8
+Yes,32,M,No,"Madera, CA",Yes,Yes,No,No,64273,58.2,27.6,40457,3.4,96.6
+Yes,28,F,No,"Montebello, CA",No,Yes,No,No,63112,71.7,14.0,45875,0.9,99.1
+Yes,64,M,No,"Waukesha, WI",Yes,Yes,No,No,72432,92.7,11.3,59547,2.3,97.7
+Yes,40,M,No,"Franklin, TN",No,Yes,Yes,No,75178,94.5,6.9,85671,6.7,93.3
+Yes,50,M,No,"Lehigh, KS",Yes,Yes,No,No,170,96.5,7.7,65625,0.0,100.0
+Yes,33,M,No,"Nevada, MO",No,No,Yes,No,8248,85.6,27.1,28683,1.1,98.9
+Yes,37,M,No,"Millerton, OK",No,Yes,No,No,319,79.4,29.3,26964,3.1,96.9
+Yes,37,M,No,"Florence, OR",Yes,Yes,Yes,No,8792,91.2,14.2,33950,0.3,99.7
+Yes,23,M,No,"Marietta, GA",No,Yes,No,No,60401,86.3,20.2,44953,31.5,68.5
+No,33,M,Yes,"Marietta, GA",Yes,No,No,No,60401,86.3,20.2,44953,31.5,68.5
+Yes,36,M,No,"Fishers, IN",Yes,Yes,No,No,90024,97.4,3.2,95487,5.6,94.4
+Yes,36,M,No,"Federal Heights, CO",No,No,No,No,12679,72.9,19.0,36800,1.3,98.7
+Yes,36,M,Yes,"Vandalia, OH",No,Yes,No,No,15065,91.6,9.7,53732,4.1,95.9
+Yes,32,M,No,"Centerville, UT",Yes,No,Yes,No,17221,97.4,4.5,78438,0.4,99.6
+Yes,46,M,No,"Richland, WA",No,Yes,No,No,55388,95.4,10.6,67483,1.4,98.6
+No,53,M,No,"Maeystown, IL",No,No,No,No,162,93.8,13.2,50417,0.0,100.0
+Yes,45,M,No,"Sallisaw, OK",No,Yes,No,No,8630,82.3,28.5,29602,1.6,98.4
+Yes,35,M,No,"Plant, FL",No,Yes,Yes,No,38614,81.0,17.0,45083,15.1,84.9
+No,27,M,No,"Mamou, LA",No,No,No,No,3183,60.6,41.1,19297,43.0,57.0
+Yes,22,M,No,"Lacey, WA",Yes,Yes,No,No,47671,93.6,9.9,59407,5.4,94.6
+Yes,36,M,No,"Crescent, FL",Yes,Yes,No,No,1513,71.0,37.0,26202,30.8,69.2
+Yes,50,F,No,"Newton Grove, NC",No,Yes,No,No,566,80.0,15.8,32292,10.7,89.3
+Yes,34,M,No,"Bainbridge Island, WA",No,Yes,No,No,24106,98.4,5.4,101689,0.4,99.6
+Yes,39,M,No,"North Branch, MN",No,Yes,Yes,No,10309,94.7,6.4,67122,0.5,99.5
+Yes,48,M,No,"Poplar Bluff, MO",No,Yes,No,No,17068,80.5,27.7,29536,10.0,90.0
+No,47,M,Yes,"Leavenworth, KS",No,No,No,No,36071,90.8,16.4,52785,15.1,84.9
+No,40,M,No,"Lake View, SC",No,No,No,No,769,82.4,22.4,28375,33.0,67.0
+Yes,36,M,No,"Grover Beach, CA",No,Yes,No,No,13566,85.9,13.8,54228,1.1,98.9
+Yes,55,M,No,"Pima, AZ",No,No,No,No,2499,87.8,22.5,47277,0.4,99.6
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,8.8,70323,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,8.8,70323,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,8.8,22361,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,8.8,22361,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,52.1,70323,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,52.1,70323,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,52.1,22361,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,92.1,52.1,22361,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,8.8,70323,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,8.8,70323,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,8.8,22361,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,8.8,22361,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,52.1,70323,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,52.1,70323,0.9,99.1
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,52.1,22361,6.7,93.3
+Yes,42,M,No,"Goodyear, AZ",No,Yes,No,No,77391,78.0,52.1,22361,0.9,99.1
+Yes,43,M,No,"Culpeper, VA",No,Yes,Yes,No,18087,82.1,13.6,57551,21.9,78.1
+Yes,32,M,No,"Clay, AL",No,Yes,No,No,9888,92.2,6.6,68717,13.3,86.7
+Yes,70,M,No,"Springfield, OR",Yes,Yes,No,No,61447,86.2,21.5,39729,1.1,98.9
+No,38,M,No,"Saginaw, MI",No,Yes,No,No,48943,78.4,35.9,27990,46.1,53.9
+Yes,52,M,No,"Neosho, MO",No,Yes,No,No,11981,80.6,20.2,36266,1.0,99.0
+No,16,M,Yes,"Marion, AR",No,No,No,No,12451,89.3,10.9,61669,28.0,72.0
+Yes,62,F,No,"Vero Beach, FL",Yes,Yes,No,No,16542,89.2,19.9,39182,4.8,95.2
+Yes,39,M,Yes,"Homer, LA",No,Yes,Yes,No,2955,79.0,40.0,27050,64.3,35.7
+Yes,25,M,No,"Avenal, CA",No,Yes,No,No,12692,48.8,36.4,32432,10.5,89.5
+Yes,31,M,No,"Wenatchee, WA",No,Yes,No,No,34129,81.4,14.0,46865,0.4,99.6
+Yes,36,M,No,"Chowchilla, CA",No,Yes,No,No,18342,68.3,32.1,34559,12.6,87.4
+Yes,48,M,No,"Melba, ID",No,Yes,Yes,No,535,90.4,16.4,41154,0.2,99.8
+Yes,28,M,Yes,"Oshkosh, WI",No,Yes,Yes,Yes,66674,89.3,17.9,42650,3.1,96.9
